@@ -1,5 +1,47 @@
 # 🧠 Fiche mémo — Outlook (cours) : “où cliquer” pour refaire les manips
 
+
+
+
+## 🖊️ Signatures (création + défaut)
+
+- 📍 **Outlook** → **Fichier** → **Options** → **Courrier** → **Signatures…**
+
+<p align="right">
+  <img
+    src="https://github.com/user-attachments/assets/0bceeecf-b5c1-48bc-9850-c4c6302cb5e7"
+    alt="Outlook > Options > Courrier > Signatures"
+    width="360"
+    align="right"
+  /><br/>
+  <sub>🔎 Aperçu rapide (réduit)</sub>
+</p>
+
+<details>
+  <summary><sub>Afficher en grand</sub></summary>
+  <br/>
+  <img
+    src="https://github.com/user-attachments/assets/0bceeecf-b5c1-48bc-9850-c4c6302cb5e7"
+    alt="Outlook > Options > Courrier > Signatures (grand)"
+    width="900"
+  />
+</details>
+## 🖊️ Signatures (création + défaut)
+
+- 📍 **Outlook** → **Fichier** → **Options** → **Courrier** → **Signatures…**
+
+<p align="right">
+  <a href="https://github.com/user-attachments/assets/0bceeecf-b5c1-48bc-9850-c4c6302cb5e7" title="Clique pour agrandir">
+    <img
+      src="https://github.com/user-attachments/assets/0bceeecf-b5c1-48bc-9850-c4c6302cb5e7"
+      alt="Outlook > Options > Courrier > Signatures"
+      width="420"
+      align="right"
+    />
+  </a><br/>
+  <sub>🖱️ Clique sur l’image pour l’ouvrir en grand</sub>
+</p>
+
 ## 🖊️ Signatures (création + défaut)
 
 * 📍 **Outlook** → **Fichier** → **Options** → **Courrier** → **Signatures…**
