@@ -15,7 +15,7 @@
       </ul>
       <sub>🖱️ Clique sur l’image pour l’ouvrir en grand</sub>
     </td>
-    <td valign="top" style="text-align:right;" width="45%">
+    <td valign="top" style="text-align:right;" width="65%">
       <a href="https://github.com/user-attachments/assets/0bceeecf-b5c1-48bc-9850-c4c6302cb5e7" title="Clique pour agrandir">
         <img
           src="https://github.com/user-attachments/assets/0bceeecf-b5c1-48bc-9850-c4c6302cb5e7"
