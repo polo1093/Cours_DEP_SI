@@ -3,11 +3,6 @@
 ## 🖊️ Signatures (création + défaut)
 
 * 📍 **Outlook** → **Fichier** → **Options** → **Courrier** → **Signatures…**
-* ➕ **Nouveau** → nommer (ex. `Logiciels-1`)
-* 🧩 Mise en forme dans l’éditeur (police / taille / gras / italique)
-* 🖼️ Logo : dans l’éditeur de signature → icône **Image** (insérer depuis fichier)
-* ✅ Signature par défaut : dans la fenêtre **Signatures** →
-  **Choisir la signature par défaut** (Nouveaux messages / Réponses-transferts)
 <img width="2067" height="1296" alt="image" src="https://github.com/user-attachments/assets/0bceeecf-b5c1-48bc-9850-c4c6302cb5e7" />
 
 ---
