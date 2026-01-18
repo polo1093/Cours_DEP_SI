@@ -8,14 +8,11 @@
     <td valign="top" width="55%">
       <ul>
         <li>📍 <b>Outlook</b><br/>→ <b>Fichier</b><br/>→ <b>Options</b><br/>→ <b>Courrier</b><br/>→ <b>Signatures…</b></li>
-        <li>➕ <b>Nouveau</b> → nommer (ex. <code>Logiciels-1</code>)</li>
-        <li>🧩 Appliquer <b>police / taille / styles</b> dans l’éditeur</li>
-        <li>🖼️ Logo : bouton <b>Image</b> (insérer depuis fichier)</li>
-        <li>✅ Définir <b>par défaut</b> : Nouveaux messages / Réponses-transferts</li>
+        
       </ul>
       <sub>🖱️ Clique sur l’image pour l’ouvrir en grand</sub>
     </td>
-    <td valign="top" style="text-align:right;" width="65%">
+    <td valign="top" style="text-align:right;" width="45%">
       <a href="https://github.com/user-attachments/assets/0bceeecf-b5c1-48bc-9850-c4c6302cb5e7" title="Clique pour agrandir">
         <img
           src="https://github.com/user-attachments/assets/0bceeecf-b5c1-48bc-9850-c4c6302cb5e7"
