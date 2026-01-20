@@ -29,17 +29,10 @@
 
 <hr/>
 
-<!-- ===================== 2) CONTACTS ===================== -->
-## 👥 Contacts
-
-- 📍 Barre de navigation → <b>Personnes</b>
-- ➕ Créer : <b>Nouveau contact</b>
-- ✏️ Modifier : double-clic sur le contact
-
-<hr/>
 
 <!-- ===================== 3) GROUPE DE CONTACTS ===================== -->
 ## 👪 Groupe de contacts
+<img width="979" height="719" alt="image" src="https://github.com/user-attachments/assets/3a1ce36a-6b95-4c29-a0e8-865e14ba7852" />
 
 - 📍 <b>Personnes</b> → <b>Nouveau groupe de contacts</b>
 - ➕ Membres : <b>Ajouter des membres</b> → <b>Contacts Outlook</b>
@@ -49,6 +42,7 @@
 
 <!-- ===================== 4) MODELE OFT ===================== -->
 ## 🧾 Modèle (.oft)
+<img width="2552" height="620" alt="image" src="https://github.com/user-attachments/assets/12130428-77cb-4702-aa0c-b835d3f2451c" />
 
 - 📍 <b>Accueil</b> → <b>Nouveau courriel</b>
 - 📍 <b>Fichier</b> → <b>Enregistrer sous</b> → type <b>Modèle Outlook (*.oft)</b>
