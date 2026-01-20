@@ -104,3 +104,5 @@
 ---
 
 ✅ **Stop ici (avant la partie “Windows 11”).**
+
+rajout protentiel gest ion ordi pr les droits utilisateur
