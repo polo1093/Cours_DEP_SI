@@ -385,5 +385,7 @@ Investissement VF( taux/12; nbr d annee * 12; montant)
 Emprunt VA(taux/12; nbr d annee * 12; montant)
 
 
+Power point 
+changer le théme de "fond"<img width="1345" height="496" alt="image" src="https://github.com/user-attachments/assets/184b7707-23e7-4713-aa83-8e77580460c3" />
 
 
