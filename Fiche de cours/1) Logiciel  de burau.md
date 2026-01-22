@@ -380,6 +380,10 @@ nbval fct
 
 Format des cellules scren <img width="2260" height="880" alt="image" src="https://github.com/user-attachments/assets/d8b57bc3-7690-4dc2-8519-de38950ecd4b" />
 
+dans fct financiere
+Investissement VF( taux/12; nbr d annee * 12; montant)
+Emprunt VA(taux/12; nbr d annee * 12; montant)
+
 
 
 
