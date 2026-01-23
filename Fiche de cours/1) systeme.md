@@ -101,8 +101,78 @@
 * 🚀 Machine **UEFI (moderne)** → schéma **GPT** + cible **UEFI**
 * 💾 Système de fichiers : **NTFS** (cas standard) 
 
+Voici les **2 blocs à ajouter** à ton mémo (copier-coller). 👇
+
 ---
 
-✅ **Stop ici (avant la partie “Windows 11”).**
+## 9) Gestion de l’ordinateur — droits utilisateur & groupes (Windows) 🛡️
+
+### 🧭 Outils à connaître
+
+* **Gestion de l’ordinateur** : `compmgmt.msc` (Win+R)
+* **Utilisateurs et groupes locaux** : `lusrmgr.msc` (Win+R) 
+* **Panneau de configuration → Comptes d’utilisateurs** : création simple (admin vs limité) 
+
+### ⚠️ Windows Home vs Pro (impact admin)
+
+* Sur **Windows Familiale**, l’outil **Gestion de l’ordinateur** ne permet pas de gérer les utilisateurs (fonctionnalité absente/bridée) 
+* Sur **Windows Pro**, tu peux gérer **groupes locaux** + rôles plus fins (ex. **Opérateur de sauvegarde**) 
+
+### 👥 Groupes locaux (RBAC “light”)
+
+Exemples de groupes (selon besoins) : **Administrateurs**, **Utilisateurs**, **Invités**, **Opérateurs de configuration réseau**, **Opérateur de sauvegarde**, **Utilisateurs du Bureau à distance**, etc. 
+➡️ Pour voir la définition/descriptions : **Gestion de l’ordinateur → Outils système → Utilisateurs et groupes locaux → Groupes** 
+
+### 🧬 Point critique : SID ≠ nom d’utilisateur
+
+* Un compte est associé à un **SID** (identifiant sécurité).
+* Si tu supprimes un utilisateur puis recrées le “même nom”, **c’est un autre compte** (SID différent) → effets sur permissions NTFS/accès 
+
+### 🔐 Droits sur fichiers/dossiers : NTFS obligatoire
+
+* Les **droits d’accès**, **quotas** et **audit** reposent sur **NTFS** (FAT32/exFAT ne gèrent pas ces mécanismes au même niveau) 
+
+### ✅ Workflow “propre” (poste local)
+
+1. Créer l’utilisateur (Panneau de config / `lusrmgr.msc`) 
+2. L’affecter à un **groupe local** adapté (principe du moindre privilège) 
+3. Appliquer les **permissions NTFS** sur le dossier cible (Propriétés → Sécurité → Avancé : héritage/propagation)
+4. Si besoin : activer **audit** (journalisation) côté stratégie de sécurité + événements
+
+---
+
+## 10) Windows 11 — mémo express 🪟
+
+### 🧩 Pré-requis (focus compatibilité)
+
+Recommandé : CPU 64-bit (≥2 cœurs), **8 Go RAM**, **SSD 128 Go+**, **UEFI + Secure Boot**, **TPM 2.0**, GPU DirectX 12/WDDM 2.0+, écran 1080p+, Internet. 
+⚠️ **Compte Microsoft** requis pour certaines fonctionnalités / configuration initiale (selon édition/scénario) 
+
+### 🧾 Éditions principales
+
+Home, Pro, Pro for Workstations, Enterprise (et aussi Éducation, etc.) 
+
+### 🧭 UI / ergonomie : ce qui change vite
+
+* **Barre des tâches** modernisée, icônes/menus simplifiés, notifications + calendrier à droite 
+* Paramétrage : clic droit barre des tâches → **Paramètres de la barre des tâches** 
+* Gestion : éléments (Recherche/Widgets/Tâches), icônes angle, overflow, comportements (alignement centré/gauche, auto-masquage, multi-écrans) 
+* Raccourci utile : afficher le bureau ≈ **Win + D** 
+
+### 🆕 “Nouvelles” fonctionnalités (axes)
+
+Windows 11 vise : **moderniser l’UI**, **favoriser la productivité**, **faciliter la communication** 
+Exemples : UI repensée (coins arrondis, animations), explorateur/menus simplifiés, barre des tâches centrée 
+
+### 📌 Épingler/Détacher une app (barre des tâches)
+
+* Démarrer → clic droit app → **Plus** → **Épingler à la barre des tâches** 
+* Pour retirer : clic droit icône → **Détacher** 
+
+### 🧯 Mode sans échec (rappel)
+
+* Chemin très proche de Windows 10 ; sur Windows 11, l’accès “Démarrage avancé” passe par les options de récupération côté **Système** 
+
+
 
 rajout protentiel gest ion ordi pr les droits utilisateur
