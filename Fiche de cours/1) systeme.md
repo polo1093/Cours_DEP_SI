@@ -93,26 +93,12 @@ Exemples de groupes (selon besoins) : **Administrateurs**, **Utilisateurs**, **I
 Recommandé : CPU 64-bit (≥2 cœurs), **8 Go RAM**, **SSD 128 Go+**, **UEFI + Secure Boot**, **TPM 2.0**, GPU DirectX 12/WDDM 2.0+, écran 1080p+, Internet. 
 ⚠️ **Compte Microsoft** requis pour certaines fonctionnalités / configuration initiale (selon édition/scénario) 
 
-### 🧾 Éditions principales
 
-Home, Pro, Pro for Workstations, Enterprise (et aussi Éducation, etc.) 
+🧩 11) Activer .NET Framework 3.5 (Windows 10)
+✅ Méthode UI (la plus simple)
 
-### 🧭 UI / ergonomie : ce qui change vite
+Panneau de configuration → Programmes → Activer ou désactiver des fonctionnalités Windows
 
-* **Barre des tâches** modernisée, icônes/menus simplifiés, notifications + calendrier à droite 
-* Paramétrage : clic droit barre des tâches → **Paramètres de la barre des tâches** 
-* Gestion : éléments (Recherche/Widgets/Tâches), icônes angle, overflow, comportements (alignement centré/gauche, auto-masquage, multi-écrans) 
-* Raccourci utile : afficher le bureau ≈ **Win + D** 
-
-### 📌 Épingler/Détacher une app (barre des tâches)
-
-* Démarrer → clic droit app → **Plus** → **Épingler à la barre des tâches** 
-* Pour retirer : clic droit icône → **Détacher** 
-
-### 🧯 Mode sans échec (rappel)
-
-* Chemin très proche de Windows 10 ; sur Windows 11, l’accès “Démarrage avancé” passe par les options de récupération côté **Système** 
-
-
+Cocher .NET Framework 3.5 (inclut 2.0 et 3.0) → OK
 
 rajout protentiel gest ion ordi pr les droits utilisateur
