@@ -389,3 +389,53 @@ Power point
 changer le théme de "fond"<img width="1345" height="496" alt="image" src="https://github.com/user-attachments/assets/184b7707-23e7-4713-aa83-8e77580460c3" />
 
 
+✅ TODO — Mise en page + Schémas + .NET / SyncToy
+🧾 1) Mettre le format Lettre US (8.5" × 11")
+🟦 Word
+
+Disposition (Layout) → Taille (Size) → Lettre (8.5" × 11")
+
+Optionnel : Marges → choisir un preset (Normal/Étroit) selon la consigne
+
+🟨 Visio
+
+Conception (Design) → Taille (Size) → Plus de tailles de page… → Lettre
+
+Ou : Fichier → Mise en page (Page Setup) → Taille de page → Lettre
+
+🟩 draw.io / diagrams.net
+
+Ouvre le panneau Format (souvent à droite) → onglet Page
+
+Paper size / Taille papier → Letter (US)
+
+Ajuste : Orientation (Portrait/Paysage) + Margins si dispo
+(Alternative fréquente : File → Page Setup → Letter)
+
+📐 2) Lignes bien droites + alignements propres (draw.io / Visio)
+🔧 Lignes droites (raccourcis)
+
+Maintenir Shift pendant le tracé → contraint à horizontal / vertical / 45°
+
+Utiliser les connecteurs (liaisons) plutôt que des lignes “libres” si c’est un schéma réseau / organigramme
+
+🧲 Grille + aimantation (indispensable)
+
+Activer Grid / Grille
+
+Activer Snap to grid / Aimantation à la grille
+
+Activer Snap to guides / Repères (si dispo)
+
+📏 Align / Distribute (pour un rendu “propre”)
+
+Sélection multiple → Aligner : gauche / centre / droite / haut / milieu / bas
+
+Puis Distribuer : horizontalement / verticalement (espacements réguliers)
+
+🧱 Visio (bonus “pro”)
+
+Affichage (View) → Snap & Glue (ou équivalent) → activer “snap”
+
+Home → Arrange → Align / Position / Distribute
+
