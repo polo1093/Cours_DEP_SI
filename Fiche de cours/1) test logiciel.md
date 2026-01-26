@@ -1,10 +1,4 @@
-OK 👍 Je te refais la **fiche de révision** en mode “**comme la 1ère image**” : **texte à gauche**, **capture à droite (alignée droite)**, **images bien grandes**, et **SANS Outlook** (vu que tu n’as que **Word / Excel / Visio**).
-
-> 📌 Note : tu peux copier-coller tel quel dans Word (ça garde en général les tableaux + images). Si une image est trop petite, tu me le dis et je te donne une règle simple (ex. `width="1100"` ou `style="max-width:100%"`).
-
----
-
-# 🧠 Fiche mémo — Word / Excel / Visio (cours) : “où cliquer” (version courte)
+# 🧠 Fiche mémo — Word / Excel / Visio (cours) : 
 
 ---
 
@@ -56,23 +50,13 @@ OK 👍 Je te refais la **fiche de révision** en mode “**comme la 1ère image
 
 <hr/>
 
-## 🟦 WORD — Tabulations (aligner une année à droite)
-
-* 📍 **Accueil** → (flèche **Paragraphe**) → **Tabulations…**
-
-  * Position : **16 cm**
-  * Alignement : **Droite**
-  * **Définir** → OK
-
-<hr/>
-
 ## 🟦 WORD — Tableaux (styles, tri, colonnes égales, en-tête répété)
 
 * 📍 **Insertion** → **Tableau**
 * 📍 Style “1 ligne sur 2” : **Création de tableau** → **Styles** (lignes en bande)
-* 📍 Trier : **Disposition (Outils de tableau)** → **Trier**
+* 📍 Trier : **Disposition (Outils de tableau)** → **Trier** <img width="1200" height="579" alt="image" src="https://github.com/user-attachments/assets/15ffd605-1e46-478f-9c67-471855479312" />
 * 📍 Colonnes égales : **Disposition** → **Distribuer les colonnes**
-* 📍 Répéter ligne de titres : sélectionner la 1re ligne → **Disposition** → **Répéter les lignes d’en-tête**
+* 📍 Répéter ligne de titres : sélectionner la 1re ligne → **Disposition** → **Répéter les lignes d’en-tête**<img width="1086" height="465" alt="image" src="https://github.com/user-attachments/assets/f9302d61-e6e1-46e6-9510-ccdf9cbd15e2" />
 * 📍 Centrer le tableau : clic droit → **Propriétés du tableau** → Alignement **Centré**
 
 <hr/>
@@ -162,7 +146,7 @@ OK 👍 Je te refais la **fiche de révision** en mode “**comme la 1ère image
       </ul>
     </td>
     <td valign="top" width="60%" align="right">
-      <img src="https://github.com/user-attachments/assets/d7d88804-40b3-9fc9-8459d5edd6e4" alt="Centrer sur la page" width="900"/>
+      <img src="https://github.com/user-attachments/assets/9db8382c-5325-4ea9-9541-8be81f1bd83d" alt="Centrer sur la page" width="900"/>
     </td>
   </tr>
 </table>
@@ -221,35 +205,3 @@ OK 👍 Je te refais la **fiche de révision** en mode “**comme la 1ère image
 * 📍 **Home** → **Arrange** → **Align / Position / Distribute**
 * ⌨️ Astuce : maintenir **Shift** pour lignes parfaitement droites (selon connecteur)
 
----
-
-## ✅ TODO — Mise en page + schémas (Word / Excel / Visio / draw.io)
-
-### 🟦 Word — Format Lettre US
-
-* **Disposition** → **Taille** → **Lettre (8.5" × 11")**
-
-### 🟨 Visio — Format Lettre US
-
-* **Conception** → **Taille** → **Lettre**
-
-### 🟩 draw.io / diagrams.net — Format Lettre US
-
-* Panneau **Format** (Page) → **Paper size : Letter (US)**
-* Activer : **Grid** + **Snap** + **Guides**
-* **Align / Distribute** pour espacement régulier
-
----
-
-### ⚠️ Partie PowerPoint
-
-Tu as écrit une note PowerPoint (“changer le thème de fond”), mais tu m’as dit ne pas l’avoir.
-➡️ Je l’ai **retirée** pour éviter de polluer la fiche. Si finalement tu as PowerPoint 365 à l’école, je la remets en section dédiée.
-
----
-
-Si tu veux que ça soit **100% identique à ta “première image”**, envoie-moi juste la capture du **layout cible** (celle où tu dis “comme la première image”) et je cale :
-
-* tailles d’images (ex. 900 / 1100),
-* proportions colonnes (35/65 ou 40/60),
-* alignements exacts + suppression des éléments inutiles.
