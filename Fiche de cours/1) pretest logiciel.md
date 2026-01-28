@@ -27,33 +27,6 @@
 
 ---
 
-## 🟨 EXCEL — Déplacer une colonne + bordures spécifiques
-
-<table>
-  <tr>
-    <td valign="top" width="42%">
-      <ul>
-        <li>↔️ <b>Déplacer une colonne</b> (ex : “Autres frais de transport”)</li>
-        <li>1) Sélectionner la colonne (lettre en haut)</li>
-        <li>2) <b>Ctrl + X</b> (Couper)</li>
-        <li>3) Clic droit sur la colonne cible → <b>Insérer les cellules coupées</b></li>
-      </ul>
-      <hr/>
-      <ul>
-        <li>🧱 <b>Bordure inférieure simple</b> / <b>double</b></li>
-        <li>📍 Accueil → Bordures ▼ → <b>Autres bordures…</b></li>
-        <li>Choisir <b>Style</b> (simple/double) → appliquer <b>Bas</b></li>
-      </ul>
-    </td>
-    <td valign="top" width="58%" align="right">
-      <!-- <img src="URL" alt="Déplacer colonne + bordures" width="900"/> -->
-    </td>
-  </tr>
-</table>
-
-<hr/>
-
----
 
 ## 🟨 EXCEL — Impression : 2 versions (mise à l’échelle + sauts de page + titres)
 
