@@ -1,80 +1,9 @@
-Voici une **fiche BONUS (non redondante)**, **uniquement Word / Excel / Visio**, calibrée sur **ce prétest Logitell**. Tu peux la **coller à la suite** de ton `.md`.
-*(J’ignore volontairement Outlook / PowerPoint / Draw.io / Access.)*
 
----
 
 # 🧩 BONUS — Prétest Logitell (Word / Excel / Visio)
 
----
 
-## 🟨 EXCEL — Formules “examen” (références $ + ARRONDI + erreurs)
 
-<table>
-  <tr>
-    <td valign="top" width="42%">
-      <ul>
-        <li>🔒 <b>Référence absolue</b> (bloquer une cellule) : <code>$B$4</code></li>
-        <li>⌨️ Touche rapide : <b>F4</b> (cycle : B4 → $B$4 → B$4 → $B4)</li>
-        <li>🎯 Objectif : copier une formule sans casser la référence au taux / paramètre</li>
-      </ul>
-      <hr/>
-      <ul>
-        <li>🚗 <b>Frais auto</b> (exemple type)</li>
-        <li><code>=ARRONDI(Cellule_km*$B$4;2)</code></li>
-        <li>➡️ Puis recopier sur toute la colonne</li>
-      </ul>
-      <hr/>
-      <ul>
-        <li>🧮 <b>Total par employé</b> (erreur classique)</li>
-        <li>✅ La somme doit couvrir <b>uniquement</b> les colonnes de frais</li>
-        <li>❌ Ne pas inclure la cellule Total elle-même (cercle / mauvais range)</li>
-        <li>Ex : <code>=SOMME(C8:H8)</code> puis recopier</li>
-      </ul>
-    </td>
-    <td valign="top" width="58%" align="right">
-      <!-- Ajoute tes captures ici -->
-      <!-- <img src="URL" alt="ARRONDI + références absolues" width="900"/> -->
-    </td>
-  </tr>
-</table>
-
-<hr/>
-
----
-
-## 🟨 EXCEL — Moyenne / Max + arrondis (ligne de stats)
-
-<table>
-  <tr>
-    <td valign="top" width="42%">
-      <ul>
-        <li>📊 <b>Moyenne</b> d’une colonne</li>
-        <li>Formule : <code>=MOYENNE(plage)</code></li>
-        <li>Avec arrondi 2 décimales : <code>=ARRONDI(MOYENNE(plage);2)</code></li>
-      </ul>
-      <hr/>
-      <ul>
-        <li>📈 <b>Plus élevé</b> (max)</li>
-        <li><code>=MAX(plage)</code></li>
-        <li>➡️ Copier vers les autres colonnes si demandé</li>
-      </ul>
-      <hr/>
-      <ul>
-        <li>🛠️ <b>Pourquoi j’ai des erreurs (#DIV/0!, #VALEUR!, #NOM?)</b></li>
-        <li>✅ Plage de calcul qui inclut du texte / des cellules vides / mauvaise référence</li>
-        <li>✅ Copie d’une formule sans verrouillage <code>$</code></li>
-        <li>✅ Total qui somme la cellule Total (boucle)</li>
-      </ul>
-    </td>
-    <td valign="top" width="58%" align="right">
-      <!-- <img src="URL" alt="Statistiques: moyenne / max" width="900"/> -->
-    </td>
-  </tr>
-</table>
-
-<hr/>
-
----
 
 ## 🟨 EXCEL — Formats de nombres “au cordeau” (ce qui fait perdre des points)
 
