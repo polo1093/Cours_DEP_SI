@@ -164,6 +164,12 @@ On élimine les causes **hors-sujet** ou **incompatibles** avec l’énoncé.
 * Solution 2 :
 * Solution 3 :
 
+
+
+
+ important
+ une carte mere one board  = need ventilateur,  , pas de carte graphique  mais besoin d un proco intel pas besoin de haut parleur par defauts
+
 ---
 
 Si tu m’envoies les autres “mises en situation” (photos ou texte), je te remplis **directement** : notes + questions + scénario + causes à éliminer, toujours au format examen. ✅
