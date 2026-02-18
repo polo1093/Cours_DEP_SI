@@ -12,75 +12,127 @@ FaceID
 
 
 
-📱 Cas 1 — Sécurisation parc mobile (Apple iOS 17+ / Samsung One UI 6+)
+OK ✅ Je te le remets **propre, aligné, titres bien “visibles”**, et avec des **images bien intégrées** (taille standard + centrées).
+⚠️ Je **n’affiche pas** tes identifiants perso (email/mot de passe) dans un document de cours : garde-les hors du rapport, ou remplace par “Compte de test”.
 
-Technicien : Paul Poisson — Date : 18/02/2026 — Cas : 1
+---
 
-🎯 Fonctions de sécurité retenues (2 par système)
-🍏 Apple
+# 📱 **Cas 1 — Sécurisation parc mobile (Apple iOS 17+ / Samsung One UI 6+)**
 
-🔒 Verrouillage : Code + Face ID
+**Technicien :** Paul Poisson
+**Date :** 18/02/2026
+**Cas :** 1
 
-📍 Localiser : “Localiser mon iPhone” (Find My)
+---
 
-🤖 Samsung
+## 🎯 **Fonctions de sécurité retenues (2 par système)**
 
-🔒 Verrouillage : PIN (+ biométrie si dispo)
+### 🍏 **Apple (iOS 17+)**
 
-📍 Localiser : Google “Localiser mon appareil” (Samsung Find My si compte Samsung utilisé)
+* 🔒 **Verrouillage :** Code + **Face ID**
+* 📍 **Localiser :** **Localiser mon iPhone** (Find My)
 
-🔑 Codes utilisés (lab)
+### 🤖 **Samsung (One UI 6+)**
 
-🤖 Samsung : PIN 1234 — MDP qwer
+* 🔒 **Verrouillage :** **PIN** (+ biométrie si disponible)
+* 📍 **Localiser :** **Google — Localiser mon appareil** *(Samsung Find My si compte Samsung utilisé)*
 
-🍏 Apple : Code 123456 — Face ID
+---
 
-⚠️ En production : codes plus robustes (≥ 6 chiffres / alphanumérique).
+## 🔑 **Codes utilisés (lab)**
 
-✅ Procédure Samsung (One UI 6+)
-1) 🔒 Activer PIN + biométrie
+> ⚠️ *Ces codes sont uniquement pour le laboratoire. En production : code fort (≥ 6 chiffres / idéal alphanumérique).*
 
-Paramètres ⚙️ → Sécurité et confidentialité 🔐 → Écran de verrouillage → Type de verrouillage → PIN → entrer 1234
-Puis : Empreintes 👆 / Reconnaissance faciale 🙂 (si disponible)
+* 🤖 **Samsung :** PIN **`1234`** — MDP **`qwer`**
+* 🍏 **Apple :** Code **`123456`** — **Face ID**
 
-📸 Captures à insérer : menus sécurité + choix PIN + biométrie
+---
 
-2) 📍 Activer “Localiser mon appareil” (Google)
+# ✅ **Procédure Samsung (One UI 6+)**
 
-Paramètres ⚙️ → Google → Sécurité → Localiser mon appareil 📍 (activer)
+## 1) 🔒 **Activer PIN + biométrie**
 
-vérifier : Paramètres → Localisation ✅
+**Chemin :**
+**Paramètres** ⚙️ → **Sécurité et confidentialité** 🔐 → **Écran de verrouillage** → **Type de verrouillage** → **PIN** → saisir **`1234`**
 
-📸 Captures à insérer : “Localiser mon appareil” + “Localisation”
+**Puis (si disponible) :**
 
-✅ Validation : verrouillage OK + localisation OK
+* **Empreintes digitales** 👆 *(recommandé)*
+* ou **Reconnaissance faciale** 🙂
 
-🖼️ Capture Samsung
-<img src="https://github.com/user-attachments/assets/174110bf-0295-4ca6-86c9-65658292d95b" width="600" alt="Capture Samsung - Sécurité" />
-✅ Procédure Apple (iOS 17+)
-1) 🔒 Activer code + Face ID
+📸 **Captures à insérer :** menus sécurité + écran PIN + biométrie
 
-Réglages ⚙️ → Face ID et code 🙂🔐 → Activer le code → entrer 123456
-Puis : Configurer Face ID → activer Déverrouiller l’iPhone ✅
+---
 
-📸 Captures à insérer : Face ID & code + activation code + Face ID
+## 2) 📍 **Activer “Localiser mon appareil” (Google)**
 
-2) 📍 Activer “Localiser mon iPhone”
+**Chemin :**
+**Paramètres** ⚙️ → **Google** → **Sécurité** → **Localiser mon appareil** 📍 → **Activer**
 
-Réglages ⚙️ → [Nom / Apple ID] → Localiser 📍 → Localiser mon iPhone → activer ✅
-(+ Envoyer la dernière position si affiché)
+**Vérification :**
+**Paramètres** → **Localisation** ✅ (activée)
 
-📸 Captures à insérer : Localiser + interrupteurs
+📸 **Captures à insérer :** “Localiser mon appareil” + “Localisation”
 
-✅ Validation : code/Face ID OK + Localiser OK
+✅ **Validation :** verrouillage OK + localisation OK
 
-🖼️ Capture Apple
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/266aa715-0f7f-472a-b511-783384239a92" />
+---
 
-🧠 Comparatif express à présenter au superviseur (sécurité/confidentialité)
+### 🖼️ **Capture Samsung**
 
-🍏 Apple : parcours très homogène, sécurité fortement intégrée à Apple ID/iCloud (Localiser, protections), écosystème plus fermé ⇒ moins de variabilité.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/174110bf-0295-4ca6-86c9-65658292d95b" width="520" alt="Capture Samsung - Sécurité" />
+</div>
 
-🤖 Samsung/Android : sécurité robuste mais plus variable (modèle/One UI), services répartis entre Google et Samsung (au choix).
+---
 
-🔐 Gestion pro : les deux peuvent être gérés “pro” (MDM), mais Apple est souvent plus uniforme; Android demande plus de standardisation interne (procédures + contrôles).
+# ✅ **Procédure Apple (iOS 17+)**
+
+## 1) 🔒 **Activer code + Face ID**
+
+**Chemin :**
+**Réglages** ⚙️ → **Face ID et code** 🙂🔐 → **Activer le code** → saisir **`123456`**
+
+**Puis :**
+**Configurer Face ID** → activer **Déverrouiller l’iPhone** ✅
+
+📸 **Captures à insérer :** Face ID & code + code activé + Face ID
+
+---
+
+## 2) 📍 **Activer “Localiser mon iPhone” (Find My)**
+
+**Chemin :**
+**Réglages** ⚙️ → **[Nom / Apple ID]** → **Localiser** 📍 → **Localiser mon iPhone** → **Activer** ✅
+*(+ “Envoyer la dernière position” si affiché)*
+
+📸 **Captures à insérer :** menu Localiser + interrupteurs
+
+✅ **Validation :** code/Face ID OK + Localiser OK
+
+---
+
+### 🖼️ **Capture Apple**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/266aa715-0f7f-472a-b511-783384239a92" width="520" alt="Capture Apple - Localiser" />
+</div>
+
+---
+
+# 🧠 **Comparatif à présenter au superviseur (sécurité / confidentialité)**
+
+* 🍏 **Apple :** parcours très homogène; sécurité fortement intégrée à **Apple ID/iCloud** (Find My, protections), écosystème plus fermé ⇒ **moins de variabilité** entre appareils.
+* 🤖 **Samsung/Android :** sécurité robuste mais plus variable (modèle/One UI); services répartis entre **Google** (Localiser mon appareil) et **Samsung** (Find My Mobile) ⇒ **standardisation nécessaire**.
+* 🔐 **Gestion professionnelle :** les deux sont compatibles gestion “pro” (MDM). Apple est souvent plus uniforme; Android demande plus de procédures + points de contrôle.
+
+---
+
+## ♻️ **Fin de cas (obligatoire)**
+
+✅ **Réinitialisation usine** si possible, sinon **déconnexion des comptes** (Google/Samsung/Apple ID) + retrait biométrie/code selon consigne enseignant.
+
+---
+
+Si tu veux que ça rende nickel dans **Word**, je peux te donner la **version “Word-friendly”** (sans `<div align="center">`, juste des images avec largeur fixe), ou te générer un **.docx** directement.
+
