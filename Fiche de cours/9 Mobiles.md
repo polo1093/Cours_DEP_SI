@@ -12,8 +12,6 @@ FaceID
 
 
 
-OK ✅ Je te le remets **propre, aligné, titres bien “visibles”**, et avec des **images bien intégrées** (taille standard + centrées).
-⚠️ Je **n’affiche pas** tes identifiants perso (email/mot de passe) dans un document de cours : garde-les hors du rapport, ou remplace par “Compte de test”.
 
 ---
 
@@ -55,31 +53,6 @@ OK ✅ Je te le remets **propre, aligné, titres bien “visibles”**, et avec 
 **Chemin :**
 **Paramètres** ⚙️ → **Sécurité et confidentialité** 🔐 → **Écran de verrouillage** → **Type de verrouillage** → **PIN** → saisir **`1234`**
 
-**Puis (si disponible) :**
-
-* **Empreintes digitales** 👆 *(recommandé)*
-* ou **Reconnaissance faciale** 🙂
-
-📸 **Captures à insérer :** menus sécurité + écran PIN + biométrie
-
----
-
-## 2) 📍 **Activer “Localiser mon appareil” (Google)**
-
-**Chemin :**
-**Paramètres** ⚙️ → **Google** → **Sécurité** → **Localiser mon appareil** 📍 → **Activer**
-
-**Vérification :**
-**Paramètres** → **Localisation** ✅ (activée)
-
-📸 **Captures à insérer :** “Localiser mon appareil” + “Localisation”
-
-✅ **Validation :** verrouillage OK + localisation OK
-
----
-
-### 🖼️ **Capture Samsung**
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/174110bf-0295-4ca6-86c9-65658292d95b" width="520" alt="Capture Samsung - Sécurité" />
 </div>
@@ -106,14 +79,6 @@ OK ✅ Je te le remets **propre, aligné, titres bien “visibles”**, et avec 
 **Réglages** ⚙️ → **[Nom / Apple ID]** → **Localiser** 📍 → **Localiser mon iPhone** → **Activer** ✅
 *(+ “Envoyer la dernière position” si affiché)*
 
-📸 **Captures à insérer :** menu Localiser + interrupteurs
-
-✅ **Validation :** code/Face ID OK + Localiser OK
-
----
-
-### 🖼️ **Capture Apple**
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/266aa715-0f7f-472a-b511-783384239a92" width="520" alt="Capture Apple - Localiser" />
 </div>
@@ -128,11 +93,5 @@ OK ✅ Je te le remets **propre, aligné, titres bien “visibles”**, et avec 
 
 ---
 
-## ♻️ **Fin de cas (obligatoire)**
 
-✅ **Réinitialisation usine** si possible, sinon **déconnexion des comptes** (Google/Samsung/Apple ID) + retrait biométrie/code selon consigne enseignant.
-
----
-
-Si tu veux que ça rende nickel dans **Word**, je peux te donner la **version “Word-friendly”** (sans `<div align="center">`, juste des images avec largeur fixe), ou te générer un **.docx** directement.
 
