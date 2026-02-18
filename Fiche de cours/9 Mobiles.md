@@ -9,12 +9,8 @@ Apple
 123456 : Nip
 FaceID
 
-cas 1 
-ajout securiter ds les parametres
-samsung
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/174110bf-0295-4ca6-86c9-65658292d95b" />
-apple
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/266aa715-0f7f-472a-b511-783384239a92" />
+
+
 
 📱 Cas 1 — Sécurisation parc mobile (Apple iOS 17+ / Samsung One UI 6+)
 
@@ -60,7 +56,7 @@ vérifier : Paramètres → Localisation ✅
 ✅ Validation : verrouillage OK + localisation OK
 
 🖼️ Capture Samsung
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/174110bf-0295-4ca6-86c9-65658292d95b" />
+<img src="https://github.com/user-attachments/assets/174110bf-0295-4ca6-86c9-65658292d95b" width="600" alt="Capture Samsung - Sécurité" />
 ✅ Procédure Apple (iOS 17+)
 1) 🔒 Activer code + Face ID
 
@@ -79,7 +75,7 @@ Réglages ⚙️ → [Nom / Apple ID] → Localiser 📍 → Localiser mon iPhon
 ✅ Validation : code/Face ID OK + Localiser OK
 
 🖼️ Capture Apple
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/266aa715-0f7f-472a-b511-783384239a92" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/266aa715-0f7f-472a-b511-783384239a92" />
 
 🧠 Comparatif express à présenter au superviseur (sécurité/confidentialité)
 
