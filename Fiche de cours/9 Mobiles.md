@@ -405,8 +405,193 @@ Play Store → **Profil** → **Gérer les applications et l’appareil** ✅
 * **Déconnexion fin d’exercice** : se déconnecter des comptes CSS dans Outlook/OneDrive/Teams
 
 ---
+# ✅ Cas 3 — Procédures Samsung (Android One UI 6+) : Outlook / OneDrive / Teams (avec tes captures)
 
-Si tu veux, je te fais la **même mise en forme Samsung (One UI 6+)** dès que tu m’envoies tes captures Play Store / Teams / OneDrive côté Android.
+---
+
+# ✅ 1) Microsoft Outlook — Accès réglages + notifications (dans l’app)
+
+## 1.1 Accéder au menu des réglages Outlook
+
+📌 **Objectif :** ouvrir la configuration Outlook pour ajuster les notifications (éviter surcharge).
+
+📸 **Capture à insérer : Accès réglages Outlook**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e81c6dd8-355d-433d-8769-da9a2abcbc55" width="420" alt="Samsung - Outlook accès réglages" />
+</div>
+
+📌 **Action :**
+
+1. Ouvrir **Outlook**
+2. Appuyer sur le **menu/profil** (selon l’interface)
+3. Aller dans **Paramètres** ⚙️
+
+📸 **Capture à insérer : Écran Réglages Outlook**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5b14e8cd-8ccd-49f8-afb2-c5fdbe153a81" width="420" alt="Samsung - Outlook réglages" />
+</div>
+
+### Réglage recommandé (pro, non intrusif)
+
+Dans Outlook → **Notifications** (ou équivalent) :
+
+* ✅ **Nouveaux courriels** : ON
+* ✅ **Prioritaire / Boîte de réception ciblée** : ON si option
+* 🔕 **Son/Vibration** : OFF (ou vibration only, selon politique)
+* ❌ Désactiver alertes secondaires (publicité, “tips”, etc.) si présentes
+
+✅ **Validation :**
+
+* Réception d’un mail test → notification visible (sans spam)
+
+---
+
+# ✅ 1.2 Autoriser les notifications côté Samsung (si besoin)
+
+📌 **Chemin système :**
+**Paramètres** ⚙️ → **Notifications** → **Notifications des applications** → **Outlook** → ON ✅
+
+**Réglage pro :**
+
+* ✅ Autoriser notifications
+* ✅ Badges (pastilles)
+* 🔕 Son OFF (optionnel)
+* Priorité “silencieuse” si tu veux éviter interruptions
+
+*(si ton enseignant veut une preuve système, fais une capture ici)*
+
+---
+
+# ✅ 2) OneDrive — Synchronisation + sauvegarde
+
+## 2.1 Vérifier les fichiers synchronisés
+
+📌 **Objectif :** confirmer que l’espace pro est bien synchronisé.
+
+📸 **Capture à insérer : Liste fichiers synchronisés OneDrive**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/437b6c76-5c73-4acc-b009-5641f2fb9be0" width="420" alt="Samsung - OneDrive fichiers synchronisés" />
+</div>
+
+✅ **Bonnes pratiques confidentialité**
+
+* Séparer pro/perso (ne pas utiliser le compte pro pour données personnelles).
+* Ne rendre hors-ligne que le strict nécessaire.
+* Éviter partage public de liens (privilégier liens internes / droits restreints).
+
+---
+
+## 2.2 Activer la sauvegarde automatique (OneDrive)
+
+📌 **Objectif :** éviter perte de données (selon politique entreprise).
+
+📸 **Capture à insérer : Sauvegarde OneDrive**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6934c0e9-92c7-458f-9b80-17fa6cc80308" width="420" alt="Samsung - OneDrive sauvegarde" />
+</div>
+
+✅ **Recommandation pro**
+
+* Sauvegarde **activée uniquement** si c’est demandé (téléphone pro).
+* Si téléphone personnel : éviter de sauvegarder photos perso dans espace pro.
+
+✅ **Validation**
+
+* Indicateur de sauvegarde actif
+* Pas d’erreurs de synchronisation
+
+---
+
+# ✅ 3) Microsoft Teams — Notifications + autorisations (micro/caméra/localisation)
+
+## 3.1 Réglage des notifications (choix du “bon degré”)
+
+📌 **Objectif :** recevoir l’important (messages/mentions/appels) sans bruit.
+
+📸 **Capture à insérer : Sélection du bon degré**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6341ca67-ad69-4ec6-b69f-380dad559493" width="420" alt="Samsung - Teams degré notifications" />
+</div>
+
+📸 **Capture à insérer : Paramètres Teams**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/81f07744-e5a6-4775-90b9-173b19addfdd" width="420" alt="Samsung - Teams paramètres" />
+</div>
+
+✅ **Paramétrage recommandé**
+
+* ✅ Messages directs
+* ✅ Mentions (@toi)
+* ✅ Appels / réunions
+* ❌ Réactions / “bruit” (si dispo)
+* 🔕 Son OFF ou vibration selon politique
+
+✅ **Validation**
+
+* Un message direct déclenche une notification
+* Les notifications “parasites” sont limitées
+
+---
+
+## 3.2 Gérer les autorisations (least privilege)
+
+📌 **Objectif :** limiter l’accès aux données (conformité + confidentialité).
+
+📸 **Capture à insérer : Menu autorisations Teams**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5eedfcdd-d9f2-4835-9978-3ec2db14afe1" width="420" alt="Samsung - Teams autorisations" />
+</div>
+
+### Caméra
+
+📸 **Capture à insérer : Autorisation caméra**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6718ff29-f374-4fb0-b919-01102330d818" width="420" alt="Samsung - Teams autorisation caméra" />
+</div>
+
+✅ Reco :
+
+* 📷 **Caméra** : **Autoriser uniquement pendant l’utilisation** (ou ON si besoin visio)
+* 🎤 **Micro** : **Autoriser pendant l’utilisation** (sinon appels KO)
+
+### Localisation
+
+📸 **Capture à insérer : Géolocalisation**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/646d47a7-964d-4a3d-90c3-e99dc7c565ab" width="420" alt="Samsung - Teams géolocalisation" />
+</div>
+
+✅ Reco :
+
+* 📍 **Localisation** : **Refuser** / **Jamais** (sauf usage métier justifié)
+* Si exigé : **Uniquement pendant l’utilisation** (pas “Toujours”)
+
+✅ **Validation**
+
+* Appel Teams OK (micro)
+* Visio OK si activée (caméra)
+* Pas d’accès permanent à la localisation
+
+---
+
+# ✅ 4) Mini-check “fin d’exercice” (important)
+
+Après les tests avec le compte CSS :
+
+* Dans Outlook / OneDrive / Teams : **Se déconnecter**
+* Optionnel : supprimer le compte pro de l’appareil si demandé
+* Vérifier que les fichiers pro ne restent pas en offline
+
+---
 
 
 
@@ -415,43 +600,6 @@ Si tu veux, je te fais la **même mise en forme Samsung (One UI 6+)** dès que t
 
 
 
-
-
-iphone 
-Pr aller ds les reglages
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/4b087848-6d8a-4c70-8d2e-d16b1e95cdcf" />
-
-reglages 
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/08cd9422-3b67-4169-ba27-0b3cac43e8e1" />
-
-autoriser
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/4b003533-67b8-439e-bf20-c86f8eeff008" />
-centre de notif outlook
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/2fac8a01-b73c-4644-9660-34c25f2d28cc" />
-
-
-liste des fichiers sync onedrive
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/ccd9d1d1-99f2-4c59-83b2-25f580f205f7" />
-
-Sauvegarde1 ondrive
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/8d145442-575b-410e-a4d7-8553c01384b7" />
-Sauvegarde2
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/51af04fd-ead3-4ede-85df-e6eb43b13757" />
-
-teams
-pr aller ds parametres
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/6eff0b8f-d839-4525-bad1-b1da44c7d6bb" />
-onglet parametre
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/31cc9d3f-6735-4422-a799-a8aaac47806b" />
-
-
-selection du bon degreer
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/53bb8981-dd41-4978-aac8-1a22995c97a1" />
-verification
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/508fbea8-ff08-40ce-ae34-3a00f645d60e" />
-
-geolocalisation
-<img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/d0645e61-e38c-415d-a35c-3a3dfbea76cd" />
 
 
 
