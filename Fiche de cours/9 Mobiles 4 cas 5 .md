@@ -14,18 +14,20 @@
 1. Ouvrir **Outlook**.
 2. Appuyer sur l’icône **Profil** (haut gauche).
 3. Appuyer sur **⚙️ Réglages**.
-4. Descendre jusqu’à **Boîte Prioritaire**.
-5. Activer l’option ✅.
-
-📸 **Captures à insérer :**
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b15ecd5e-b82d-4051-b96c-33e23f3f0965" width="420" alt="Outlook iPhone - Réglages" />
+  <img src="https://github.com/user-attachments/assets/b15ecd5e-b82d-4051-b96c-33e23f3f0965" width="320" alt="Outlook iPhone - Réglages" />
 </div>
-
+5. Descendre jusqu’à **Boîte Prioritaire**.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ccb582a9-7059-4929-9cfc-115585101da7" width="420" alt="Outlook iPhone - Boîte Prioritaire" />
+  <img src="https://github.com/user-attachments/assets/ccb582a9-7059-4929-9cfc-115585101da7" width="320" alt="Outlook iPhone - Boîte Prioritaire" />
 </div>
+6. Activer l’option ✅.
+
+
+
+
+
+
 
 **Validation :**
 
@@ -55,8 +57,6 @@
 6. Cliquer **Enregistrer**.
 7. Se **déconnecter** (bonne pratique).
 
-📸 **Capture à insérer : écran Règles**
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/982857de-3241-476e-a06f-5ea8a294f5ea" width="700" alt="Outlook Web - Règles" />
 </div>
@@ -67,10 +67,6 @@
 2. Ouvrir la liste des dossiers (menu/profil).
 3. Aller dans le dossier **Clients**.
 4. Envoyer un mail test depuis l’adresse configurée → vérifier qu’il arrive dans **Clients**.
-
-**Validation :**
-
-* Le mail de cette adresse **n’arrive pas** dans Inbox, il arrive dans **Clients** ✅
 
 ---
 
@@ -96,15 +92,9 @@ Tél : +1 (XXX) XXX-XXXX
 5. Revenir en arrière (sauvegarde automatique dans la plupart des cas).
 6. Tester : s’envoyer un mail à soi-même.
 
-📸 **Capture à insérer : Signature**
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/08ee1f33-18a7-4a6c-b076-ef49f89be043" width="420" alt="Outlook iPhone - Signature" />
 </div>
-
-**Validation :**
-
-* La signature s’affiche automatiquement en bas du mail envoyé ✅
 
 ---
 
@@ -121,17 +111,15 @@ Tél : +1 (XXX) XXX-XXXX
 2. Renseigner **À** + **Objet**.
 3. Appuyer sur **📎**.
 4. Choisir **Joindre un fichier** / **OneDrive**.
-5. Sélectionner le document.
-6. Choisir **Joindre en tant que lien** (recommandé en entreprise).
-7. Envoyer le message.
 
-📸 **Capture à insérer : Joindre fichier par lien**
-
+6. Sélectionner le document.
+7. Choisir **Joindre en tant que lien** ).
 <div align="center">
   <img src="https://github.com/user-attachments/assets/947da89b-e97a-43cf-b03d-b8bb2871f697" width="420" alt="Outlook iPhone - Joindre en tant que lien OneDrive" />
 </div>
+9. Envoyer le message.
 
-📸 **Capture à insérer : Mail avec lien envoyé**
+
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/be65d869-73cf-43c8-9925-38a8964aa91c" width="420" alt="Outlook iPhone - Mail avec lien OneDrive" />
@@ -143,11 +131,4 @@ Tél : +1 (XXX) XXX-XXXX
 * Le document reste contrôlable (droits/partage) côté OneDrive.
 
 ---
-
-## ✅ Bonus “bonnes pratiques” (à ajouter à ton rendu)
-
-* Utiliser **Joindre en tant que lien** pour garder la maîtrise des droits (évite les copies du fichier).
-* Ne pas mettre d’infos sensibles dans l’objet ou l’aperçu de notification.
-* Tester systématiquement : **mail test** + vérification du dossier + ouverture du lien.
-
 Si tu m’envoies l’adresse “client test” (même fictive) et le nom de la PME, je te génère une **signature prête à copier** au bon format.
