@@ -1,15 +1,12 @@
-# 🧩 Cas 7 — Procédure Miradore (Enrôlement + Profil + Retrait)
-
+#  Cas 7 — Procédure Miradore (Enrôlement + Profil + Retrait)
 ## 1) Enrôler / Link un appareil (depuis l’appareil)
-
 ### 1.1 Ouvrir les paramètres
 - Sur l’appareil : Paramètres -> accéder aux options nécessaires avant l’enrôlement (Wi-Fi, sécurité, etc.).
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/20a10462-f89b-4934-8ce9-facca44d5c1a" width="320" />
 </p>
 
----
+
 
 ### 1.2 Réinitialiser l’appareil
 - Aller dans Réinitialiser (selon l’OS : Réglages -> Général -> Réinitialiser).
