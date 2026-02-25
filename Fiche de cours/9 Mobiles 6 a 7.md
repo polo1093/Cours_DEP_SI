@@ -85,7 +85,3 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4bb34817-e994-482f-b64b-f8f5cce5e319" width="320" />
 </p>
-
-
-
-Si tu veux, je peux aussi te formatter la **fiche “Direction”** (vulgarisée) dans le même style Markdown, avec “✅ Permet / ⚠️ Limites”.
