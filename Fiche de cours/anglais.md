@@ -1,3 +1,5 @@
+Do you see the Wi-Fi icon showing up? 
+Could I have your phone number and I will call you back?
 
 to fill out = remplir (un formulaire)
 to talk (dans When talking about…) = parler (de)
