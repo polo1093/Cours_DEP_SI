@@ -189,15 +189,6 @@ Coche ce que tu utilises vraiment :
 
 ---
 
-## Note importante “hardware” (ta règle de correction)
-
-* “Onboard” = **pas de carte graphique dédiée** (si usage basique). 
-* Toujours prévoir **ventilateur** avec un CPU assemblé. 
-* Ne pas ajouter **haut-parleurs** par défaut si ce n’est pas demandé (meilleur prix, conformité).
-
----
-
-Si tu veux, je peux aussi te refaire la fiche en version **ultra courte 1 page** (mode “antisèche mentale”) pour réviser la veille.
 
 
 
