@@ -1,3 +1,76 @@
+Oui ✅ Voici **toutes les commandes PowerShell** qui apparaissent dans ta conversation, **remises au propre**, dans l’ordre.
+
+---
+
+## 1) Création conditionnelle du dossier `C:\TestBackup` (version incomplète)
+
+```powershell
+if (!(Test-Path "______")) { New-Item -Path "C:\TestBackup"
+```
+
+## 2) Création conditionnelle du dossier `C:\TestBackup` (version complète)
+
+```powershell
+if (!(Test-Path "C:\TestBackup")) { New-Item -Path "C:\TestBackup" -ItemType Directory }
+```
+
+## 3) Variante avec Get-Item (et mkdir)
+
+```powershell
+if (Get-Item "C:\TestBackup") { mkdir "C:\TestBackup" }
+```
+
+## 4) Variante “corrigée” avec Get-Item (gestion erreur silencieuse)
+
+```powershell
+if (!(Get-Item "C:\TestBackup" -ErrorAction SilentlyContinue)) { mkdir "C:\TestBackup" }
+```
+
+## 5) Création d’un dossier `C:\Backup`
+
+```powershell
+New-Item "C:\Backup" -ItemType Directory
+```
+
+## 6) Création d’un fichier vide (exemple mentionné)
+
+```powershell
+New-Item "C:\Backup\test.txt" -ItemType File
+```
+
+## 7) Copie de tous les `.txt` vers `C:\Backup`
+
+```powershell
+Copy-Item "C:\Data\*.txt" -Destination "C:\Backup" -Force
+```
+
+## 8) Suppression de tous les `.txt` dans `C:\Data`
+
+```powershell
+Remove-Item "C:\Data\*.txt" -Force
+```
+
+## 9) Affichage console — copie
+
+```powershell
+Write-Host "Copie terminée avec succès"
+```
+
+## 10) Affichage console — sauvegarde
+
+```powershell
+Write-Host "Sauvegarde terminée avec succès"
+```
+
+## 11) Affichage console — début (proposition)
+
+```powershell
+Write-Host "Début de l'opération de sauvegarde"
+```
+
+---
+
+Si tu veux, je peux aussi te fournir **la version “script final”** qui enchaîne proprement : *début → création dossier → copie → message → suppression → message fin* (mode prod avec `try/catch` + logs).
 
 
 
