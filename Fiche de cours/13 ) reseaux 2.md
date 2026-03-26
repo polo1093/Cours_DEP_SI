@@ -3,6 +3,7 @@
 ## Commentaires du prof (à garder absolument)
 
 - partager le dossier a la racien du disque contreole total
+- securite tout le monde lecture
 - dans les reglages reseaux dns ip du serveur et option avancee dns nom du domaine ex web20.local
 
 ### script utilisateur
