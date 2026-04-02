@@ -14,4 +14,4 @@ Formulaires ordre d organinisation ne pas forcement garder
 importer des donnes de Excel
 <img width="1321" height="808" alt="image" src="https://github.com/user-attachments/assets/aabb4a94-e546-4849-90b9-ac6d0f455f93" />
 
-
+et soigner la presentations vers execl
