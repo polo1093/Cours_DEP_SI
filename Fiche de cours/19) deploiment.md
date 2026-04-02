@@ -1,17 +1,28 @@
 ## 1. Préparation
+
+
+securite windows par feu
+
+
 dossier installateur partager tout le monde et securite tout le monde et ordi locaux
 <img width="1411" height="877" alt="image" src="https://github.com/user-attachments/assets/7dfe109c-de63-4fda-8406-11f50ef0c8e8" />
 
+
+
+Les gpo on mets que le groupe attribuer
 installatation msi gpo
 <img width="1814" height="930" alt="image" src="https://github.com/user-attachments/assets/21e80965-783e-43a9-ab5b-81998f940d87" />
 
 
+on me ordinateur client dans les droits
 script powershell demarrage
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d0efd397-0466-4cad-a679-72dce388c7cb" />
+autoriser les script distant dans editeur de gestion de strategies de groupes windows poweshell
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76c12552-f8c7-4d5d-abdc-69128612231b" />
 
 
 check list 
-autoriser les script distant dans editeur de gestion de strategies de groupes windows poweshell
+
 
 dns et nom du donaime sur l ordi client a changer
 
