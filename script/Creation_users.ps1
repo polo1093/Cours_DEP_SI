@@ -1,35 +1,72 @@
 
 # \\NOMDUSERVEUR\ZZ\Personnels\%username%
-# lorgana
-# hsolo
-# askywalker
-# okenobi
-
-
 Import-Module ActiveDirectory
 
 # =========================================================
 # PARAMÈTRES GÉNÉRAUX
 # =========================================================
-$DomainDNS = "zz.local" # Foret
-$BaseDN    = "DC=zz,DC=local" 
-$OUPath    = "OU=zz,$BaseDN" # Unite d'organisation cible pour les utilisateurs et groupes
+$DomainDNS = "PRETEST.local"
+$BaseDN    = "DC=PRETEST,DC=local"
+$OUPath    = "OU=PRETEST,$BaseDN"
 
 $PlainPassword  = 'Pa$$w0rd'
 $SecurePassword = ConvertTo-SecureString $PlainPassword -AsPlainText -Force
 
 # =========================================================
-# UTILISATEURS
-# Tu modifies seulement cette partie selon l'exo
+# GROUPES DE DÉPLOIEMENT
+# =========================================================
+$DeployGroups = @(
+    "Deploy_Firefox",
+    "Deploy_Inkscape",
+    "Deploy_NotepadPP",
+    "Deploy_VLC",
+    "Deploy_PhotoFiltre"
+)
+
+# =========================================================
+# UTILISATEURS + LOGICIELS À RECEVOIR
 # =========================================================
 $Users = @(
-    @{ FirstName="PierrePaul"; LastName="FafardAllard"; Role="Marketing"   },
-    @{ FirstName="Marielle";   LastName="Page";         Role="Comptables"  },
-    @{ FirstName="Jules";      LastName="Larose";       Role="Operations"  },
-    @{ FirstName="Diane";      LastName="Dumaine";      Role="Operations"  },
-    @{ FirstName="Yves";       LastName="Leblanc";      Role="Operations"  },
-    @{ FirstName="Ferdal";     LastName="Bois";         Role="Marketing"   },
-    @{ FirstName="Ginette";    LastName="Bouin";        Role="Secretaire"  }
+    @{
+        FirstName = "Alex"
+        LastName  = "Martin"
+        Software  = @("Deploy_Firefox", "Deploy_NotepadPP", "Deploy_VLC", "Deploy_PhotoFiltre")
+    },
+    @{
+        FirstName = "Chloe"
+        LastName  = "Parent"
+        Software  = @("Deploy_Firefox", "Deploy_Inkscape", "Deploy_VLC", "Deploy_PhotoFiltre")
+    },
+    @{
+        FirstName = "Hugo"
+        LastName  = "Lavoie"
+        Software  = @("Deploy_Inkscape", "Deploy_NotepadPP", "Deploy_VLC", "Deploy_PhotoFiltre")
+    },
+    @{
+        FirstName = "Emma"
+        LastName  = "Fortin"
+        Software  = @("Deploy_Firefox", "Deploy_NotepadPP", "Deploy_PhotoFiltre")
+    },
+    @{
+        FirstName = "Louis"
+        LastName  = "Caron"
+        Software  = @("Deploy_Inkscape", "Deploy_NotepadPP", "Deploy_VLC", "Deploy_PhotoFiltre")
+    },
+    @{
+        FirstName = "Sarah"
+        LastName  = "Gendron"
+        Software  = @("Deploy_Firefox", "Deploy_Inkscape", "Deploy_VLC", "Deploy_PhotoFiltre")
+    },
+    @{
+        FirstName = "Maxime"
+        LastName  = "Pelletier"
+        Software  = @("Deploy_Inkscape", "Deploy_NotepadPP", "Deploy_PhotoFiltre")
+    },
+    @{
+        FirstName = "Lea"
+        LastName  = "Girard"
+        Software  = @("Deploy_Firefox", "Deploy_VLC", "Deploy_PhotoFiltre")
+    }
 )
 
 # =========================================================
@@ -150,30 +187,24 @@ function Add-UserToGroupSafe {
 }
 
 # =========================================================
-# CRÉATION DES GROUPES
+# CRÉATION DES GROUPES DE DÉPLOIEMENT
 # =========================================================
-
-
-
-# Rôles uniques trouvés dans la liste des users
-$Roles = $Users.Role | Sort-Object -Unique
-
-foreach ($Role in $Roles) {
-    $GroupName = "GG_$Role"
-    $Description = "Groupe de sécurité pour le rôle $Role"
-
+foreach ($Group in $DeployGroups) {
     New-GroupIfMissing `
-        -Name $GroupName `
-        -Description $Description `
+        -Name $Group `
+        -Description "Groupe de sécurité pour le déploiement de $Group" `
         -Path $OUPath
 }
 
 # =========================================================
-# CRÉATION DES UTILISATEURS + AFFECTATION GROUPES
+# CRÉATION DES UTILISATEURS + AFFECTATION DES GROUPES
 # =========================================================
 foreach ($u in $Users) {
-    $Sam = New-UserIfMissing -User $u -Path $OUPath    
-    Add-UserToGroupSafe -UserSam $Sam -GroupName ("GG_" + $u.Role)
+    $Sam = New-UserIfMissing -User $u -Path $OUPath
+
+    foreach ($SoftwareGroup in $u.Software) {
+        Add-UserToGroupSafe -UserSam $Sam -GroupName $SoftwareGroup
+    }
 }
 
 Write-Host ""
