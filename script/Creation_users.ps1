@@ -1,14 +1,25 @@
 
 # \\NOMDUSERVEUR\ZZ\Personnels\%username%
+
 Import-Module ActiveDirectory
 
 # =========================================================
 # PARAMÈTRES GÉNÉRAUX
 # =========================================================
-$DomainDNS = "PRETEST.local"
-$BaseDN    = "DC=PRETEST,DC=local"
-$OUPath    = "OU=PRETEST,$BaseDN"
 
+# Domaine / OU
+$DomainDNS   = "PRETEST.local"
+$BaseDN      = "DC=PRETEST,DC=local"
+$OUName      = "PRETEST"
+$OUPath      = "OU=$OUName,$BaseDN"
+
+# FIN DE MAIL MODIFIABLE ICI
+# Exemple:
+# "@PRETEST.local"
+# "@entreprise.local"
+$MailSuffix  = "@PRETEST.local"
+
+# Mot de passe initial
 $PlainPassword  = 'Pa$$w0rd'
 $SecurePassword = ConvertTo-SecureString $PlainPassword -AsPlainText -Force
 
@@ -24,7 +35,8 @@ $DeployGroups = @(
 )
 
 # =========================================================
-# UTILISATEURS + LOGICIELS À RECEVOIR
+# UTILISATEURS + LOGICIELS
+# Tu peux modifier la liste Software pour chaque user
 # =========================================================
 $Users = @(
     @{
@@ -33,7 +45,7 @@ $Users = @(
         Software  = @("Deploy_Firefox", "Deploy_NotepadPP", "Deploy_VLC", "Deploy_PhotoFiltre")
     },
     @{
-        FirstName = "Chloe"
+        FirstName = "Chloé"
         LastName  = "Parent"
         Software  = @("Deploy_Firefox", "Deploy_Inkscape", "Deploy_VLC", "Deploy_PhotoFiltre")
     },
@@ -63,7 +75,7 @@ $Users = @(
         Software  = @("Deploy_Inkscape", "Deploy_NotepadPP", "Deploy_PhotoFiltre")
     },
     @{
-        FirstName = "Lea"
+        FirstName = "Léa"
         LastName  = "Girard"
         Software  = @("Deploy_Firefox", "Deploy_VLC", "Deploy_PhotoFiltre")
     }
@@ -107,6 +119,23 @@ function Get-SamFromName {
     }
 }
 
+function Ensure-OUExists {
+    param(
+        [string]$OUName,
+        [string]$BaseDN
+    )
+
+    $ExistingOU = Get-ADOrganizationalUnit -LDAPFilter "(ou=$OUName)" -SearchBase $BaseDN -ErrorAction SilentlyContinue
+
+    if (-not $ExistingOU) {
+        New-ADOrganizationalUnit -Name $OUName -Path $BaseDN
+        Write-Host "OU créée : OU=$OUName,$BaseDN"
+    }
+    else {
+        Write-Host "OU déjà présente : OU=$OUName,$BaseDN"
+    }
+}
+
 function New-GroupIfMissing {
     param(
         [string]$Name,
@@ -133,12 +162,14 @@ function New-GroupIfMissing {
 function New-UserIfMissing {
     param(
         [hashtable]$User,
-        [string]$Path
+        [string]$Path,
+        [string]$MailSuffix
     )
 
     $Sam         = Get-SamFromName -FirstName $User.FirstName -LastName $User.LastName
     $DisplayName = "$($User.FirstName) $($User.LastName)"
     $UPN         = "$Sam@$DomainDNS"
+    $Email       = "$Sam$MailSuffix"
 
     if (-not (Get-ADUser -Filter "SamAccountName -eq '$Sam'" -ErrorAction SilentlyContinue)) {
         New-ADUser `
@@ -148,12 +179,13 @@ function New-UserIfMissing {
             -DisplayName $DisplayName `
             -SamAccountName $Sam `
             -UserPrincipalName $UPN `
+            -EmailAddress $Email `
             -Path $Path `
             -AccountPassword $SecurePassword `
             -Enabled $true `
             -ChangePasswordAtLogon $false
 
-        Write-Host "Utilisateur créé : $DisplayName ($Sam)"
+        Write-Host "Utilisateur créé : $DisplayName ($Sam) - $Email"
     }
     else {
         Write-Host "Utilisateur déjà présent : $DisplayName ($Sam)"
@@ -187,6 +219,11 @@ function Add-UserToGroupSafe {
 }
 
 # =========================================================
+# CRÉATION DE L'OU SI ABSENTE
+# =========================================================
+Ensure-OUExists -OUName $OUName -BaseDN $BaseDN
+
+# =========================================================
 # CRÉATION DES GROUPES DE DÉPLOIEMENT
 # =========================================================
 foreach ($Group in $DeployGroups) {
@@ -197,20 +234,24 @@ foreach ($Group in $DeployGroups) {
 }
 
 # =========================================================
-# CRÉATION DES UTILISATEURS + AFFECTATION DES GROUPES
+# CRÉATION DES UTILISATEURS + AJOUT AUX GROUPES
 # =========================================================
 foreach ($u in $Users) {
-    $Sam = New-UserIfMissing -User $u -Path $OUPath
+    $Sam = New-UserIfMissing -User $u -Path $OUPath -MailSuffix $MailSuffix
 
     foreach ($SoftwareGroup in $u.Software) {
         Add-UserToGroupSafe -UserSam $Sam -GroupName $SoftwareGroup
     }
 }
 
+# =========================================================
+# FIN
+# =========================================================
 Write-Host ""
 Write-Host "========================================"
 Write-Host "Création terminée."
-Write-Host "Domaine : $DomainDNS"
-Write-Host "OU : $OUPath"
+Write-Host "Domaine            : $DomainDNS"
+Write-Host "OU                 : $OUPath"
+Write-Host "Suffixe mail       : $MailSuffix"
 Write-Host "Mot de passe initial : $PlainPassword"
 Write-Host "========================================"
