@@ -13,6 +13,9 @@ Les gpo on mets que le groupe attribuer
 installatation msi gpo
 <img width="1814" height="930" alt="image" src="https://github.com/user-attachments/assets/21e80965-783e-43a9-ab5b-81998f940d87" />
 
+securite gpo 
+<img width="776" height="520" alt="image" src="https://github.com/user-attachments/assets/93e7a092-0453-4048-b100-1e1924e53e9f" />
+
 
 on me ordinateur client dans les droits
 script powershell demarrage
