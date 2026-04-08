@@ -15,6 +15,8 @@ installatation msi gpo
 
 securite gpo 
 <img width="776" height="520" alt="image" src="https://github.com/user-attachments/assets/93e7a092-0453-4048-b100-1e1924e53e9f" />
+evaulation rajoute utilisateur authentifier
+<img width="1844" height="879" alt="image" src="https://github.com/user-attachments/assets/7da65e59-669a-49bd-86d1-5f6c40e263e9" />
 
 
 on me ordinateur client dans les droits
