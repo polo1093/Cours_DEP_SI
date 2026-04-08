@@ -1,6 +1,6 @@
 ### VARIABLES A MODIFIER ###
 
-$Partage = "\\%logonserver%\installateur\"
+$Partage = "$env:LOGONSERVER\installateur\"
 $Executable = "photofiltre11.7.0_fr_setup.exe"
 $Switch = "/VERYSILENT /SUPPRESSMSGBOXES"
 
