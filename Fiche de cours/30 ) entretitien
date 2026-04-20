@@ -1,0 +1,116 @@
+# Fiche entretien stage IT
+
+## 1. Ports mail à connaître
+
+### SMTP
+- **SMTP** = envoi de mails
+- Port **25** = ancien port SMTP, souvent bloqué
+- Port **587** = SMTP authentifié, le plus courant
+- Port **465** = SMTP sécurisé SSL/TLS
+
+### IMAP
+- **IMAP** = consulter les mails en gardant la synchronisation avec le serveur
+- Port **143** = IMAP non chiffré
+- Port **993** = IMAP sécurisé SSL/TLS
+
+### POP3
+- **POP3** = récupérer les mails en local
+- Port **110** = POP3 non chiffré
+- Port **995** = POP3 sécurisé SSL/TLS
+
+### Réponse courte entretien
+- SMTP sert à **envoyer**
+- IMAP et POP servent à **recevoir**
+- IMAP est souvent préféré aujourd’hui car il synchronise les mails sur plusieurs appareils
+
+---
+
+## 2. C’est quoi un téléphone IP ?
+
+Un **téléphone IP** est un téléphone qui passe par le **réseau informatique** au lieu d’utiliser une ligne téléphonique analogique classique.
+
+### Principe
+- il se connecte au **réseau Ethernet**
+- il communique avec un **serveur de téléphonie IP / IPBX / VoIP**
+- il utilise l’adresse IP du réseau
+- souvent il fonctionne avec le protocole **SIP**
+
+### Avantages
+- installation plus simple en entreprise
+- transfert d’appel, messagerie vocale, conférence
+- administration centralisée
+- possible via le réseau local ou Internet
+
+### Réponse courte entretien
+> Un téléphone IP est un téléphone qui utilise le réseau informatique et la VoIP pour transmettre la voix, souvent via SIP, au lieu d’une ligne téléphonique classique.
+
+---
+
+## 3. Si le réseau ne fonctionne pas sur un poste : quoi vérifier ?
+
+### Vérifications de base
+1. vérifier le **câble réseau** ou le **Wi-Fi**
+2. vérifier si la carte réseau est activée
+3. lancer :
+   - `ipconfig`
+   - `ping 127.0.0.1`
+   - `ping passerelle`
+   - `ping 8.8.8.8`
+4. vérifier si le PC reçoit bien une IP du bon réseau
+5. vérifier le **DHCP**, la **passerelle** et le **DNS**
+
+### Cas classique
+#### Adresse IP en `169.254.x.x`
+- cela signifie souvent que le poste **n’a pas reçu d’adresse IP du serveur DHCP**
+- donc :
+  - problème câble / switch / Wi-Fi
+  - DHCP indisponible
+  - mauvais VLAN
+  - configuration manuelle incorrecte
+
+### Commandes utiles
+- `ipconfig /all`
+- `ipconfig /release`
+- `ipconfig /renew`
+- `ping`
+- `nslookup`
+
+### Réponse courte entretien
+> Si le réseau ne fonctionne pas, je vérifie d’abord la connectivité physique, puis l’adresse IP, la passerelle, le DNS et le DHCP. Si le poste a une IP 169.254.x.x, cela indique souvent un problème d’attribution DHCP.
+
+---
+
+## 4. DHCP et DNS
+
+### DHCP
+- attribue automatiquement :
+  - adresse IP
+  - masque
+  - passerelle
+  - DNS
+
+### DNS
+- traduit un **nom** en **adresse IP**
+- exemple :
+  - `google.com` → adresse IP
+
+### Réponse courte entretien
+> DHCP donne automatiquement la configuration réseau au poste. DNS permet de résoudre les noms de domaine en adresses IP.
+
+---
+
+## 5. Ports réseau utiles à connaître en plus
+
+- **80** = HTTP
+- **443** = HTTPS
+- **53** = DNS
+- **67/68** = DHCP
+- **22** = SSH
+- **3389** = RDP
+- **21** = FTP
+
+---
+
+## 6. Petite phrase propre pour entretien
+
+> Je connais les bases réseau utiles en support informatique : adressage IP, DHCP, DNS, ports courants, messagerie, et premiers diagnostics en cas de perte de connectivité sur un poste.
