@@ -98,7 +98,69 @@ Un **téléphone IP** est un téléphone qui passe par le **réseau informatique
 > DHCP donne automatiquement la configuration réseau au poste. DNS permet de résoudre les noms de domaine en adresses IP.
 
 ---
+## 22 = SSH
+- **SSH** = Secure Shell
+- Sert à **se connecter à distance** à une machine en **ligne de commande**
+- Utilisé surtout sur :
+  - serveurs Linux
+  - équipements réseau
+  - parfois Windows avec OpenSSH
+- Communication **chiffrée**
+- Permet :
+  - administration distante
+  - exécution de commandes
+  - transfert sécurisé de fichiers via **SCP** ou **SFTP**
 
+### Exemple
+- se connecter à un serveur Linux
+- administrer un switch ou un routeur
+
+### Réponse entretien
+> Le port 22 correspond à SSH. Il sert à l’administration distante sécurisée d’un système en ligne de commande.
+
+---
+
+## 3389 = RDP
+- **RDP** = Remote Desktop Protocol
+- Sert à **prendre le contrôle à distance d’un poste ou serveur Windows**
+- Permet d’ouvrir une **session graphique complète**
+- Très utilisé pour :
+  - support technique
+  - administration de serveurs Windows
+  - accès à un poste distant
+
+### Exemple
+- se connecter à un serveur Windows
+- dépanner un poste utilisateur à distance
+
+### Réponse entretien
+> Le port 3389 correspond à RDP. Il permet l’accès à distance à l’interface graphique d’un poste ou serveur Windows.
+
+---
+
+## 21 = FTP
+- **FTP** = File Transfer Protocol
+- Sert à **transférer des fichiers** entre un client et un serveur
+- Port **21** = port de commande
+- Historiquement, le port **20** pouvait servir pour les données en mode actif
+- **FTP n’est pas chiffré** en standard
+- Donc aujourd’hui on préfère souvent :
+  - **SFTP** = via SSH, port 22
+  - **FTPS** = FTP avec chiffrement TLS
+
+### Exemple
+- déposer des fichiers sur un serveur
+- récupérer des sauvegardes ou des documents
+
+### Réponse entretien
+> Le port 21 correspond à FTP. Il sert au transfert de fichiers, mais il n’est pas sécurisé par défaut.
+
+---
+
+## Différence rapide
+- **SSH (22)** → accès distant en ligne de commande, sécurisé
+- **RDP (3389)** → accès distant avec interface graphique
+- **FTP (21)** → transfert de fichiers, non sécurisé par défaut
 ## 5. Ports réseau utiles à connaître en plus
 
 - **80** = HTTP
