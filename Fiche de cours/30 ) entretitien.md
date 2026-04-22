@@ -1,5 +1,10 @@
 # Fiche entretien stage IT
 
+point fort
+“Mon point principal fort, c’est mon esprit analytique. J’aime structurer un problème, identifier les causes possibles et avancer de façon méthodique. J’ai aussi un bon relationnel, donc je collabore facilement avec les autres.”
+
+point faible
+“Dans un nouvel environnement, j’ai parfois tendance à vouloir d’abord avancer seul avant de solliciter quelqu’un. Avec l’expérience, j’ai appris à poser une question ciblée plus tôt quand cela permet d’être plus efficace.”
 ## 1. Ports mail à connaître
 
 ### SMTP
