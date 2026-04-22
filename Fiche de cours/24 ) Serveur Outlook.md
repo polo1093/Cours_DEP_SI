@@ -1,3 +1,5 @@
+Ajouter un compte sur outlook
+<img width="1676" height="875" alt="image" src="https://github.com/user-attachments/assets/410e973c-14d0-4e0d-9f3f-03bd9cda8bb7" />
 
 Gérer les règles
 <img width="1225" height="886" alt="image" src="https://github.com/user-attachments/assets/ff9e06a1-cbf4-40fd-9a24-185877736c33" />
