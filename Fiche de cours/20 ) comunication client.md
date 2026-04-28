@@ -1,4 +1,5 @@
 Voici une **mini fiche ultra utile** à retenir pour la compétence 18. 
+# Mini fiche — Démarche d’assistance technique à la clientèle
 
 ## Mini fiche — Démarche d’assistance technique à la clientèle
 
