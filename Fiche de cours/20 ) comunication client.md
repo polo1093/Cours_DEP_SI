@@ -10,6 +10,7 @@ Voici une **mini fiche ultra utile** à retenir pour la compétence 18.
 * Reformuler pour valider la compréhension
 
 ### 2. Qualifier la requête
+<img width="1472" height="521" alt="image" src="https://github.com/user-attachments/assets/7d38f744-b692-493c-bbe0-2bc43fd2ec85" />
 
 Toujours identifier :
 
