@@ -1,6 +1,21 @@
 Voici une **mini fiche ultra utile** à retenir pour la compétence 18. 
 # Mini fiche — Démarche d’assistance technique à la clientèle
+Aspect visuel de l'appareil à la réception
 
+☑ OK
+Détails : Usure normale liée à l’âge, ancienne tour familiale, aucun bris majeur apparent signalé.
+
+Demandes du client
+Vérifier si la migration du poste est possible.
+Régler le problème d’activation du système.
+Migrer le poste vers Windows 10 en conservant les fichiers personnels.
+Conserver les applications déjà installées lorsque possible.
+Remplacer le disque principal par un disque plus grand.
+Garder l’ancien disque comme disque secondaire.
+Vérifier si le dual-boot est pertinent.
+Vérifier la compatibilité Bluetooth.
+Permettre la lecture de disques Blu-ray.
+Optimiser le poste : mises à jour, nettoyage, antivirus, démarrage.
 ## Mini fiche — Démarche d’assistance technique à la clientèle
 
 ### 1. Recevoir la demande
