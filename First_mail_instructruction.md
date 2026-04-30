@@ -16,3 +16,6 @@ Nombre total d’heures : 240 heures
 
 paulaugustinpoisson@gmail.com
 ne mets pas mon telephone car mon nu ne fonctionne pas tres bien
+
+
+Mon cv et sur ce projet dois le rajouter
