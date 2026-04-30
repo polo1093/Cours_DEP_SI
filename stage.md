@@ -45,6 +45,7 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | Stratéjia / Progel | info@stratejia.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Conseil numérique à Trois-Rivières. Attendre environ une semaine. |
 | La Fabrique Web | Kelly / kelly@lafabriqueweb.com | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Agence web locale; angle support, outils numériques et automatisation. Attendre environ une semaine. |
 | Shawinigan Informatique | info@shawinigan-informatique.com | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Support informatique local. Attendre environ une semaine. |
+| Ville de Trois-Rivières | Patrick Thériault / 311@v3r.net | Candidature ciblée envoyée le 2026-04-30 avec CV, sans téléphone | En attente | Courriel envoyé via le service 311 pour transfert au service TI. Ne pas refaire pour Pierre Martineau sans courriel direct. |
 | Ville de Drummondville | Martin Choquette / mchoquette@drummondville.ca | Candidature ciblée envoyée le 2026-04-30, sans téléphone | En attente | Support municipal, logiciels, téléphonie IP, équipements, systèmes municipaux et géomatique. Attendre environ une semaine. |
 | CSS de l'Énergie | Christian Amyot / camyot@cssenergie.gouv.qc.ca / formulaire | Formulaire soumis le 2026-04-29; candidature ciblée envoyée à Christian Amyot le 2026-04-30, sans téléphone | En attente | Gros parc scolaire, bureautique, réseautique, télécom et systèmes informatisés. Relancer le 2026-05-06 ou 2026-05-07 si aucun retour. |
 | CSS des Chênes | Stéphane Guilbert / direction.si@cssdeschenes.gouv.qc.ca | Candidature ciblée envoyée le 2026-04-30, sans téléphone | En attente | Organisation scolaire importante : support, postes, réseau, Microsoft et déploiement. Attendre environ une semaine. |
@@ -58,6 +59,7 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | UdeS - Direction STI | Ian Gosselin / Ian.Gosselin@USherbrooke.ca | Réponse reçue le 2026-04-30; remerciement envoyé le même jour | En attente positive | Ian a demandé à l'interne s'il y avait de l'intérêt. Attendre qu'une personne contacte si intérêt. |
 | UdeS - Direction STI / automatisation | Francis Bouchard-Boulianne / Francis.Bouchard-Boulianne@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30, sans téléphone | En attente | Angle data science, automatisation, architecture et amélioration des services. Attendre environ une semaine. |
 | Cégep de Sherbrooke | Michel Savoie / Coord.DTI@cegepsherbrooke.qc.ca | Candidature ciblée envoyée le 2026-04-30, sans téléphone | En attente | DTI interne, support aux utilisateurs, outils numériques et documentation. Attendre environ une semaine. |
+| Cégep de Shawinigan | Danny Morin / dmorin@cshawi.ca | Candidature ciblée envoyée le 2026-04-30 avec CV, sans téléphone | En attente | Ressources informationnelles, support aux utilisateurs, postes, outils Microsoft et documentation. Attendre environ une semaine. |
 | Ville de Rouyn-Noranda | Serge Lebourdais / serge.lebourdais@rouyn-noranda.ca | Candidature ciblée envoyée le 2026-04-30, sans téléphone | En attente | Piste municipale plus éloignée; intéressante si mobilité possible. Attendre environ une semaine. |
 | UQTR - STI | Denis Deschênes / Denis.Deschenes@uqtr.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Déjà traité; ne pas renvoyer. |
 | UQTR - Développement de systèmes | Marie-Chantal Denis / Marie-Chantal.Denis@uqtr.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Déjà traité; ne pas renvoyer. |
@@ -92,6 +94,7 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | 2026-05-06 | CSS de l'Énergie, CSSDM, CSS de la Capitale, CSS des Bois-Francs | Relancer seulement s'il n'y a aucun retour. |
 | 2026-05-07 | Contacts TI locaux envoyés le 2026-04-30 | Vérifier réponses : AIDE Informatique, Solution Informatique 3R, GOX, Ulogik, Manel, Intellogiciel, Ordivert, Stratéjia, La Fabrique Web, Shawinigan Informatique. |
 | 2026-05-07 | Nouveaux contacts publics envoyés le 2026-04-30 | Vérifier réponses : Ville de Drummondville, CSS de l'Énergie / Christian Amyot, CSS des Chênes, Francis Bouchard-Boulianne, Cégep de Sherbrooke, Ville de Rouyn-Noranda. |
+| 2026-05-07 | Contacts publics envoyés avec CV le 2026-04-30 | Vérifier réponses : Ville de Trois-Rivières / 311 et Cégep de Shawinigan / Danny Morin. |
 | 2026-05-07 | Candidatures universitaires du 2026-04-30 | Vérifier les réponses, puis relancer seulement si pertinent. Ne pas relancer Ian Gosselin trop vite : il a déjà vérifié à l'interne. |
 | 2026-05-07 | Nouveaux contacts UdeS via secrétariat STI | Vérifier réponses pour Jean Lavoie et Pierre-Nicolas Paradis. |
 | 2026-05-07 | Rondeau/Pulsar, MS Solutions, KuriosIT, GC Brieau, QualiTech | Vérifier les réponses, puis relancer seulement si pertinent. |
@@ -104,12 +107,21 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | OKTO Solutions | Trois-Rivières | 994 Boulevard du St-Maurice #2, Trois-Rivières, QC G9A 3R3 / info@oktosolutions.ca / 450-231-3836 | Vérifier si la candidature est déjà partie. |
 | 6tem TI | L'Ancienne-Lorette | 1111, rue de l'Amitié, L'Ancienne-Lorette, QC G2E 5K3 / info@6temti.ca / 877-262-3988 | Vérifier si la candidature est déjà partie. |
 | Groupe InfoPlus | Drummondville | 1240, boulevard St-Joseph, Drummondville, QC J2C 2E1 / info@infoplus.ca / 819-478-0994 | Vérifier si la candidature est déjà partie. |
+| Ville de Sherbrooke | Sherbrooke | Daniel Bouffard / téléphone central 819-821-5858 | Aucun courriel fourni; trouver un courriel officiel avant action. |
+| Cégep de Trois-Rivières | Trois-Rivières | Sophie Paquette / téléphone général 819-376-1721 | Aucun courriel fourni; trouver un courriel officiel avant action. |
+| Ville de Saguenay | Saguenay | Clint Girard / téléphone service IT 418-698-3335 | Aucun courriel fourni; trouver un courriel officiel avant action. |
+| UQAC | Chicoutimi | Annie Fournier / téléphone général 418-545-5011 | Aucun courriel fourni; trouver un courriel officiel avant action. |
+| Ville de Québec | Québec | Patrick Ouellette / 311, 418-641-6311 | Aucun courriel fourni; trouver un courriel officiel avant action. |
 
 ## Notes
 
 - Ne pas relancer les refus confirmés.
 - Le 2026-04-30, 10 nouveaux contacts TI locaux ont été ajoutés et contactés avec CV : AIDE Informatique, Solution Informatique 3R, GOX Technologies, Ulogik, Manel Solutions, Intellogiciel, Ordivert, Stratéjia, La Fabrique Web et Shawinigan Informatique.
 - Le 2026-04-30, 6 nouveaux courriels ont été envoyés à partir de `First_mail_instructruction.md`, sans téléphone : Ville de Drummondville, CSS de l'Énergie / Christian Amyot, CSS des Chênes, Francis Bouchard-Boulianne, Cégep de Sherbrooke et Ville de Rouyn-Noranda.
+- Le 2026-04-30, 2 nouveaux courriels ont été envoyés avec CV attaché, sans téléphone : Ville de Trois-Rivières via 311@v3r.net et Cégep de Shawinigan / Danny Morin.
+- Le 2026-04-30, Denis Deschênes / UQTR n'a pas été recontacté, car une candidature lui avait déjà été envoyée le même jour.
+- Le 2026-04-30, aucun courriel n'a été envoyé aux contacts sans adresse courriel fournie : Ville de Sherbrooke / Daniel Bouffard, Cégep de Trois-Rivières / Sophie Paquette, Ville de Saguenay / Clint Girard, UQAC / Annie Fournier, Ville de Québec / Patrick Ouellette.
+- Le 2026-04-30, Pierre Martineau / Ville de Trois-Rivières et Michel Tremblay / Ville de Drummondville n'ont pas été traités comme nouveaux envois séparés : les organisations avaient déjà une candidature envoyée.
 - Sylvie Bissonnette n'a pas été recontactée le 2026-04-30, car elle était déjà dans `stage.md` comme candidature envoyée.
 - Dernier mail reçu ajouté : refus TELIPSO, reçu le 2026-04-30; poste de stagiaire déjà occupé.
 - Le 2026-04-30, aucune relance supplémentaire n'était pertinente sauf la reprise Université Laval vers le CRIC après redirection du GATI.
