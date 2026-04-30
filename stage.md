@@ -45,7 +45,7 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | UQTR - STI | Denis Deschênes / Denis.Deschenes@uqtr.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Déjà traité; ne pas renvoyer. |
 | UQTR - Développement de systèmes | Marie-Chantal Denis / Marie-Chantal.Denis@uqtr.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Déjà traité; ne pas renvoyer. |
 | ENAP - Direction TI | Patrick Fortin / patrick.fortin@enap.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Déjà traité; ne pas renvoyer. |
-| Université Laval - CRIC | cric.aide@ulaval.ca | Candidature envoyée le 2026-04-30 avec CV après redirection du GATI | En attente | Attendre environ une semaine. |
+| Université Laval - CRIC | cric.aide@ulaval.ca | Candidature envoyée le 2026-04-30 avec CV après redirection du GATI; accusé reçu billet C20-15657 | En attente | Demande bien reçue par le CRIC. Attendre la suite avant relance. |
 | Jean-Michel Rondeau / Pulsar Telecom | jean-michel.rondeau@pulsartelecom.ca | Relance envoyée le 2026-04-30 | En attente | Attendre jusqu'au 2026-05-07. |
 | M.J. Galarneau / MS Solutions | mj.galarneau@mssolutions.ca | Relance envoyée le 2026-04-30 | En attente | Attendre jusqu'au 2026-05-07. |
 | KuriosIT | info@kuriosit.ca | Relance envoyée le 2026-04-30 | En attente | Attendre jusqu'au 2026-05-07. |
@@ -91,6 +91,7 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 ## Notes
 
 - Ne pas relancer les refus confirmés.
+- Dernier mail reçu ajouté : accusé de réception CRIC Université Laval, billet C20-15657, reçu le 2026-04-30.
 - Le 2026-04-30, aucune relance supplémentaire n'était pertinente sauf la reprise Université Laval vers le CRIC après redirection du GATI.
 - Je n'ai pas trouvé de fichier `first_mail_instructions` dans le dépôt au moment de l'envoi; les courriels ont suivi le style court et ciblé déjà utilisé.
 - Le 2026-04-30, la liste de 7 nouveaux contacts contenait 5 doublons déjà traités : Claude Poulin, Denis Deschênes, Marie-Chantal Denis, Patrick Fortin et Mathieu Giguère / Université Laval.
