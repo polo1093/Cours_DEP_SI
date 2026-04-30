@@ -45,7 +45,10 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | Stratéjia / Progel | info@stratejia.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Conseil numérique à Trois-Rivières. Attendre environ une semaine. |
 | La Fabrique Web | Kelly / kelly@lafabriqueweb.com | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Agence web locale; angle support, outils numériques et automatisation. Attendre environ une semaine. |
 | Shawinigan Informatique | info@shawinigan-informatique.com | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Support informatique local. Attendre environ une semaine. |
-| UdeS - Centre de services informatiques | Sylvie Bissonnette / Sylvie.Bissonnette@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
+| Ville de Drummondville | Martin Choquette / mchoquette@drummondville.ca | Candidature ciblée envoyée le 2026-04-30, sans téléphone | En attente | Support municipal, logiciels, téléphonie IP, équipements, systèmes municipaux et géomatique. Attendre environ une semaine. |
+| CSS de l'Énergie | Christian Amyot / camyot@cssenergie.gouv.qc.ca / formulaire | Formulaire soumis le 2026-04-29; candidature ciblée envoyée à Christian Amyot le 2026-04-30, sans téléphone | En attente | Gros parc scolaire, bureautique, réseautique, télécom et systèmes informatisés. Relancer le 2026-05-06 ou 2026-05-07 si aucun retour. |
+| CSS des Chênes | Stéphane Guilbert / direction.si@cssdeschenes.gouv.qc.ca | Candidature ciblée envoyée le 2026-04-30, sans téléphone | En attente | Organisation scolaire importante : support, postes, réseau, Microsoft et déploiement. Attendre environ une semaine. |
+| UdeS - Centre de services informatiques | Sylvie Bissonnette / Sylvie.Bissonnette@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Déjà contactée; ne pas renvoyer. |
 | UdeS - Centre de services informatiques + soutien technique | À l'attention de Jean Lavoie / secretariat-sti@usherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Réponse automatique : secrétariat fermé jusqu'au lundi 2026-05-04. Attendre. |
 | UdeS - Infrastructure technologique | Claude Poulin / Claude.Poulin5@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Déjà traité; ne pas renvoyer via secrétariat pour éviter doublon. |
 | UdeS - Télécommunications | Patrick Lallier / Patrick.Lallier@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
@@ -53,6 +56,9 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | UdeS - Plateformes / soutien communauté / intelligence d'affaires | À l'attention de Pierre-Nicolas Paradis / secretariat-sti@usherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Secrétariat fermé jusqu'au 2026-05-04; attendre. |
 | UdeS - Excellence services TI | Stéphane Martel / Stephane.Martel@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Réponse automatique reçue; surveiller sans relancer maintenant. |
 | UdeS - Direction STI | Ian Gosselin / Ian.Gosselin@USherbrooke.ca | Réponse reçue le 2026-04-30; remerciement envoyé le même jour | En attente positive | Ian a demandé à l'interne s'il y avait de l'intérêt. Attendre qu'une personne contacte si intérêt. |
+| UdeS - Direction STI / automatisation | Francis Bouchard-Boulianne / Francis.Bouchard-Boulianne@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30, sans téléphone | En attente | Angle data science, automatisation, architecture et amélioration des services. Attendre environ une semaine. |
+| Cégep de Sherbrooke | Michel Savoie / Coord.DTI@cegepsherbrooke.qc.ca | Candidature ciblée envoyée le 2026-04-30, sans téléphone | En attente | DTI interne, support aux utilisateurs, outils numériques et documentation. Attendre environ une semaine. |
+| Ville de Rouyn-Noranda | Serge Lebourdais / serge.lebourdais@rouyn-noranda.ca | Candidature ciblée envoyée le 2026-04-30, sans téléphone | En attente | Piste municipale plus éloignée; intéressante si mobilité possible. Attendre environ une semaine. |
 | UQTR - STI | Denis Deschênes / Denis.Deschenes@uqtr.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Déjà traité; ne pas renvoyer. |
 | UQTR - Développement de systèmes | Marie-Chantal Denis / Marie-Chantal.Denis@uqtr.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Déjà traité; ne pas renvoyer. |
 | ENAP - Direction TI | Patrick Fortin / patrick.fortin@enap.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Déjà traité; ne pas renvoyer. |
@@ -70,7 +76,6 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | MicroAge Québec / Trois-Rivières | info@microagequebec.ca | Premier mail envoyé le 2026-04-27 | En attente | Relancer autour du 2026-05-07 si aucun retour. |
 | MicroAge Québec ancien contact | confidentialite@microagequebec.ca | Relance envoyée le 2026-04-20 | En attente | Ne pas relancer trop vite pour éviter un doublon avec info@microagequebec.ca. |
 | SBK Techno | info@sbktechno.com | Premier mail envoyé le 2026-04-27 | En attente | Relancer autour du 2026-05-07 si aucun retour. |
-| CSS de l'Énergie | Formulaire / cse@cssenergie.gouv.qc.ca | Formulaire soumis le 2026-04-29 | En attente | Relancer le 2026-05-06 si aucun retour. |
 | CSSDM | Ti.stages@cssdm.gouv.qc.ca | Demande envoyée le 2026-04-29 | En attente | Relancer le 2026-05-06 si aucun retour. |
 | CSS de la Capitale | Formulaire / candidature@cssc.gouv.qc.ca / srh1@cssc.gouv.qc.ca | Demande par courriel puis formulaire le 2026-04-29 | En attente | Relancer seulement si aucune réponse. |
 | CSS des Bois-Francs | emploi@cssbf.gouv.qc.ca / info@cssbf.gouv.qc.ca | Demande envoyée le 2026-04-29 | En attente | Relancer le 2026-05-06 si aucun retour RH. |
@@ -86,6 +91,7 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | 2026-05-04 | UdeS via secretariat-sti@usherbrooke.ca | Le secrétariat rouvre; surveiller avant de relancer Jean Lavoie / Pierre-Nicolas Paradis. |
 | 2026-05-06 | CSS de l'Énergie, CSSDM, CSS de la Capitale, CSS des Bois-Francs | Relancer seulement s'il n'y a aucun retour. |
 | 2026-05-07 | Contacts TI locaux envoyés le 2026-04-30 | Vérifier réponses : AIDE Informatique, Solution Informatique 3R, GOX, Ulogik, Manel, Intellogiciel, Ordivert, Stratéjia, La Fabrique Web, Shawinigan Informatique. |
+| 2026-05-07 | Nouveaux contacts publics envoyés le 2026-04-30 | Vérifier réponses : Ville de Drummondville, CSS de l'Énergie / Christian Amyot, CSS des Chênes, Francis Bouchard-Boulianne, Cégep de Sherbrooke, Ville de Rouyn-Noranda. |
 | 2026-05-07 | Candidatures universitaires du 2026-04-30 | Vérifier les réponses, puis relancer seulement si pertinent. Ne pas relancer Ian Gosselin trop vite : il a déjà vérifié à l'interne. |
 | 2026-05-07 | Nouveaux contacts UdeS via secrétariat STI | Vérifier réponses pour Jean Lavoie et Pierre-Nicolas Paradis. |
 | 2026-05-07 | Rondeau/Pulsar, MS Solutions, KuriosIT, GC Brieau, QualiTech | Vérifier les réponses, puis relancer seulement si pertinent. |
@@ -103,9 +109,11 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 
 - Ne pas relancer les refus confirmés.
 - Le 2026-04-30, 10 nouveaux contacts TI locaux ont été ajoutés et contactés avec CV : AIDE Informatique, Solution Informatique 3R, GOX Technologies, Ulogik, Manel Solutions, Intellogiciel, Ordivert, Stratéjia, La Fabrique Web et Shawinigan Informatique.
+- Le 2026-04-30, 6 nouveaux courriels ont été envoyés à partir de `First_mail_instructruction.md`, sans téléphone : Ville de Drummondville, CSS de l'Énergie / Christian Amyot, CSS des Chênes, Francis Bouchard-Boulianne, Cégep de Sherbrooke et Ville de Rouyn-Noranda.
+- Sylvie Bissonnette n'a pas été recontactée le 2026-04-30, car elle était déjà dans `stage.md` comme candidature envoyée.
 - Dernier mail reçu ajouté : refus TELIPSO, reçu le 2026-04-30; poste de stagiaire déjà occupé.
 - Le 2026-04-30, aucune relance supplémentaire n'était pertinente sauf la reprise Université Laval vers le CRIC après redirection du GATI.
-- Je n'ai pas trouvé de fichier `First_mail` / `first_mail_instructions` dans le dépôt au moment de l'envoi; les courriels ont suivi le style court et ciblé déjà utilisé.
+- `First_mail_instructruction.md` a été lu le 2026-04-30; les courriels doivent rester courts, orientés stage DEP soutien informatique, et ne pas inclure le téléphone.
 - Le 2026-04-30, la liste de 7 nouveaux contacts contenait 5 doublons déjà traités : Claude Poulin, Denis Deschênes, Marie-Chantal Denis, Patrick Fortin et Mathieu Giguère / Université Laval.
 - Les deux nouveaux contacts non redondants envoyés le 2026-04-30 sont Jean Lavoie et Pierre-Nicolas Paradis, via secretariat-sti@usherbrooke.ca.
 - Ian Gosselin a répondu le 2026-04-30 : l'UdeS privilégie habituellement ses stagiaires, mais il a quand même demandé à l'interne s'il y avait de l'intérêt. Réponse de remerciement envoyée.
