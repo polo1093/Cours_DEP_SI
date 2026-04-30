@@ -18,6 +18,7 @@ Ces pistes sont fermées : refus reçu, entrevue terminée avec refus, ou piste 
 | TNT Services Informatiques | info@tntsi.ca / Humanify | Entrevue réalisée, suivi reçu le 2026-04-23 | Refus | Processus terminé. |
 | Elli Complice TI | Alain Girard / ventes@elli-ti.io | Relance envoyée le 2026-04-29 | Refus | Refus reçu le 2026-04-29. |
 | Synovatec | info@synovatec.com | Premier mail envoyé le 2026-04-27 | Refus | Refus reçu le 2026-04-28 : pas de poste ouvert en assistance technique. |
+| TELIPSO | Pierre-Luc Tremblay / pltremblay@telipso.com | Premier mail envoyé le 2026-04-27 | Refus | Réponse reçue le 2026-04-30 : poste de stagiaire déjà occupé. |
 | Connextek | info@connextek.ca | Relance envoyée le 2026-04-30 | Refus | Réponse reçue le 2026-04-30 : ne prennent pas de stagiaire pour l'instant. |
 | CSS des Samares | rhstagesnonenseignant@csssamares.gouv.qc.ca | Demande envoyée le 2026-04-29 | Refus | Refus reçu le 2026-04-29 : pas de capacité d'accueil. |
 | CSS Chemin-du-Roy | candidatures@csscdr.gouv.qc.ca / info@csscdr.gouv.qc.ca | Demande de stage | Refus | Refus reçu le 2026-04-27; ne pas relancer sauf nouvelle piste. |
@@ -63,7 +64,6 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | QualiTech | Charles Trudeau / info@qualitechlm.com | Candidature le 2026-04-22, relance le 2026-04-29 | En attente | Attendre jusqu'au 2026-05-07. Profil hybride soutien + automatisation. |
 | Rhesus | service@rhesus.net | Premier mail envoyé le 2026-04-27 | En attente | Relancer autour du 2026-05-07 si aucun retour. Ticket reçu. |
 | Micromedica Solutions d'affaires | info@mmbs.ca | Premier mail envoyé le 2026-04-27 | En attente | Relancer autour du 2026-05-07 si aucun retour. |
-| TELIPSO | pltremblay@telipso.com | Premier mail envoyé le 2026-04-27 | En attente | Relancer autour du 2026-05-07 si aucun retour. |
 | Solti Solutions TI | martin.chartrand@solti.ca | Premier mail envoyé le 2026-04-27 | En attente | Relancer autour du 2026-05-07 si aucun retour. |
 | Kezber | info@kezber.com | Premier mail envoyé le 2026-04-27 | En attente | Relancer autour du 2026-05-07 si aucun retour. |
 | Sogetel Affaires | affaires@sogetel.com / recrutement@sogetel.com | Premier mail le 2026-04-27, intérêt confirmé le 2026-04-28 | En attente | Attendre; le dossier a été transféré au recrutement. |
@@ -89,7 +89,7 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | 2026-05-07 | Candidatures universitaires du 2026-04-30 | Vérifier les réponses, puis relancer seulement si pertinent. Ne pas relancer Ian Gosselin trop vite : il a déjà vérifié à l'interne. |
 | 2026-05-07 | Nouveaux contacts UdeS via secrétariat STI | Vérifier réponses pour Jean Lavoie et Pierre-Nicolas Paradis. |
 | 2026-05-07 | Rondeau/Pulsar, MS Solutions, KuriosIT, GC Brieau, QualiTech | Vérifier les réponses, puis relancer seulement si pertinent. |
-| 2026-05-07 | Rhesus, Micromedica, TELIPSO, Solti, Kezber, MicroAge, SBK Techno | Relancer les candidatures du 2026-04-27 encore sans réponse. |
+| 2026-05-07 | Rhesus, Micromedica, Solti, Kezber, MicroAge, SBK Techno | Relancer les candidatures du 2026-04-27 encore sans réponse. |
 
 ## Contacts à vérifier avant action
 
@@ -103,7 +103,7 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 
 - Ne pas relancer les refus confirmés.
 - Le 2026-04-30, 10 nouveaux contacts TI locaux ont été ajoutés et contactés avec CV : AIDE Informatique, Solution Informatique 3R, GOX Technologies, Ulogik, Manel Solutions, Intellogiciel, Ordivert, Stratéjia, La Fabrique Web et Shawinigan Informatique.
-- Dernier mail reçu ajouté : accusé de réception CRIC Université Laval, billet C20-15657, reçu le 2026-04-30.
+- Dernier mail reçu ajouté : refus TELIPSO, reçu le 2026-04-30; poste de stagiaire déjà occupé.
 - Le 2026-04-30, aucune relance supplémentaire n'était pertinente sauf la reprise Université Laval vers le CRIC après redirection du GATI.
 - Je n'ai pas trouvé de fichier `First_mail` / `first_mail_instructions` dans le dépôt au moment de l'envoi; les courriels ont suivi le style court et ciblé déjà utilisé.
 - Le 2026-04-30, la liste de 7 nouveaux contacts contenait 5 doublons déjà traités : Claude Poulin, Denis Deschênes, Marie-Chantal Denis, Patrick Fortin et Mathieu Giguère / Université Laval.
