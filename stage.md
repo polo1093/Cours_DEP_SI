@@ -18,6 +18,7 @@ Ces pistes sont fermées : refus reçu, entrevue terminée avec refus, ou piste 
 | TNT Services Informatiques | info@tntsi.ca / Humanify | Entrevue réalisée, suivi reçu le 2026-04-23 | Refus | Processus terminé. |
 | Elli Complice TI | Alain Girard / ventes@elli-ti.io | Relance envoyée le 2026-04-29 | Refus | Refus reçu le 2026-04-29. |
 | Synovatec | info@synovatec.com | Premier mail envoyé le 2026-04-27 | Refus | Refus reçu le 2026-04-28 : pas de poste ouvert en assistance technique. |
+| Connextek | info@connextek.ca | Relance envoyée le 2026-04-30 | Refus | Réponse reçue le 2026-04-30 : ne prennent pas de stagiaire pour l'instant. |
 | CSS des Samares | rhstagesnonenseignant@csssamares.gouv.qc.ca | Demande envoyée le 2026-04-29 | Refus | Refus reçu le 2026-04-29 : pas de capacité d'accueil. |
 | CSS Chemin-du-Roy | candidatures@csscdr.gouv.qc.ca / info@csscdr.gouv.qc.ca | Demande de stage | Refus | Refus reçu le 2026-04-27; ne pas relancer sauf nouvelle piste. |
 | Cascades | contact@cascades.com | Candidature le 2026-04-01, relance le 2026-04-14 | Dead | Réponse : passer par le portail, contact seulement si retenu. |
@@ -25,6 +26,7 @@ Ces pistes sont fermées : refus reçu, entrevue terminée avec refus, ou piste 
 | IT-ED | ventes@it-ed.com | Relance le 2026-04-14 | Fermé / faible priorité | Réponse reçue : candidature reçue, consulter LinkedIn. Numéro 1 844 666-4833 non fonctionnel. |
 | Université de Sherbrooke - direction générique | direction-informatique@usherbrooke.ca | Relance le 2026-04-20 | Fermé / faible priorité | Pas de besoin présentement; possible transfert interne. |
 | Université Laval - ancienne adresse DTI | dti@dti.ulaval.ca | Candidature envoyée le 2026-04-30 | Échec d'envoi | Adresse introuvable / message non livré. Reprise envoyée à aide@dti.ulaval.ca. |
+| Université Laval - Guichet DTI | aide@dti.ulaval.ca | Reprise envoyée le 2026-04-30 | Redirigé | Le guichet a redirigé vers le CRIC : cric.aide@ulaval.ca. |
 
 ## Pas fini
 
@@ -33,21 +35,20 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | Organisation | Contact | Dernière action | Statut | Prochaine étape |
 | --- | --- | --- | --- | --- |
 | UdeS - Centre de services informatiques | Sylvie Bissonnette / Sylvie.Bissonnette@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
-| UdeS - Centre de services informatiques + soutien technique | À l'attention de Jean Lavoie / secretariat-sti@usherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Nouveau contact non redondant. Attendre environ une semaine. |
+| UdeS - Centre de services informatiques + soutien technique | À l'attention de Jean Lavoie / secretariat-sti@usherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Réponse automatique : secrétariat fermé jusqu'au lundi 2026-05-04. Attendre. |
 | UdeS - Infrastructure technologique | Claude Poulin / Claude.Poulin5@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Déjà traité; ne pas renvoyer via secrétariat pour éviter doublon. |
 | UdeS - Télécommunications | Patrick Lallier / Patrick.Lallier@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
 | UdeS - Sécurité opérationnelle et accès | Patrice Dalle / Patrice.Dalle@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
-| UdeS - Plateformes / soutien communauté / intelligence d'affaires | À l'attention de Pierre-Nicolas Paradis / secretariat-sti@usherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Nouveau contact non redondant. Attendre environ une semaine. |
-| UdeS - Excellence services TI | Stéphane Martel / Stephane.Martel@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
+| UdeS - Plateformes / soutien communauté / intelligence d'affaires | À l'attention de Pierre-Nicolas Paradis / secretariat-sti@usherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Secrétariat fermé jusqu'au 2026-05-04; attendre. |
+| UdeS - Excellence services TI | Stéphane Martel / Stephane.Martel@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Réponse automatique reçue; surveiller sans relancer maintenant. |
 | UdeS - Direction STI | Ian Gosselin / Ian.Gosselin@USherbrooke.ca | Réponse reçue le 2026-04-30; remerciement envoyé le même jour | En attente positive | Ian a demandé à l'interne s'il y avait de l'intérêt. Attendre qu'une personne contacte si intérêt. |
 | UQTR - STI | Denis Deschênes / Denis.Deschenes@uqtr.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Déjà traité; ne pas renvoyer. |
 | UQTR - Développement de systèmes | Marie-Chantal Denis / Marie-Chantal.Denis@uqtr.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Déjà traité; ne pas renvoyer. |
 | ENAP - Direction TI | Patrick Fortin / patrick.fortin@enap.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Déjà traité; ne pas renvoyer. |
-| Université Laval - DTI | À l'attention de Mathieu Giguère / aide@dti.ulaval.ca | Reprise envoyée le 2026-04-30 avec CV après échec de dti@dti.ulaval.ca | En attente | Adresse dti@dti.ulaval.ca invalide; ne pas réutiliser. |
+| Université Laval - CRIC | cric.aide@ulaval.ca | Candidature envoyée le 2026-04-30 avec CV après redirection du GATI | En attente | Attendre environ une semaine. |
 | Jean-Michel Rondeau / Pulsar Telecom | jean-michel.rondeau@pulsartelecom.ca | Relance envoyée le 2026-04-30 | En attente | Attendre jusqu'au 2026-05-07. |
 | M.J. Galarneau / MS Solutions | mj.galarneau@mssolutions.ca | Relance envoyée le 2026-04-30 | En attente | Attendre jusqu'au 2026-05-07. |
 | KuriosIT | info@kuriosit.ca | Relance envoyée le 2026-04-30 | En attente | Attendre jusqu'au 2026-05-07. |
-| Connextek | info@connextek.ca | Relance envoyée le 2026-04-30 | En attente | Attendre jusqu'au 2026-05-07. |
 | GC Brieau | Julien Dernaucourt / jdernaucourt@gcbrieau.com | Candidature le 2026-04-22, relance le 2026-04-29 | En attente | Attendre jusqu'au 2026-05-07. Cible prioritaire MSP / cloud / soutien entreprise. |
 | QualiTech | Charles Trudeau / info@qualitechlm.com | Candidature le 2026-04-22, relance le 2026-04-29 | En attente | Attendre jusqu'au 2026-05-07. Profil hybride soutien + automatisation. |
 | Rhesus | service@rhesus.net | Premier mail envoyé le 2026-04-27 | En attente | Relancer autour du 2026-05-07 si aucun retour. Ticket reçu. |
@@ -72,10 +73,11 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 
 | Date | Qui | Action |
 | --- | --- | --- |
+| 2026-05-04 | UdeS via secretariat-sti@usherbrooke.ca | Le secrétariat rouvre; surveiller avant de relancer Jean Lavoie / Pierre-Nicolas Paradis. |
 | 2026-05-06 | CSS de l'Énergie, CSSDM, CSS de la Capitale, CSS des Bois-Francs | Relancer seulement s'il n'y a aucun retour. |
 | 2026-05-07 | Candidatures universitaires du 2026-04-30 | Vérifier les réponses, puis relancer seulement si pertinent. Ne pas relancer Ian Gosselin trop vite : il a déjà vérifié à l'interne. |
 | 2026-05-07 | Nouveaux contacts UdeS via secrétariat STI | Vérifier réponses pour Jean Lavoie et Pierre-Nicolas Paradis. |
-| 2026-05-07 | Rondeau/Pulsar, MS Solutions, KuriosIT, Connextek, GC Brieau, QualiTech | Vérifier les réponses, puis relancer seulement si pertinent. |
+| 2026-05-07 | Rondeau/Pulsar, MS Solutions, KuriosIT, GC Brieau, QualiTech | Vérifier les réponses, puis relancer seulement si pertinent. |
 | 2026-05-07 | Rhesus, Micromedica, TELIPSO, Solti, Kezber, MicroAge, SBK Techno | Relancer les candidatures du 2026-04-27 encore sans réponse. |
 
 ## Contacts à vérifier avant action
@@ -89,11 +91,12 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 ## Notes
 
 - Ne pas relancer les refus confirmés.
+- Le 2026-04-30, aucune relance supplémentaire n'était pertinente sauf la reprise Université Laval vers le CRIC après redirection du GATI.
 - Je n'ai pas trouvé de fichier `first_mail_instructions` dans le dépôt au moment de l'envoi; les courriels ont suivi le style court et ciblé déjà utilisé.
 - Le 2026-04-30, la liste de 7 nouveaux contacts contenait 5 doublons déjà traités : Claude Poulin, Denis Deschênes, Marie-Chantal Denis, Patrick Fortin et Mathieu Giguère / Université Laval.
 - Les deux nouveaux contacts non redondants envoyés le 2026-04-30 sont Jean Lavoie et Pierre-Nicolas Paradis, via secretariat-sti@usherbrooke.ca.
 - Ian Gosselin a répondu le 2026-04-30 : l'UdeS privilégie habituellement ses stagiaires, mais il a quand même demandé à l'interne s'il y avait de l'intérêt. Réponse de remerciement envoyée.
-- Université Laval : dti@dti.ulaval.ca a échoué; la candidature a été reprise vers aide@dti.ulaval.ca le 2026-04-30.
+- Université Laval : dti@dti.ulaval.ca a échoué; aide@dti.ulaval.ca a redirigé vers cric.aide@ulaval.ca; candidature envoyée au CRIC le 2026-04-30.
 - Dans les courriels envoyés le 2026-04-30, l'adresse courriel a été incluse et aucun numéro de téléphone n'a été ajouté dans le texte.
-- Les relances envoyées le 2026-04-30 sont : Jean-Michel Rondeau / Pulsar, M.J. Galarneau / MS Solutions, KuriosIT et Connextek.
+- Les relances envoyées le 2026-04-30 sont : Jean-Michel Rondeau / Pulsar, M.J. Galarneau / MS Solutions, KuriosIT et Connextek. Connextek a depuis répondu non.
 - BGM Alama, Global TI Saguenay et UNNO viennent surtout de notes hors Gmail; garder ces statuts si tu les confirmes.
