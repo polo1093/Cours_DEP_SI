@@ -24,6 +24,7 @@ Ces pistes sont fermées : refus reçu, entrevue terminée avec refus, ou piste 
 | Cyber3D | info@cyber3d.ca | Candidature le 2026-04-09, relance le 2026-04-20 | Refus | Refus reçu le 2026-04-09; ne plus relancer. |
 | IT-ED | ventes@it-ed.com | Relance le 2026-04-14 | Fermé / faible priorité | Réponse reçue : candidature reçue, consulter LinkedIn. Numéro 1 844 666-4833 non fonctionnel. |
 | Université de Sherbrooke - direction générique | direction-informatique@usherbrooke.ca | Relance le 2026-04-20 | Fermé / faible priorité | Pas de besoin présentement; possible transfert interne. |
+| Université Laval - ancienne adresse DTI | dti@dti.ulaval.ca | Candidature envoyée le 2026-04-30 | Échec d'envoi | Adresse introuvable / message non livré. Reprise envoyée à aide@dti.ulaval.ca. |
 
 ## Pas fini
 
@@ -36,11 +37,11 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | UdeS - Télécommunications | Patrick Lallier / Patrick.Lallier@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
 | UdeS - Sécurité opérationnelle et accès | Patrice Dalle / Patrice.Dalle@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
 | UdeS - Excellence services TI | Stéphane Martel / Stephane.Martel@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
-| UdeS - Direction STI | Ian Gosselin / Ian.Gosselin@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
+| UdeS - Direction STI | Ian Gosselin / Ian.Gosselin@USherbrooke.ca | Réponse reçue le 2026-04-30; remerciement envoyé le même jour | En attente positive | Ian a demandé à l'interne s'il y avait de l'intérêt. Attendre qu'une personne contacte si intérêt. |
 | UQTR - STI | Denis Deschênes / Denis.Deschenes@uqtr.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
 | UQTR - Développement de systèmes | Marie-Chantal Denis / Marie-Chantal.Denis@uqtr.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
 | ENAP - Direction TI | Patrick Fortin / patrick.fortin@enap.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
-| Université Laval - DTI | À l'attention de Mathieu Giguère / dti@dti.ulaval.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
+| Université Laval - DTI | À l'attention de Mathieu Giguère / aide@dti.ulaval.ca | Reprise envoyée le 2026-04-30 avec CV après échec de dti@dti.ulaval.ca | En attente | Attendre environ une semaine. |
 | Jean-Michel Rondeau / Pulsar Telecom | jean-michel.rondeau@pulsartelecom.ca | Relance envoyée le 2026-04-30 | En attente | Attendre jusqu'au 2026-05-07. |
 | M.J. Galarneau / MS Solutions | mj.galarneau@mssolutions.ca | Relance envoyée le 2026-04-30 | En attente | Attendre jusqu'au 2026-05-07. |
 | KuriosIT | info@kuriosit.ca | Relance envoyée le 2026-04-30 | En attente | Attendre jusqu'au 2026-05-07. |
@@ -70,7 +71,7 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | Date | Qui | Action |
 | --- | --- | --- |
 | 2026-05-06 | CSS de l'Énergie, CSSDM, CSS de la Capitale, CSS des Bois-Francs | Relancer seulement s'il n'y a aucun retour. |
-| 2026-05-07 | Candidatures universitaires du 2026-04-30 | Vérifier les réponses, puis relancer seulement si pertinent. |
+| 2026-05-07 | Candidatures universitaires du 2026-04-30 | Vérifier les réponses, puis relancer seulement si pertinent. Ne pas relancer Ian Gosselin trop vite : il a déjà vérifié à l'interne. |
 | 2026-05-07 | Rondeau/Pulsar, MS Solutions, KuriosIT, Connextek, GC Brieau, QualiTech | Vérifier les réponses, puis relancer seulement si pertinent. |
 | 2026-05-07 | Rhesus, Micromedica, TELIPSO, Solti, Kezber, MicroAge, SBK Techno | Relancer les candidatures du 2026-04-27 encore sans réponse. |
 
@@ -85,6 +86,8 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 ## Notes
 
 - Ne pas relancer les refus confirmés.
+- Ian Gosselin a répondu le 2026-04-30 : l'UdeS privilégie habituellement ses stagiaires, mais il a quand même demandé à l'interne s'il y avait de l'intérêt. Réponse de remerciement envoyée.
+- Université Laval : dti@dti.ulaval.ca a échoué; la candidature a été reprise vers aide@dti.ulaval.ca le 2026-04-30.
 - Les 10 candidatures universitaires ont été envoyées le 2026-04-30 avec le CV en pièce jointe.
 - Dans les courriels envoyés le 2026-04-30, l'adresse courriel a été incluse et aucun numéro de téléphone n'a été ajouté dans le texte.
 - Les relances envoyées le 2026-04-30 sont : Jean-Michel Rondeau / Pulsar, M.J. Galarneau / MS Solutions, KuriosIT et Connextek.
