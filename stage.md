@@ -23,7 +23,7 @@ Ces pistes sont fermées : refus reçu, entrevue terminée avec refus, ou piste 
 | Cascades | contact@cascades.com | Candidature le 2026-04-01, relance le 2026-04-14 | Dead | Réponse : passer par le portail, contact seulement si retenu. |
 | Cyber3D | info@cyber3d.ca | Candidature le 2026-04-09, relance le 2026-04-20 | Refus | Refus reçu le 2026-04-09; ne plus relancer. |
 | IT-ED | ventes@it-ed.com | Relance le 2026-04-14 | Fermé / faible priorité | Réponse reçue : candidature reçue, consulter LinkedIn. Numéro 1 844 666-4833 non fonctionnel. |
-| Université de Sherbrooke | direction-informatique@usherbrooke.ca | Relance le 2026-04-20 | Fermé / faible priorité | Pas de besoin présentement; possible transfert interne. |
+| Université de Sherbrooke - direction générique | direction-informatique@usherbrooke.ca | Relance le 2026-04-20 | Fermé / faible priorité | Pas de besoin présentement; possible transfert interne. |
 
 ## Pas fini
 
@@ -31,12 +31,22 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 
 | Organisation | Contact | Dernière action | Statut | Prochaine étape |
 | --- | --- | --- | --- | --- |
+| UdeS - Centre de services informatiques | Sylvie Bissonnette / Sylvie.Bissonnette@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
+| UdeS - Infrastructure technologique | Claude Poulin / Claude.Poulin5@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
+| UdeS - Télécommunications | Patrick Lallier / Patrick.Lallier@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
+| UdeS - Sécurité opérationnelle et accès | Patrice Dalle / Patrice.Dalle@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
+| UdeS - Excellence services TI | Stéphane Martel / Stephane.Martel@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
+| UdeS - Direction STI | Ian Gosselin / Ian.Gosselin@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
+| UQTR - STI | Denis Deschênes / Denis.Deschenes@uqtr.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
+| UQTR - Développement de systèmes | Marie-Chantal Denis / Marie-Chantal.Denis@uqtr.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
+| ENAP - Direction TI | Patrick Fortin / patrick.fortin@enap.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
+| Université Laval - DTI | À l'attention de Mathieu Giguère / dti@dti.ulaval.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
 | Jean-Michel Rondeau / Pulsar Telecom | jean-michel.rondeau@pulsartelecom.ca | Relance envoyée le 2026-04-30 | En attente | Attendre jusqu'au 2026-05-07. |
 | M.J. Galarneau / MS Solutions | mj.galarneau@mssolutions.ca | Relance envoyée le 2026-04-30 | En attente | Attendre jusqu'au 2026-05-07. |
 | KuriosIT | info@kuriosit.ca | Relance envoyée le 2026-04-30 | En attente | Attendre jusqu'au 2026-05-07. |
 | Connextek | info@connextek.ca | Relance envoyée le 2026-04-30 | En attente | Attendre jusqu'au 2026-05-07. |
-| GC Brieau | Julien Dernaucourt / jdernaucourt@gcbrieau.com / 514-589-8839 | Candidature le 2026-04-22, relance le 2026-04-29 | En attente | Attendre jusqu'au 2026-05-07. Cible prioritaire MSP / cloud / soutien entreprise. |
-| QualiTech | Charles Trudeau / info@qualitechlm.com / 819-864-7778 | Candidature le 2026-04-22, relance le 2026-04-29 | En attente | Attendre jusqu'au 2026-05-07. Profil hybride soutien + automatisation. |
+| GC Brieau | Julien Dernaucourt / jdernaucourt@gcbrieau.com | Candidature le 2026-04-22, relance le 2026-04-29 | En attente | Attendre jusqu'au 2026-05-07. Cible prioritaire MSP / cloud / soutien entreprise. |
+| QualiTech | Charles Trudeau / info@qualitechlm.com | Candidature le 2026-04-22, relance le 2026-04-29 | En attente | Attendre jusqu'au 2026-05-07. Profil hybride soutien + automatisation. |
 | Rhesus | service@rhesus.net | Premier mail envoyé le 2026-04-27 | En attente | Relancer autour du 2026-05-07 si aucun retour. Ticket reçu. |
 | Micromedica Solutions d'affaires | info@mmbs.ca | Premier mail envoyé le 2026-04-27 | En attente | Relancer autour du 2026-05-07 si aucun retour. |
 | TELIPSO | pltremblay@telipso.com | Premier mail envoyé le 2026-04-27 | En attente | Relancer autour du 2026-05-07 si aucun retour. |
@@ -51,15 +61,16 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | CSS de la Capitale | Formulaire / candidature@cssc.gouv.qc.ca / srh1@cssc.gouv.qc.ca | Demande par courriel puis formulaire le 2026-04-29 | En attente | Relancer seulement si aucune réponse. |
 | CSS des Bois-Francs | emploi@cssbf.gouv.qc.ca / info@cssbf.gouv.qc.ca | Demande envoyée le 2026-04-29 | En attente | Relancer le 2026-05-06 si aucun retour RH. |
 | Excelpro | À préciser | Appel + message vocal + courriel de relance le 2026-04-14 | À vérifier | Vérifier le courriel/contact exact avant nouvelle action. |
-| OKTO Solutions | info@oktosolutions.ca / 450-231-3836 | Prospection | À vérifier | Vérifier si une candidature a déjà été envoyée. |
-| 6tem TI | info@6temti.ca / 877-262-3988 | Prospection | À vérifier | Vérifier si une candidature a déjà été envoyée. |
-| Groupe InfoPlus | info@infoplus.ca / 819-478-0994 | Prospection | À vérifier | Vérifier si une candidature a déjà été envoyée. |
+| OKTO Solutions | info@oktosolutions.ca | Prospection | À vérifier | Vérifier si une candidature a déjà été envoyée. |
+| 6tem TI | info@6temti.ca | Prospection | À vérifier | Vérifier si une candidature a déjà été envoyée. |
+| Groupe InfoPlus | info@infoplus.ca | Prospection | À vérifier | Vérifier si une candidature a déjà été envoyée. |
 
 ## Prochaines relances
 
 | Date | Qui | Action |
 | --- | --- | --- |
 | 2026-05-06 | CSS de l'Énergie, CSSDM, CSS de la Capitale, CSS des Bois-Francs | Relancer seulement s'il n'y a aucun retour. |
+| 2026-05-07 | Candidatures universitaires du 2026-04-30 | Vérifier les réponses, puis relancer seulement si pertinent. |
 | 2026-05-07 | Rondeau/Pulsar, MS Solutions, KuriosIT, Connextek, GC Brieau, QualiTech | Vérifier les réponses, puis relancer seulement si pertinent. |
 | 2026-05-07 | Rhesus, Micromedica, TELIPSO, Solti, Kezber, MicroAge, SBK Techno | Relancer les candidatures du 2026-04-27 encore sans réponse. |
 
@@ -74,6 +85,7 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 ## Notes
 
 - Ne pas relancer les refus confirmés.
-- Ne pas relancer les contacts du 2026-04-27 avant environ une semaine, sauf réponse reçue entre-temps.
+- Les 10 candidatures universitaires ont été envoyées le 2026-04-30 avec le CV en pièce jointe.
+- Dans les courriels envoyés le 2026-04-30, l'adresse courriel a été incluse et aucun numéro de téléphone n'a été ajouté dans le texte.
 - Les relances envoyées le 2026-04-30 sont : Jean-Michel Rondeau / Pulsar, M.J. Galarneau / MS Solutions, KuriosIT et Connextek.
 - BGM Alama, Global TI Saguenay et UNNO viennent surtout de notes hors Gmail; garder ces statuts si tu les confirmes.
