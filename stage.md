@@ -2,127 +2,78 @@
 
 Dernière mise à jour : 2026-04-30
 
-## Légende
+## Vue d'ensemble
 
-- **À relancer** : relance prévue si aucun retour.
-- **En attente** : candidature envoyée, aucun refus confirmé.
-- **Refus** : réponse négative reçue.
-- **Dead** : piste fermée ou très peu pertinente à poursuivre.
-- **Entrevue réalisée** : entrevue passée, résultat connu ou à préciser.
+Ce document sépare les démarches **finies** des démarches **encore ouvertes**. Le but est de savoir rapidement quoi oublier, quoi attendre, et quoi relancer.
 
-## Statuts rapides
+## Fini
 
-| Organisation | Statut | Notes |
-| --- | --- | --- |
-| BGM Alama | Dead | Piste à ne plus prioriser. |
-| Global TI Saguenay | Refus | Entrevue refusée à Saguenay. |
-| UNNO | Refus après entrevue | Entrevue réalisée, refus ensuite. |
-| Elli Complice TI | Refus | Refus reçu après relance du 2026-04-29. |
-| Synovatec | Refus | Refus reçu le 2026-04-28 : pas de poste ouvert en assistance technique. |
-| CSS des Samares | Refus | Refus reçu le 2026-04-29 : pas de capacité d'accueil. |
-| CSS Chemin-du-Roy | Refus | Refus reçu le 2026-04-27. |
-| Cascades | Dead | Réponse indiquant de passer par le portail et contact seulement si retenu. |
-| TNT Services Informatiques | Refus | Entrevue effectuée; refus reçu le 2026-04-23. |
-| Sogetel Affaires | En attente | Courriel transféré au recrutement le 2026-04-27; intérêt confirmé le 2026-04-28. |
+Ces pistes sont fermées : refus reçu, entrevue terminée avec refus, ou piste à ne plus prioriser.
 
-## Relances envoyées le 2026-04-30
-
-Relances jugées pertinentes aujourd'hui : dossiers sans retour depuis au moins 10 jours, non refusés, et non relancés la veille.
-
-| Organisation | Contact | Action | Prochain suivi |
-| --- | --- | --- | --- |
-| Jean-Michel Rondeau / Pulsar Telecom | jean-michel.rondeau@pulsartelecom.ca | Relance courte envoyée dans le fil existant. | Attendre jusqu'au 2026-05-07 avant nouvelle action. |
-| M.J. Galarneau / MS Solutions | mj.galarneau@mssolutions.ca | Relance courte envoyée dans le fil existant. | Attendre jusqu'au 2026-05-07 avant nouvelle action. |
-| KuriosIT | info@kuriosit.ca | Relance courte envoyée dans le fil existant. | Attendre jusqu'au 2026-05-07 avant nouvelle action. |
-| Connextek | info@connextek.ca | Relance courte envoyée dans le fil existant. | Attendre jusqu'au 2026-05-07 avant nouvelle action. |
-
-## Contacts initiaux
-
-| # | Organisation | Ville | Adresse / contact | Courriel | Téléphone | Statut |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | OKTO Solutions | Trois-Rivières | 994 Boulevard du St-Maurice #2, Trois-Rivières, QC G9A 3R3 | info@oktosolutions.ca | 450-231-3836 | À vérifier |
-| 2 | 6tem TI | L'Ancienne-Lorette | 1111, rue de l'Amitié, L'Ancienne-Lorette, QC G2E 5K3 | info@6temti.ca | 877-262-3988 | À vérifier |
-| 3 | Groupe InfoPlus | Drummondville | 1240, boulevard St-Joseph, Drummondville, QC J2C 2E1 | info@infoplus.ca | 819-478-0994 | À vérifier |
-| 10 | Cascades | Kingsey Falls | 404, Marie-Victorin Blvd., Kingsey Falls, QC J0A 1B0 | contact@cascades.com | 819-363-5100 | Dead |
-
-## Relances du 2026-04-14
-
-| Organisation | Action | Statut / notes |
-| --- | --- | --- |
-| IT-ED | Mail de relance envoyé concernant la candidature en soutien informatique. | Réponse reçue : candidature reçue, consulter LinkedIn. |
-| Jean-Michel Rondeau | Mail de relance envoyé concernant la candidature en soutien informatique. | Relancé de nouveau le 2026-04-30. |
-| M.J. Galarneau / MS Solutions | Mail de relance envoyé concernant la candidature en soutien informatique et automatisation. | Relancé de nouveau le 2026-04-30. |
-| KuriosIT | Mail de relance envoyé concernant la candidature en soutien informatique. | Relancé de nouveau le 2026-04-30. |
-| Cascades | Mail de relance envoyé concernant la candidature transmise le 2026-04-01. | Dead. |
-| Excelpro | Suivi téléphonique effectué, messagerie vocale atteinte, message laissé; courriel de relance transmis le même jour. | En attente / à vérifier. |
-| KuriosIT | Suivi téléphonique effectué, messagerie vocale atteinte, message laissé; courriel de relance transmis le même jour. | Relancé de nouveau le 2026-04-30. |
-| IT-ED | Tentative de contact téléphonique au 1 844 666-4833, numéro non fonctionnel; courriel de relance transmis le même jour. | Réponse reçue. |
-
-## Relances du 2026-04-20
-
-| Contact | Action | Statut / notes |
-| --- | --- | --- |
-| direction-informatique@usherbrooke.ca | Relance envoyée. | Réponse : pas de besoin présentement, transfert possible au service facultaire. |
-| info@connextek.ca | Relance envoyée. | Relancé de nouveau le 2026-04-30. |
-| info@cyber3d.ca | Relance envoyée. | Refus déjà reçu le 2026-04-09; ne plus relancer. |
-| confidentialite@microagequebec.ca | Relance envoyée. | En attente; non relancé le 2026-04-30 pour éviter un doublon avec MicroAge Québec / Trois-Rivières envoyé le 2026-04-27. |
-| info@tntsi.ca | Relance envoyée. | Entrevue processus TNT ensuite; refus reçu le 2026-04-23. |
-
-## Cibles prioritaires relancées le 2026-04-22 et le 2026-04-29
-
-| # | Organisation | Région | Contact | Courriel | Téléphone | Statut / notes |
-| --- | --- | --- | --- | --- | --- | --- |
-| 5 | GC Brieau | Sherbrooke | Julien Dernaucourt | jdernaucourt@gcbrieau.com | 514-589-8839 | Cible prioritaire MSP / cloud / soutien entreprise. Relances effectuées. Attendre avant nouvelle relance. |
-| 6 | QualiTech | Sherbrooke / Trois-Rivières | Charles Trudeau | info@qualitechlm.com | 819-864-7778 | Cible prioritaire profil hybride soutien + automatisation. Relance effectuée le 2026-04-29; attendre avant nouvelle relance. |
-| 7 | Elli Complice TI | Sherbrooke | Alain Girard | ventes@elli-ti.io | 819-564-2482 | Refus reçu le 2026-04-29. |
-
-## Candidatures envoyées le 2026-04-27
-
-| Organisation | Courriel | Action | Statut / notes |
-| --- | --- | --- | --- |
-| Rhesus | service@rhesus.net | Premier mail envoyé. | Ticket reçu, en attente; trop récent pour relancer le 2026-04-30. |
-| Synovatec | info@synovatec.com | Premier mail envoyé. | Refus reçu le 2026-04-28. |
-| Micromedica Solutions d'affaires | info@mmbs.ca | Premier mail envoyé. | En attente; trop récent pour relancer le 2026-04-30. |
-| TELIPSO | pltremblay@telipso.com | Premier mail envoyé. | En attente; trop récent pour relancer le 2026-04-30. |
-| Solti Solutions TI | martin.chartrand@solti.ca | Premier mail envoyé. | En attente; trop récent pour relancer le 2026-04-30. |
-| Kezber | info@kezber.com | Premier mail envoyé. | En attente; trop récent pour relancer le 2026-04-30. |
-| Sogetel Affaires | affaires@sogetel.com | Premier mail envoyé. | Transféré au recrutement; intérêt confirmé le 2026-04-28. Attendre. |
-| MicroAge Québec / Trois-Rivières | info@microagequebec.ca | Premier mail envoyé. | En attente; trop récent pour relancer le 2026-04-30. |
-| SBK Techno | info@sbktechno.com | Premier mail envoyé. | En attente; trop récent pour relancer le 2026-04-30. |
-
-## Centres de services scolaires
-
-| Date | Organisation | Contact / canal | Action | Statut / relance |
+| Organisation | Contact | Dernière action connue | Résultat | Note |
 | --- | --- | --- | --- | --- |
-| 2026-04-29 | CSS de l'Énergie | cse@cssenergie.gouv.qc.ca | Demande de stage en soutien informatique envoyée. | Réponse reçue : remplir le formulaire. Formulaire soumis. Relance à faire le 2026-05-06 si aucun retour. |
-| 2026-04-29 | CSS Chemin-du-Roy | candidatures@csscdr.gouv.qc.ca | Demande de stage en soutien informatique — DEP. | Refus reçu le 2026-04-27 selon Gmail; ne pas relancer sauf nouvelle piste. |
-| 2026-04-29 | CSS Chemin-du-Roy | info@csscdr.gouv.qc.ca | Demande de stage en soutien informatique — DEP. | Ne pas relancer si refus RH confirmé. |
-| 2026-04-29 | CSSDM | Ti.stages@cssdm.gouv.qc.ca | Demande de stage en soutien informatique — DEP. | Relance à faire le 2026-05-06 si aucun retour. |
-| 2026-04-29 | CSS de la Capitale | candidature@cssc.gouv.qc.ca | Demande de stage en soutien informatique — DEP. | Réponse reçue : documents non acceptés par courriel, passer par le formulaire. |
-| 2026-04-29 | CSS de la Capitale | srh1@cssc.gouv.qc.ca | Demande de stage en soutien informatique — DEP. | Formulaire fait. Relance seulement si aucune réponse. |
-| 2026-04-29 | CSS des Samares | rhstagesnonenseignant@csssamares.gouv.qc.ca | Demande de stage en soutien informatique — DEP. | Refus reçu le 2026-04-29. |
-| 2026-04-29 | CSS des Bois-Francs | emploi@cssbf.gouv.qc.ca | Demande de stage en soutien informatique — DEP. | Relance à faire le 2026-05-06 si aucun retour. |
-| 2026-04-29 | CSS des Bois-Francs | info@cssbf.gouv.qc.ca | Demande de stage en soutien informatique — DEP. | Relance seulement si aucune réponse RH. |
+| BGM Alama | À préciser | À préciser | Dead | Piste à ne plus prioriser. |
+| Global TI Saguenay | À préciser | Entrevue / contact à Saguenay | Refus | Entrevue refusée à Saguenay. |
+| UNNO | Jean-Michel Tremblay / jmt@unno.ca | Entrevue réalisée | Refus | Ne plus prioriser sauf réouverture. |
+| TNT Services Informatiques | info@tntsi.ca / Humanify | Entrevue réalisée, suivi reçu le 2026-04-23 | Refus | Processus terminé. |
+| Elli Complice TI | Alain Girard / ventes@elli-ti.io | Relance envoyée le 2026-04-29 | Refus | Refus reçu le 2026-04-29. |
+| Synovatec | info@synovatec.com | Premier mail envoyé le 2026-04-27 | Refus | Refus reçu le 2026-04-28 : pas de poste ouvert en assistance technique. |
+| CSS des Samares | rhstagesnonenseignant@csssamares.gouv.qc.ca | Demande envoyée le 2026-04-29 | Refus | Refus reçu le 2026-04-29 : pas de capacité d'accueil. |
+| CSS Chemin-du-Roy | candidatures@csscdr.gouv.qc.ca / info@csscdr.gouv.qc.ca | Demande de stage | Refus | Refus reçu le 2026-04-27; ne pas relancer sauf nouvelle piste. |
+| Cascades | contact@cascades.com | Candidature le 2026-04-01, relance le 2026-04-14 | Dead | Réponse : passer par le portail, contact seulement si retenu. |
+| Cyber3D | info@cyber3d.ca | Candidature le 2026-04-09, relance le 2026-04-20 | Refus | Refus reçu le 2026-04-09; ne plus relancer. |
+| IT-ED | ventes@it-ed.com | Relance le 2026-04-14 | Fermé / faible priorité | Réponse reçue : candidature reçue, consulter LinkedIn. Numéro 1 844 666-4833 non fonctionnel. |
+| Université de Sherbrooke | direction-informatique@usherbrooke.ca | Relance le 2026-04-20 | Fermé / faible priorité | Pas de besoin présentement; possible transfert interne. |
 
-## Relances à faire
+## Pas fini
 
-| Date prévue | Organisation | Contact | Note |
+Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clarifier.
+
+| Organisation | Contact | Dernière action | Statut | Prochaine étape |
+| --- | --- | --- | --- | --- |
+| Jean-Michel Rondeau / Pulsar Telecom | jean-michel.rondeau@pulsartelecom.ca | Relance envoyée le 2026-04-30 | En attente | Attendre jusqu'au 2026-05-07. |
+| M.J. Galarneau / MS Solutions | mj.galarneau@mssolutions.ca | Relance envoyée le 2026-04-30 | En attente | Attendre jusqu'au 2026-05-07. |
+| KuriosIT | info@kuriosit.ca | Relance envoyée le 2026-04-30 | En attente | Attendre jusqu'au 2026-05-07. |
+| Connextek | info@connextek.ca | Relance envoyée le 2026-04-30 | En attente | Attendre jusqu'au 2026-05-07. |
+| GC Brieau | Julien Dernaucourt / jdernaucourt@gcbrieau.com / 514-589-8839 | Candidature le 2026-04-22, relance le 2026-04-29 | En attente | Attendre jusqu'au 2026-05-07. Cible prioritaire MSP / cloud / soutien entreprise. |
+| QualiTech | Charles Trudeau / info@qualitechlm.com / 819-864-7778 | Candidature le 2026-04-22, relance le 2026-04-29 | En attente | Attendre jusqu'au 2026-05-07. Profil hybride soutien + automatisation. |
+| Rhesus | service@rhesus.net | Premier mail envoyé le 2026-04-27 | En attente | Relancer autour du 2026-05-07 si aucun retour. Ticket reçu. |
+| Micromedica Solutions d'affaires | info@mmbs.ca | Premier mail envoyé le 2026-04-27 | En attente | Relancer autour du 2026-05-07 si aucun retour. |
+| TELIPSO | pltremblay@telipso.com | Premier mail envoyé le 2026-04-27 | En attente | Relancer autour du 2026-05-07 si aucun retour. |
+| Solti Solutions TI | martin.chartrand@solti.ca | Premier mail envoyé le 2026-04-27 | En attente | Relancer autour du 2026-05-07 si aucun retour. |
+| Kezber | info@kezber.com | Premier mail envoyé le 2026-04-27 | En attente | Relancer autour du 2026-05-07 si aucun retour. |
+| Sogetel Affaires | affaires@sogetel.com / recrutement@sogetel.com | Premier mail le 2026-04-27, intérêt confirmé le 2026-04-28 | En attente | Attendre; le dossier a été transféré au recrutement. |
+| MicroAge Québec / Trois-Rivières | info@microagequebec.ca | Premier mail envoyé le 2026-04-27 | En attente | Relancer autour du 2026-05-07 si aucun retour. |
+| MicroAge Québec ancien contact | confidentialite@microagequebec.ca | Relance envoyée le 2026-04-20 | En attente | Ne pas relancer trop vite pour éviter un doublon avec info@microagequebec.ca. |
+| SBK Techno | info@sbktechno.com | Premier mail envoyé le 2026-04-27 | En attente | Relancer autour du 2026-05-07 si aucun retour. |
+| CSS de l'Énergie | Formulaire / cse@cssenergie.gouv.qc.ca | Formulaire soumis le 2026-04-29 | En attente | Relancer le 2026-05-06 si aucun retour. |
+| CSSDM | Ti.stages@cssdm.gouv.qc.ca | Demande envoyée le 2026-04-29 | En attente | Relancer le 2026-05-06 si aucun retour. |
+| CSS de la Capitale | Formulaire / candidature@cssc.gouv.qc.ca / srh1@cssc.gouv.qc.ca | Demande par courriel puis formulaire le 2026-04-29 | En attente | Relancer seulement si aucune réponse. |
+| CSS des Bois-Francs | emploi@cssbf.gouv.qc.ca / info@cssbf.gouv.qc.ca | Demande envoyée le 2026-04-29 | En attente | Relancer le 2026-05-06 si aucun retour RH. |
+| Excelpro | À préciser | Appel + message vocal + courriel de relance le 2026-04-14 | À vérifier | Vérifier le courriel/contact exact avant nouvelle action. |
+| OKTO Solutions | info@oktosolutions.ca / 450-231-3836 | Prospection | À vérifier | Vérifier si une candidature a déjà été envoyée. |
+| 6tem TI | info@6temti.ca / 877-262-3988 | Prospection | À vérifier | Vérifier si une candidature a déjà été envoyée. |
+| Groupe InfoPlus | info@infoplus.ca / 819-478-0994 | Prospection | À vérifier | Vérifier si une candidature a déjà été envoyée. |
+
+## Prochaines relances
+
+| Date | Qui | Action |
+| --- | --- | --- |
+| 2026-05-06 | CSS de l'Énergie, CSSDM, CSS de la Capitale, CSS des Bois-Francs | Relancer seulement s'il n'y a aucun retour. |
+| 2026-05-07 | Rondeau/Pulsar, MS Solutions, KuriosIT, Connextek, GC Brieau, QualiTech | Vérifier les réponses, puis relancer seulement si pertinent. |
+| 2026-05-07 | Rhesus, Micromedica, TELIPSO, Solti, Kezber, MicroAge, SBK Techno | Relancer les candidatures du 2026-04-27 encore sans réponse. |
+
+## Contacts à vérifier avant action
+
+| Organisation | Ville / région | Contact connu | Note |
 | --- | --- | --- | --- |
-| 2026-05-06 | CSS de l'Énergie | Formulaire / cse@cssenergie.gouv.qc.ca | Relancer si aucun retour après formulaire. |
-| 2026-05-06 | CSSDM | Ti.stages@cssdm.gouv.qc.ca | Relancer si aucun retour. |
-| 2026-05-06 | CSS de la Capitale | Formulaire / srh1@cssc.gouv.qc.ca | Relancer seulement si aucune réponse. |
-| 2026-05-06 | CSS des Bois-Francs | emploi@cssbf.gouv.qc.ca | Relancer si aucun retour. |
-| 2026-05-07 | Jean-Michel Rondeau / Pulsar Telecom | jean-michel.rondeau@pulsartelecom.ca | Relancé le 2026-04-30; attendre une semaine. |
-| 2026-05-07 | M.J. Galarneau / MS Solutions | mj.galarneau@mssolutions.ca | Relancé le 2026-04-30; attendre une semaine. |
-| 2026-05-07 | KuriosIT | info@kuriosit.ca | Relancé le 2026-04-30; attendre une semaine. |
-| 2026-05-07 | Connextek | info@connextek.ca | Relancé le 2026-04-30; attendre une semaine. |
-| 2026-05-07 | GC Brieau | jdernaucourt@gcbrieau.com | Déjà relancé le 2026-04-29; attendre quelques jours ouvrables. |
-| 2026-05-07 | QualiTech | info@qualitechlm.com | Déjà relancé le 2026-04-29; attendre quelques jours ouvrables. |
-| 2026-05-07 | Candidatures du 2026-04-27 | Voir section dédiée | Relancer seulement les dossiers encore sans réponse : Rhesus, Micromedica, TELIPSO, Solti, Kezber, MicroAge, SBK Techno. |
+| OKTO Solutions | Trois-Rivières | 994 Boulevard du St-Maurice #2, Trois-Rivières, QC G9A 3R3 / info@oktosolutions.ca / 450-231-3836 | Vérifier si la candidature est déjà partie. |
+| 6tem TI | L'Ancienne-Lorette | 1111, rue de l'Amitié, L'Ancienne-Lorette, QC G2E 5K3 / info@6temti.ca / 877-262-3988 | Vérifier si la candidature est déjà partie. |
+| Groupe InfoPlus | Drummondville | 1240, boulevard St-Joseph, Drummondville, QC J2C 2E1 / info@infoplus.ca / 819-478-0994 | Vérifier si la candidature est déjà partie. |
 
-## Notes à clarifier
+## Notes
 
-- Vérifier si OKTO Solutions, 6tem TI et Groupe InfoPlus ont déjà reçu une candidature ou s'ils sont seulement dans la liste de prospection.
-- Confirmer le statut exact de BGM Alama si un courriel ou une réponse existe hors Gmail.
-- Global TI Saguenay : garder comme refus si l'entrevue a bien été refusée.
-- UNNO : entrevue réalisée, refus ensuite; ne plus prioriser sauf réouverture de poste.
+- Ne pas relancer les refus confirmés.
+- Ne pas relancer les contacts du 2026-04-27 avant environ une semaine, sauf réponse reçue entre-temps.
+- Les relances envoyées le 2026-04-30 sont : Jean-Michel Rondeau / Pulsar, M.J. Galarneau / MS Solutions, KuriosIT et Connextek.
+- BGM Alama, Global TI Saguenay et UNNO viennent surtout de notes hors Gmail; garder ces statuts si tu les confirmes.
