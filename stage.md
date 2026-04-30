@@ -34,6 +34,16 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 
 | Organisation | Contact | Dernière action | Statut | Prochaine étape |
 | --- | --- | --- | --- | --- |
+| AIDE Informatique | Alain Martel / amartel@aide-informatique.com | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Contact local Trois-Rivières. Attendre environ une semaine. |
+| Solution Informatique 3R | info@solutioni3r.com | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Support réseau / cybersécurité local. Attendre environ une semaine. |
+| GOX Technologies | support@gox.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | PME TI Mauricie. Attendre environ une semaine. |
+| Ulogik | info@ulogik.com | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Maintenance IT / support PME. Attendre environ une semaine. |
+| Manel Solutions | contact@manelcanada.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Solutions TI à Trois-Rivières. Attendre environ une semaine. |
+| Intellogiciel | Yves Carrier / yvescarrier@intellogiciel.com | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Logiciels de gestion / soutien applicatif. Attendre environ une semaine. |
+| Ordivert / Greencomputer | info@ordivert.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Informatique locale, matériel et support client. Attendre environ une semaine. |
+| Stratéjia / Progel | info@stratejia.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Conseil numérique à Trois-Rivières. Attendre environ une semaine. |
+| La Fabrique Web | Kelly / kelly@lafabriqueweb.com | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Agence web locale; angle support, outils numériques et automatisation. Attendre environ une semaine. |
+| Shawinigan Informatique | info@shawinigan-informatique.com | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Support informatique local. Attendre environ une semaine. |
 | UdeS - Centre de services informatiques | Sylvie Bissonnette / Sylvie.Bissonnette@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Attendre environ une semaine. |
 | UdeS - Centre de services informatiques + soutien technique | À l'attention de Jean Lavoie / secretariat-sti@usherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Réponse automatique : secrétariat fermé jusqu'au lundi 2026-05-04. Attendre. |
 | UdeS - Infrastructure technologique | Claude Poulin / Claude.Poulin5@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Déjà traité; ne pas renvoyer via secrétariat pour éviter doublon. |
@@ -75,6 +85,7 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | --- | --- | --- |
 | 2026-05-04 | UdeS via secretariat-sti@usherbrooke.ca | Le secrétariat rouvre; surveiller avant de relancer Jean Lavoie / Pierre-Nicolas Paradis. |
 | 2026-05-06 | CSS de l'Énergie, CSSDM, CSS de la Capitale, CSS des Bois-Francs | Relancer seulement s'il n'y a aucun retour. |
+| 2026-05-07 | Contacts TI locaux envoyés le 2026-04-30 | Vérifier réponses : AIDE Informatique, Solution Informatique 3R, GOX, Ulogik, Manel, Intellogiciel, Ordivert, Stratéjia, La Fabrique Web, Shawinigan Informatique. |
 | 2026-05-07 | Candidatures universitaires du 2026-04-30 | Vérifier les réponses, puis relancer seulement si pertinent. Ne pas relancer Ian Gosselin trop vite : il a déjà vérifié à l'interne. |
 | 2026-05-07 | Nouveaux contacts UdeS via secrétariat STI | Vérifier réponses pour Jean Lavoie et Pierre-Nicolas Paradis. |
 | 2026-05-07 | Rondeau/Pulsar, MS Solutions, KuriosIT, GC Brieau, QualiTech | Vérifier les réponses, puis relancer seulement si pertinent. |
@@ -91,9 +102,10 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 ## Notes
 
 - Ne pas relancer les refus confirmés.
+- Le 2026-04-30, 10 nouveaux contacts TI locaux ont été ajoutés et contactés avec CV : AIDE Informatique, Solution Informatique 3R, GOX Technologies, Ulogik, Manel Solutions, Intellogiciel, Ordivert, Stratéjia, La Fabrique Web et Shawinigan Informatique.
 - Dernier mail reçu ajouté : accusé de réception CRIC Université Laval, billet C20-15657, reçu le 2026-04-30.
 - Le 2026-04-30, aucune relance supplémentaire n'était pertinente sauf la reprise Université Laval vers le CRIC après redirection du GATI.
-- Je n'ai pas trouvé de fichier `first_mail_instructions` dans le dépôt au moment de l'envoi; les courriels ont suivi le style court et ciblé déjà utilisé.
+- Je n'ai pas trouvé de fichier `First_mail` / `first_mail_instructions` dans le dépôt au moment de l'envoi; les courriels ont suivi le style court et ciblé déjà utilisé.
 - Le 2026-04-30, la liste de 7 nouveaux contacts contenait 5 doublons déjà traités : Claude Poulin, Denis Deschênes, Marie-Chantal Denis, Patrick Fortin et Mathieu Giguère / Université Laval.
 - Les deux nouveaux contacts non redondants envoyés le 2026-04-30 sont Jean Lavoie et Pierre-Nicolas Paradis, via secretariat-sti@usherbrooke.ca.
 - Ian Gosselin a répondu le 2026-04-30 : l'UdeS privilégie habituellement ses stagiaires, mais il a quand même demandé à l'interne s'il y avait de l'intérêt. Réponse de remerciement envoyée.
