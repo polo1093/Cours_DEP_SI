@@ -17,7 +17,7 @@ Bienvenue dans ce dépôt de suivi pour le **DEP en soutien informatique**. Il s
 | Section | Description |
 | --- | --- |
 | [`stage.md`](./stage.md) | Suivi des démarches de stage : pistes finies, pistes encore ouvertes, relances et contacts à vérifier. |
-| Cours | Espace prévu pour organiser les notes, exercices et ressources du DEP. |
+| [`Fiche de cours`](./Fiche%20de%20cours/README.md) | Notes de cours classées manuellement en ordre décroissant : 30, 24, 23, etc. |
 | Documents | Espace prévu pour les fichiers utiles : CV, modèles, références et préparation. |
 
 ## Suivi de stage

@@ -17,5 +17,7 @@ Nombre total d’heures : 240 heures
 paulaugustinpoisson@gmail.com
 ne mets pas mon telephone car mon nu ne fonctionne pas tres bien
 
+Si on me demande pour la distance, la mobilite ou la region, dire que je suis pret a me deplacer et meme a demenager pour une bonne possibilite de stage en soutien informatique.
+
 
 Mon cv et sur ce projet dois le rajouter
