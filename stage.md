@@ -126,6 +126,14 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | Sika Canada | Pointe-Claire | Offre vérifiée le 2026-05-01 | Non retenu / non fonctionnel | Ne pas prioriser selon vérification utilisateur. |
 | SOPFEU | Roberval / Jobillico | Offre vérifiée le 2026-05-01 | Non retenu / non fonctionnel | Ne pas prioriser selon vérification utilisateur. |
 
+## À faire maintenant
+
+1. Répondre au CIUSSS MCQ avec les informations demandées : CFP Bel-Avenir, enseignant responsable et courriel, dates, 240 h, rémunération, stage terminal, objectifs, au moins deux régions, statut employé CIUSSS, CV et lettre de présentation.
+2. Confirmer le brouillon Consultation M365 : préciser la mobilité vers Laval et la possibilité de déménager si le stage est sérieux.
+3. Surveiller les pistes positives : Groupe InfoPlus, Cégep de Victoriaville, UQTR / Marcel Harnois, Ian Gosselin / UdeS, Sogetel Affaires.
+4. Ne pas renvoyer aux organisations déjà contactées ou refusées; attendre les dates de relance prévues.
+5. Vérifier les réponses Gmail/portails avant chaque nouvelle relance pour éviter les doublons.
+
 ## Prochaines relances
 
 | Date | Qui | Action |
@@ -171,39 +179,11 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 
 ## Notes
 
-- Ne pas relancer les refus confirmés.
-- Le 2026-04-30, 10 nouveaux contacts TI locaux ont été ajoutés et contactés avec CV : AIDE Informatique, Solution Informatique 3R, GOX Technologies, Ulogik, Manel Solutions, Intellogiciel, Ordivert, Stratéjia, La Fabrique Web et Shawinigan Informatique.
-- Le 2026-04-30, 6 nouveaux courriels ont été envoyés à partir de `First_mail_instructruction.md`, sans téléphone : Ville de Drummondville, CSS de l'Énergie / Christian Amyot, CSS des Chênes, Francis Bouchard-Boulianne, Cégep de Sherbrooke et Ville de Rouyn-Noranda.
-- Le 2026-04-30, 2 nouveaux courriels ont été envoyés avec CV attaché, sans téléphone : Ville de Trois-Rivières via 311@v3r.net et Cégep de Shawinigan / Danny Morin.
-- Le 2026-04-30, Denis Deschênes / UQTR n'a pas été recontacté, car une candidature lui avait déjà été envoyée le même jour.
-- Le 2026-04-30, aucun courriel n'a été envoyé aux contacts sans adresse courriel fournie : Ville de Sherbrooke / Daniel Bouffard, Cégep de Trois-Rivières / Sophie Paquette, Ville de Saguenay / Clint Girard, UQAC / Annie Fournier, Ville de Québec / Patrick Ouellette.
-- Le 2026-04-30, Pierre Martineau / Ville de Trois-Rivières et Michel Tremblay / Ville de Drummondville n'ont pas été traités comme nouveaux envois séparés : les organisations avaient déjà une candidature envoyée.
-- Sylvie Bissonnette n'a pas été recontactée le 2026-04-30, car elle était déjà dans `stage.md` comme candidature envoyée.
-- Derniers mails reçus ajoutés le 2026-05-01 : refus Ville de Shawinigan, Collège Laflèche, Services Info S. Allard, Effset, Groupe Canimex, CSS de la Région-de-Sherbrooke et Progi; suivi CIUSSS MCQ à répondre; transferts positifs Groupe InfoPlus et Cégep de Victoriaville.
-- Le 2026-04-30, aucune relance supplémentaire n'était pertinente sauf la reprise Université Laval vers le CRIC après redirection du GATI.
-- `First_mail_instructruction.md` a été lu le 2026-04-30; les courriels doivent rester courts, orientés stage DEP soutien informatique, et ne pas inclure le téléphone.
-- Le 2026-05-01, vérification faite avant envoi : Technologie Informatique de l'Île, Services Info S. Allard, Référence Systèmes, Flex TI, OKTO Solutions et Hilo Tech avaient déjà un courriel envoyé avec CV dans Gmail; aucun doublon n'a été renvoyé.
-- Le 2026-05-01, 8 nouveaux courriels ont été envoyés avec CV, sans téléphone : NetCentrex, Effset, Solutions TI, Digital Info System, MS Tech Support, Groupe SL, Consultation M365 et Eosium.
-- Le 2026-05-01, 2 courriels supplémentaires ont été envoyés avec CV, sans téléphone : Unikbox Solutions Informatiques et Groupe InfoPlus via la nouvelle adresse support@infoplus.ca. Groupe InfoPlus avait déjà été contacté à info@infoplus.ca le 2026-03-30.
-- Le 2026-05-01, aucun nouveau courriel n'a été envoyé aux cibles nécessitant un formulaire officiel ou sans adresse directe : Concepta Systèmes Informatiques, Atyptic Inc., CIUSSS de l'Estrie - CHUS et CIUSSS de la Capitale-Nationale. CIUSSS MCQ et Hilo Tech ont ensuite été confirmés comme déjà contactés dans Gmail.
-- Le 2026-05-01, vérification Gmail faite avant la nouvelle liste : Ville de Shawinigan, CIUSSS MCQ, Groupe SL et Collège Laflèche avaient déjà été contactés avec CV; aucun doublon n'a été renvoyé.
-- Le 2026-05-01, 10 nouveaux courriels ont été envoyés avec CV, sans téléphone : SOPREMA, Cégep de Drummondville, Groupe TI, TML Informatique, Technologies Lannex, Groupe COSIOR, Ville de Bécancour, Ville de Nicolet, Cégep de Victoriaville et CISSS de Chaudière-Appalaches.
-- Le 2026-05-01, aucun courriel n'a été envoyé aux cibles sans adresse directe ou à portail obligatoire : i2p Informatique d'entreprise, Atyptic, Solulan, CIUSSS de l'Estrie - CHUS et Soucy. Marmen a ensuite été traité par courriel après confirmation utilisateur.
-- Le 2026-05-01, accusés de réception reçus : Cégep de Drummondville, Ville de Bécancour, Ville de Nicolet et CISSS de Chaudière-Appalaches.
-- Le 2026-05-01, Groupe InfoPlus a transféré la demande à Anthony Girard, directeur technique; Cégep de Victoriaville a transféré la demande à Jean-Sébastien Campeau, directeur adjoint du Service des ressources informationnelles.
-- Le 2026-05-01, CIUSSS MCQ demande une réponse structurée avec les détails du stage, les régions souhaitées, CV et lettre de présentation.
-- Le 2026-05-01, l'envoi à contact@unikbox.ca a échoué; une reprise a ensuite été envoyée à info@unikbox.ca.
-- Le 2026-05-01, 2 candidatures ont été envoyées après validation utilisateur : Marmen / stagiaire en technologie de l'information et Groupe Océan / stagiaire support informatique, avec CV et sans téléphone. Groupe Océan a envoyé un accusé de réception automatique.
-- Greentone était déjà postulé via Indeed le 2026-04-29; Canam était déjà postulé via SmartRecruiters le 2026-04-01 et refusé / fermé le 2026-04-14.
-- Le 2026-05-01, fichier `postulations_manuelles.md` créé pour les démarches qui exigent un portail : Vidéotron et Marmen.
-- Le 2026-05-01, Paul-Augustin a complété manuellement les postulations portail Vidéotron et Marmen. Vidéotron a envoyé un accusé de réception SmartRecruiters.
-- Le 2026-05-01, AMETEK / FARO Creaform a accusé réception de la candidature pour Stagiaire, soutien TI (210834). Les 4 autres offres proposées ensuite, Quesys, AVENIR GLOBAL, Sika et SOPFEU, ont été marquées non retenues / non fonctionnelles selon vérification utilisateur.
-- Le 2026-05-01, nouveaux courriels reçus : refus CSS des Bois-Francs et CSS des Appalaches; Eosium juge le CV pertinent mais le timing n'est pas idéal; Consultation M365 a soulevé la distance vers Laval; UQTR / Marie-Chantal Denis a transféré la demande à Marcel Harnois.
-- Instruction ajoutée le 2026-05-01 : si un employeur demande pour la distance, la mobilité ou la région, indiquer que je suis prêt à me déplacer et même à déménager pour une bonne possibilité de stage en soutien informatique.
-- Le 2026-04-30, la liste de 7 nouveaux contacts contenait 5 doublons déjà traités : Claude Poulin, Denis Deschênes, Marie-Chantal Denis, Patrick Fortin et Mathieu Giguère / Université Laval.
-- Les deux nouveaux contacts non redondants envoyés le 2026-04-30 sont Jean Lavoie et Pierre-Nicolas Paradis, via secretariat-sti@usherbrooke.ca.
-- Ian Gosselin a répondu le 2026-04-30 : l'UdeS privilégie habituellement ses stagiaires, mais il a quand même demandé à l'interne s'il y avait de l'intérêt. Réponse de remerciement envoyée.
-- Université Laval : dti@dti.ulaval.ca a échoué; aide@dti.ulaval.ca a redirigé vers cric.aide@ulaval.ca; candidature envoyée au CRIC le 2026-04-30.
-- Dans les courriels envoyés le 2026-04-30, l'adresse courriel a été incluse et aucun numéro de téléphone n'a été ajouté dans le texte.
-- Les relances envoyées le 2026-04-30 sont : Jean-Michel Rondeau / Pulsar, M.J. Galarneau / MS Solutions, KuriosIT et Connextek. Connextek a depuis répondu non.
-- BGM Alama, Global TI Saguenay et UNNO viennent surtout de notes hors Gmail; garder ces statuts si tu les confirmes.
+- Règle générale : ne pas relancer les refus confirmés et vérifier Gmail avant chaque nouvel envoi.
+- Tous les courriels envoyés les 2026-04-30 et 2026-05-01 doivent rester sans numéro de téléphone et orientés DEP soutien informatique.
+- Les dernières vérifications Gmail confirment les points clés : CIUSSS MCQ demande une réponse structurée; Consultation M365 a un brouillon de réponse sur la mobilité; Groupe InfoPlus, Cégep de Victoriaville et UQTR ont transféré la demande; AMETEK, Groupe Océan, Ville de Bécancour, Ville de Nicolet, CISSS de Chaudière-Appalaches et Cégep de Drummondville ont accusé réception.
+- Les portails déjà faits ou suivis ailleurs : Vidéotron, Marmen, AMETEK / FARO Creaform, Greentone, Canam et Groupe Océan. Voir aussi `postulations_manuelles.md`.
+- Les cibles à formulaire ou sans courriel direct ne doivent pas être traitées par courriel direct sans nouvelle vérification : Concepta, Atyptic, i2p, Solulan, Soucy, CIUSSS de l'Estrie - CHUS et CIUSSS de la Capitale-Nationale.
+- Les offres Quesys, AVENIR GLOBAL, Sika Canada et SOPFEU sont non retenues / non fonctionnelles selon vérification utilisateur.
+- Si un employeur questionne la distance ou la région, répondre que je suis prêt à me déplacer et même à déménager pour une bonne possibilité de stage en soutien informatique.
+- BGM Alama, Global TI Saguenay et UNNO viennent surtout de notes hors Gmail; garder ces statuts seulement si confirmés.
