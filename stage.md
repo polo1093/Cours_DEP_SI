@@ -38,6 +38,7 @@ Ces pistes sont fermées : refus reçu, entrevue terminée avec refus, ou piste 
 | Progi | Alexandre Rocheleau / arocheleau@progi.com | Réponse reçue le 2026-05-01 | Fermé / faible probabilité | Le département TI n'a pas confirmé d'ouverture; peu probable que ça ouvre. |
 | CSS des Bois-Francs | emploi@cssbf.gouv.qc.ca / mhoule04@cssbf.gouv.qc.ca | Demande envoyée le 2026-04-29; réponse reçue le 2026-05-01 | Refus | Déjà une stagiaire pour cette période; pas les ressources pour en accueillir un autre. |
 | CSS des Appalaches | Patrick Touzin / patrick.touzin@csappalaches.qc.ca | Candidature envoyée le 2026-04-30; réponse reçue le 2026-05-01 | Refus | Accueillent seulement 3 stagiaires de leur région, déjà sélectionnés. |
+| CSS de l'Énergie | Christian Amyot / Stéphane Milette / camyot@cssenergie.gouv.qc.ca / smilette@cssenergie.gouv.qc.ca | Candidature ciblée envoyée le 2026-04-30; réponse reçue le 2026-05-01 | Refus | Pas en mesure d'offrir l'encadrement nécessaire à un stagiaire actuellement. |
 
 ## Pas fini
 
@@ -84,7 +85,6 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | Shawinigan Informatique | info@shawinigan-informatique.com | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Support informatique local. Attendre environ une semaine. |
 | Ville de Trois-Rivières | Patrick Thériault / 311@v3r.net | Candidature ciblée envoyée le 2026-04-30 avec CV, sans téléphone | En attente | Courriel envoyé via le service 311 pour transfert au service TI. Ne pas refaire pour Pierre Martineau sans courriel direct. |
 | Ville de Drummondville | Martin Choquette / mchoquette@drummondville.ca | Candidature ciblée envoyée le 2026-04-30, sans téléphone | En attente | Support municipal, logiciels, téléphonie IP, équipements, systèmes municipaux et géomatique. Attendre environ une semaine. |
-| CSS de l'Énergie | Christian Amyot / camyot@cssenergie.gouv.qc.ca / formulaire | Formulaire soumis le 2026-04-29; candidature ciblée envoyée à Christian Amyot le 2026-04-30, sans téléphone | En attente | Gros parc scolaire, bureautique, réseautique, télécom et systèmes informatisés. Relancer le 2026-05-06 ou 2026-05-07 si aucun retour. |
 | CSS des Chênes | Stéphane Guilbert / direction.si@cssdeschenes.gouv.qc.ca | Candidature ciblée envoyée le 2026-04-30, sans téléphone | En attente | Organisation scolaire importante : support, postes, réseau, Microsoft et déploiement. Attendre environ une semaine. |
 | UdeS - Centre de services informatiques | Sylvie Bissonnette / Sylvie.Bissonnette@USherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Déjà contactée; ne pas renvoyer. |
 | UdeS - Centre de services informatiques + soutien technique | À l'attention de Jean Lavoie / secretariat-sti@usherbrooke.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Réponse automatique : secrétariat fermé jusqu'au lundi 2026-05-04. Attendre. |
@@ -141,9 +141,9 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | 2026-05-01 | CIUSSS MCQ / Émilie Bédard | Réponse envoyée avec les informations demandées et CV attaché. Attendre le retour. |
 | 2026-05-01 | Vidéotron / Marmen | Postulations manuelles faites le 2026-05-01 : Vidéotron via SmartRecruiters et Marmen via bouton "Postuler". |
 | 2026-05-01 | Consultation M365 / Charles Lefebvre | Réponse mobilité envoyée le 2026-05-01; attendre une réponse. |
-| 2026-05-06 | CSS de l'Énergie, CSSDM, CSS de la Capitale | Relancer seulement s'il n'y a aucun retour. CSS des Bois-Francs a refusé le 2026-05-01. |
+| 2026-05-06 | CSSDM, CSS de la Capitale | Relancer seulement s'il n'y a aucun retour. CSS des Bois-Francs et CSS de l'Énergie ont refusé le 2026-05-01. |
 | 2026-05-07 | Contacts TI locaux envoyés le 2026-04-30 | Vérifier réponses : AIDE Informatique, Solution Informatique 3R, GOX, Ulogik, Manel, Intellogiciel, Ordivert, Stratéjia, La Fabrique Web, Shawinigan Informatique. |
-| 2026-05-07 | Nouveaux contacts publics envoyés le 2026-04-30 | Vérifier réponses : Ville de Drummondville, CSS de l'Énergie / Christian Amyot, CSS des Chênes, Francis Bouchard-Boulianne, Cégep de Sherbrooke, Ville de Rouyn-Noranda. |
+| 2026-05-07 | Nouveaux contacts publics envoyés le 2026-04-30 | Vérifier réponses : Ville de Drummondville, CSS des Chênes, Francis Bouchard-Boulianne, Cégep de Sherbrooke, Ville de Rouyn-Noranda. |
 | 2026-05-07 | Contacts publics envoyés avec CV le 2026-04-30 | Vérifier réponses : Ville de Trois-Rivières / 311 et Cégep de Shawinigan / Danny Morin. |
 | 2026-05-07 | Candidatures universitaires du 2026-04-30 | Vérifier les réponses, puis relancer seulement si pertinent. Ne pas relancer Ian Gosselin trop vite : il a déjà vérifié à l'interne. |
 | 2026-05-07 | Nouveaux contacts UdeS via secrétariat STI | Vérifier réponses pour Jean Lavoie et Pierre-Nicolas Paradis. |
@@ -180,7 +180,7 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 
 - Règle générale : ne pas relancer les refus confirmés et vérifier Gmail avant chaque nouvel envoi.
 - Tous les courriels envoyés les 2026-04-30 et 2026-05-01 doivent rester sans numéro de téléphone et orientés DEP soutien informatique.
-- Dernières vérifications Gmail : CIUSSS MCQ a reçu la réponse complète avec CV; Consultation M365 a reçu la réponse sur la mobilité; Eosium a reçu un remerciement; Groupe InfoPlus, Cégep de Victoriaville et UQTR ont transféré la demande; AMETEK, Groupe Océan, Ville de Bécancour, Ville de Nicolet, CISSS de Chaudière-Appalaches et Cégep de Drummondville ont accusé réception.
+- Dernières vérifications Gmail : CSS de l'Énergie a refusé le 2026-05-01; CIUSSS MCQ a reçu la réponse complète avec CV; Consultation M365 a reçu la réponse sur la mobilité; Eosium a reçu un remerciement; Groupe InfoPlus, Cégep de Victoriaville et UQTR ont transféré la demande; AMETEK, Groupe Océan, Ville de Bécancour, Ville de Nicolet, CISSS de Chaudière-Appalaches et Cégep de Drummondville ont accusé réception.
 - Infos envoyées au CIUSSS MCQ : enseignant Andrew Rousseau / andrew.rousseau@csscdr.gouv.qc.ca; dates 2026-05-15 à environ 2026-08-20; durée 240 h; stage terminal; rémunération non obligatoire; objectif principal : entrer sur le marché de l'emploi en soutien informatique.
 - Les portails déjà faits ou suivis ailleurs : Vidéotron, Marmen, AMETEK / FARO Creaform, Greentone, Canam et Groupe Océan. Voir aussi `postulations_manuelles.md`.
 - Les cibles à formulaire ou sans courriel direct ne doivent pas être traitées par courriel direct sans nouvelle vérification : Concepta, Atyptic, i2p, Solulan, Soucy, CIUSSS de l'Estrie - CHUS et CIUSSS de la Capitale-Nationale.
