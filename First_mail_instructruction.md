@@ -11,7 +11,7 @@ Je souhaite effectuer mon stage dans un environnement TI, idéalement au service
 Informations sur mon stage :
 Programme : DEP Soutien informatique
 Établissement : CFP Bel-Avenir
-Période souhaitée : à partir du 15 mai, avec une fin possible autour du 20 août
+Période souhaitée : à partir du 25 mai, avec une fin possible autour du 20 août
 Nombre total d’heures : 240 heures
 
 paulaugustinpoisson@gmail.com
