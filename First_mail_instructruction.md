@@ -19,5 +19,7 @@ ne mets pas mon telephone car mon nu ne fonctionne pas tres bien
 
 Si on me demande pour la distance, la mobilite ou la region, dire que je suis pret a me deplacer et meme a demenager pour une bonne possibilite de stage en soutien informatique.
 
+Chaque fois que des fichiers du depot sont modifies, faire un commit et un push sur GitHub apres les changements.
+
 
 Mon cv et sur ce projet dois le rajouter
