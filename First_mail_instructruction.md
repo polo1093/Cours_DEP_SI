@@ -5,7 +5,7 @@ regarde si je n ai pas deja conctater la personne, regarde dans tage.md, alors d
 
 
 Je suis actuellement en DEP Soutien informatique au CFP Bel-Avenir, à Trois-Rivières, et je recherche un milieu de stage en soutien informatique.
-
+Le stage peut aussi représenter une période d’évaluation concrète en vue d’une éventuelle embauche, puisque mon objectif est de m’intégrer durablement dans une équipe TI après mon DEP.
 Je souhaite effectuer mon stage dans un environnement TI, idéalement au service informatique, afin de participer au support aux utilisateurs, à la préparation de postes, au dépannage Windows, réseau, imprimantes, Microsoft 365 et à la documentation technique.
 
 Informations sur mon stage :
