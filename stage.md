@@ -39,6 +39,10 @@ Ces pistes sont fermées : refus reçu, entrevue terminée avec refus, ou piste 
 | CSS des Bois-Francs | emploi@cssbf.gouv.qc.ca / mhoule04@cssbf.gouv.qc.ca | Demande envoyée le 2026-04-29; réponse reçue le 2026-05-01 | Refus | Déjà une stagiaire pour cette période; pas les ressources pour en accueillir un autre. |
 | CSS des Appalaches | Patrick Touzin / patrick.touzin@csappalaches.qc.ca | Candidature envoyée le 2026-04-30; réponse reçue le 2026-05-01 | Refus | Accueillent seulement 3 stagiaires de leur région, déjà sélectionnés. |
 | CSS de l'Énergie | Christian Amyot / Stéphane Milette / camyot@cssenergie.gouv.qc.ca / smilette@cssenergie.gouv.qc.ca | Candidature ciblée envoyée le 2026-04-30; réponse reçue le 2026-05-01 | Refus | Pas en mesure d'offrir l'encadrement nécessaire à un stagiaire actuellement. |
+| Quesys | Montréal | Offre / page stage vérifiée le 2026-05-01 | Non retenu / non fonctionnel | Ne pas prioriser selon vérification utilisateur. |
+| AVENIR GLOBAL | Montréal / LinkedIn | Offre vérifiée le 2026-05-01 | Non retenu / non fonctionnel | Ne pas prioriser selon vérification utilisateur. |
+| Sika Canada | Pointe-Claire | Offre vérifiée le 2026-05-01 | Non retenu / non fonctionnel | Ne pas prioriser selon vérification utilisateur. |
+| SOPFEU | Roberval / Jobillico | Offre vérifiée le 2026-05-01 | Non retenu / non fonctionnel | Ne pas prioriser selon vérification utilisateur. |
 
 ## Pas fini
 
@@ -121,11 +125,6 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | OKTO Solutions | info@oktosolutions.ca | Candidature envoyée le 2026-03-30 avec CV; vérification Gmail faite le 2026-05-01 | En attente / déjà contacté | Ne pas renvoyer maintenant; relancer seulement si pertinent. |
 | 6tem TI | info@6temti.ca | Prospection | À vérifier | Vérifier si une candidature a déjà été envoyée. |
 | Groupe InfoPlus | info@infoplus.ca / support@infoplus.ca / Anthony Girard | Candidature envoyée à info@infoplus.ca le 2026-03-30; nouvelle candidature envoyée à support@infoplus.ca le 2026-05-01; transfert reçu le 2026-05-01 | En attente positive | Pascal Girouard a transféré la demande au directeur technique Anthony Girard. Attendre la suite. |
-| Quesys | Montréal | Offre / page stage vérifiée le 2026-05-01 | Non retenu / non fonctionnel | Ne pas prioriser selon vérification utilisateur. |
-| AVENIR GLOBAL | Montréal / LinkedIn | Offre vérifiée le 2026-05-01 | Non retenu / non fonctionnel | Ne pas prioriser selon vérification utilisateur. |
-| Sika Canada | Pointe-Claire | Offre vérifiée le 2026-05-01 | Non retenu / non fonctionnel | Ne pas prioriser selon vérification utilisateur. |
-| SOPFEU | Roberval / Jobillico | Offre vérifiée le 2026-05-01 | Non retenu / non fonctionnel | Ne pas prioriser selon vérification utilisateur. |
-
 ## À faire maintenant
 
 1. Corriger la faute de frappe dans le CV signalée par Eosium.
