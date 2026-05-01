@@ -22,4 +22,6 @@ Si on me demande pour la distance, la mobilite ou la region, dire que je suis pr
 Chaque fois que des fichiers du depot sont modifies, faire un commit et un push sur GitHub apres les changements.
 
 
-Mon cv et sur ce projet dois le rajouter
+Mon cv est sur ce projet, il doit etre rajoute
+
+Si les reponses sont favorable dit moi, je repondrais manuellement
