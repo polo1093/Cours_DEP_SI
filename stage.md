@@ -45,7 +45,7 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 
 | Organisation | Contact | Dernière action | Statut | Prochaine étape |
 | --- | --- | --- | --- | --- |
-| CIUSSS MCQ | Emilie Bedard / Emilie.Bedard@ssss.gouv.qc.ca / stages.ciusssmcq@ssss.gouv.qc.ca | Candidature envoyée le 2026-04-30; infos demandées envoyées le 2026-05-01 avec CV | En attente | Infos fournies : CFP Bel-Avenir, Andrew Rousseau / andrew.rousseau@csscdr.gouv.qc.ca, 15 mai au 20 août 2026, 240 h, non rémunéré ou selon le milieu, stage terminal, objectif marché de l'emploi, régions Trois-Rivières / Shawinigan / Victoriaville / Nicolet, pas employé CIUSSS. |
+| CIUSSS MCQ | Émilie Bédard / Emilie.Bedard@ssss.gouv.qc.ca / stages.ciusssmcq@ssss.gouv.qc.ca | Candidature envoyée le 2026-04-30; infos demandées envoyées le 2026-05-01 avec CV | En attente | Infos fournies : CFP Bel-Avenir, Andrew Rousseau / andrew.rousseau@csscdr.gouv.qc.ca, 15 mai au 20 août 2026, 240 h, non rémunéré ou selon le milieu, stage terminal, objectif marché de l'emploi, régions Trois-Rivières / Shawinigan / Victoriaville / Nicolet, pas employé CIUSSS. |
 | Marmen | rh@marmeninc.com / portail carrière | Candidature ciblée envoyée le 2026-05-01 avec CV, sans téléphone; postulation portail faite le 2026-05-01 | En attente | Offre stagiaire en technologie de l'information à Trois-Rivières. Courriel et candidature officielle effectués. |
 | Groupe Océan | go@groupocean.com | Candidature ciblée envoyée le 2026-05-01 avec CV, sans téléphone; accusé de réception reçu | En attente | Offre stagiaire support informatique à Québec. Courriel officiel accepté; pas besoin de refaire manuellement sauf via Jobillico si souhaité. |
 | Les Entreprises Greentone | Indeed | Candidature envoyée via Indeed le 2026-04-29 avec CV | En attente | Offre stagiaire en technologies de l'information à Bécancour. Surveiller les réponses Indeed/courriel. |
@@ -70,8 +70,8 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | Groupe SL | info@groupesl.com | Candidature ciblée envoyée le 2026-05-01 avec CV, sans téléphone | En attente | Services TI, gestion TI, cybersécurité, cloud et support. Relancer autour du 2026-05-08 si aucun retour. |
 | Référence Systèmes | info@reference.ca | Candidature ciblée envoyée le 2026-05-01 avec CV | En attente | Services TI gérés, support aux usagers, cloud, matériel et externalisation TI. Attendre environ une semaine. |
 | Flex TI | info@flex-ti.com | Candidature ciblée envoyée le 2026-05-01 avec CV | En attente | Services TI gérés : postes, serveurs, courriels, cybersécurité, réseau et Microsoft 365. Attendre environ une semaine. |
-| Consultation M365 | Charles Lefebvre / ventes@cm365.ca | Candidature envoyee le 2026-05-01; reponse recue le 2026-05-01; reponse mobilite envoyee le 2026-05-01 | En attente | Laval semblait trop loin; reponse envoyee pour confirmer que je suis pret a me deplacer/demenager. |
-| Eosium | Michael Teissier / michael.teissier@eosium.ca | Candidature envoyee le 2026-05-01; reponse recue le 2026-05-01; remerciement envoye le 2026-05-01 | En attente faible / futur possible | CV juge pertinent, mais timing pas ideal; il pourrait recontacter plus tard. Faute de frappe du CV a corriger. |
+| Consultation M365 | Charles Lefebvre / ventes@cm365.ca | Candidature envoyée le 2026-05-01; réponse reçue le 2026-05-01; réponse mobilité envoyée le 2026-05-01 | En attente | Laval semblait trop loin; réponse envoyée pour confirmer que je suis prêt à me déplacer/déménager. |
+| Eosium | Michael Teissier / michael.teissier@eosium.ca | Candidature envoyée le 2026-05-01; réponse reçue le 2026-05-01; remerciement envoyé le 2026-05-01 | En attente faible / futur possible | CV jugé pertinent, mais timing pas idéal; il pourrait recontacter plus tard. Faute de frappe du CV à corriger. |
 | AIDE Informatique | Alain Martel / amartel@aide-informatique.com | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Contact local Trois-Rivières. Attendre environ une semaine. |
 | Solution Informatique 3R | info@solutioni3r.com | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | Support réseau / cybersécurité local. Attendre environ une semaine. |
 | GOX Technologies | support@gox.ca | Candidature ciblée envoyée le 2026-04-30 avec CV | En attente | PME TI Mauricie. Attendre environ une semaine. |
@@ -138,9 +138,9 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | Date | Qui | Action |
 | --- | --- | --- |
 | 2026-05-04 | UdeS via secretariat-sti@usherbrooke.ca | Le secrétariat rouvre; surveiller avant de relancer Jean Lavoie / Pierre-Nicolas Paradis. |
-| 2026-05-01 | CIUSSS MCQ / Emilie Bedard | Réponse envoyée avec les informations demandées et CV attaché. Attendre le retour. |
+| 2026-05-01 | CIUSSS MCQ / Émilie Bédard | Réponse envoyée avec les informations demandées et CV attaché. Attendre le retour. |
 | 2026-05-01 | Vidéotron / Marmen | Postulations manuelles faites le 2026-05-01 : Vidéotron via SmartRecruiters et Marmen via bouton "Postuler". |
-| 2026-05-01 | Consultation M365 / Charles Lefebvre | Reponse mobilite envoyee le 2026-05-01; attendre une reponse. |
+| 2026-05-01 | Consultation M365 / Charles Lefebvre | Réponse mobilité envoyée le 2026-05-01; attendre une réponse. |
 | 2026-05-06 | CSS de l'Énergie, CSSDM, CSS de la Capitale | Relancer seulement s'il n'y a aucun retour. CSS des Bois-Francs a refusé le 2026-05-01. |
 | 2026-05-07 | Contacts TI locaux envoyés le 2026-04-30 | Vérifier réponses : AIDE Informatique, Solution Informatique 3R, GOX, Ulogik, Manel, Intellogiciel, Ordivert, Stratéjia, La Fabrique Web, Shawinigan Informatique. |
 | 2026-05-07 | Nouveaux contacts publics envoyés le 2026-04-30 | Vérifier réponses : Ville de Drummondville, CSS de l'Énergie / Christian Amyot, CSS des Chênes, Francis Bouchard-Boulianne, Cégep de Sherbrooke, Ville de Rouyn-Noranda. |
@@ -149,7 +149,7 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | 2026-05-07 | Nouveaux contacts UdeS via secrétariat STI | Vérifier réponses pour Jean Lavoie et Pierre-Nicolas Paradis. |
 | 2026-05-07 | Rondeau/Pulsar, MS Solutions, KuriosIT, GC Brieau, QualiTech | Vérifier les réponses, puis relancer seulement si pertinent. |
 | 2026-05-07 | Rhesus, Micromedica, Solti, Kezber, MicroAge, SBK Techno | Relancer les candidatures du 2026-04-27 encore sans réponse. |
-| 2026-05-08 | Nouveaux MSP / services TI envoyes le 2026-05-01 | Verifier reponses : Unikbox, NetCentrex, Solutions TI, Digital Info System, MS Tech Support, Groupe SL, Reference Systemes, Flex TI. Groupe InfoPlus a transfere au directeur technique; Services Info S. Allard et Effset ont refuse; Consultation M365 est en attente apres reponse mobilite; Eosium est futur possible. |
+| 2026-05-08 | Nouveaux MSP / services TI envoyés le 2026-05-01 | Vérifier réponses : Unikbox, NetCentrex, Solutions TI, Digital Info System, MS Tech Support, Groupe SL, Référence Systèmes, Flex TI. Groupe InfoPlus a transféré au directeur technique; Services Info S. Allard et Effset ont refusé; Consultation M365 est en attente après réponse mobilité; Eosium est futur possible. |
 | 2026-05-08 | Nouvelles organisations publiques / scolaires / industrielles envoyées le 2026-05-01 | Vérifier réponses : Marmen, Groupe Océan, SOPREMA, Cégep de Drummondville, Groupe TI, TML Informatique, Technologies Lannex, Groupe COSIOR, Ville de Bécancour, Ville de Nicolet et CISSS de Chaudière-Appalaches. Cégep de Victoriaville a été transféré au directeur adjoint SRI. |
 | 2026-05-08 | AMETEK / FARO Creaform | Vérifier la suite de la candidature Stagiaire, soutien TI (210834). |
 
@@ -167,7 +167,7 @@ Ces pistes sont encore ouvertes : en attente, à relancer plus tard, ou à clari
 | Ville de Québec | Québec | Patrick Ouellette / 311, 418-641-6311 | Aucun courriel fourni; trouver un courriel officiel avant action. |
 | Concepta Systèmes Informatiques | Trois-Rivières | Formulaire officiel "Nous joindre" / service clientèle | Pas de courriel direct vérifié; candidature à faire par formulaire officiel. |
 | Atyptic Inc. | Drummondville | Formulaire officiel de contact | Pas de courriel direct dans la liste; candidature à faire par formulaire officiel. |
-| CIUSSS MCQ | Mauricie / Centre-du-Québec | Emilie Bedard / Emilie.Bedard@ssss.gouv.qc.ca / stages.ciusssmcq@ssss.gouv.qc.ca / formulaire officiel "Demande de stage" | Réponse envoyée le 2026-05-01 avec les informations demandées et le CV. |
+| CIUSSS MCQ | Mauricie / Centre-du-Québec | Émilie Bédard / Emilie.Bedard@ssss.gouv.qc.ca / stages.ciusssmcq@ssss.gouv.qc.ca / formulaire officiel "Demande de stage" | Réponse envoyée le 2026-05-01 avec les informations demandées et le CV. |
 | CIUSSS de l'Estrie - CHUS | Sherbrooke / Estrie | Formulaire "Demande spontanée" stage en supervision | Processus officiel; préciser DEP soutien informatique et intérêt TI. |
 | CIUSSS de la Capitale-Nationale | Québec | Formulaire officiel de demande de stage | Processus officiel; préciser soutien informatique / direction TI. |
 | Hilo Tech | Longueuil / province de Québec | info@hilotech.ca / formulaire officiel de contact | Candidature envoyée par courriel le 2026-04-30 avec CV; vérification Gmail faite le 2026-05-01, ne pas renvoyer. |

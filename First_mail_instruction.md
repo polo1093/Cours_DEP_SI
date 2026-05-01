@@ -1,8 +1,6 @@
+Informations importantes. La forme peut être changée.
 
-Infos important la forme peut etre changer
-
-regarde si je n ai pas deja conctater la personne, regarde dans tage.md, alors dis moi et n envoye pas le mail 
-
+Avant tout envoi, vérifier si la personne ou l'organisation a déjà été contactée dans `stage.md`. Si c'est déjà fait, me le dire et ne pas envoyer le courriel.
 
 Je suis actuellement en DEP Soutien informatique au CFP Bel-Avenir, à Trois-Rivières, et je recherche un milieu de stage en soutien informatique.
 Le stage peut aussi représenter une période d’évaluation concrète en vue d’une éventuelle embauche, puisque mon objectif est de m’intégrer durablement dans une équipe TI après mon DEP.
@@ -15,13 +13,12 @@ Période souhaitée : à partir du 25 mai, avec une fin possible autour du 20 ao
 Nombre total d’heures : 240 heures
 
 paulaugustinpoisson@gmail.com
-ne mets pas mon telephone car mon nu ne fonctionne pas tres bien
+Ne pas mettre mon téléphone, car mon numéro ne fonctionne pas très bien.
 
-Si on me demande pour la distance, la mobilite ou la region, dire que je suis pret a me deplacer et meme a demenager pour une bonne possibilite de stage en soutien informatique.
+Si on me demande pour la distance, la mobilité ou la région, dire que je suis prêt à me déplacer et même à déménager pour une bonne possibilité de stage en soutien informatique.
 
-Chaque fois que des fichiers du depot sont modifies, faire un commit et un push sur GitHub apres les changements.
+Chaque fois que des fichiers du dépôt sont modifiés, faire un commit et un push sur GitHub après les changements.
 
+Mon CV est dans ce projet; il faut le joindre aux candidatures quand c'est pertinent.
 
-Mon cv est sur ce projet, il doit etre rajoute
-
-Si les reponses sont favorable dit moi, je repondrais manuellement
+Si les réponses sont favorables, me le dire. Je répondrai manuellement.
