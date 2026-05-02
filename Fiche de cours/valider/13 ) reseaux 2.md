@@ -1,116 +1,96 @@
-## 4) Arborescence type
+# Fiche courte — Dossiers, profils AD et droits NTFS
+<img width="1055" height="1491" alt="image" src="https://github.com/user-attachments/assets/1daf6c66-1d69-4aa2-859c-b556c16218ab" />
 
-Créer un **dossier principal** sur le 2e disque ou sur `D:` :
+## 1. Préparation
+
+- Vérifier qu’Active Directory est déployé.
+- Vérifier les réglages réseau du serveur et du client.
+- IP client : 192.168.48.159
+- Passerelle : 192.168.48.2
+- DNS : 192.168.48.159
+- Vérifier que le client rejoint bien le domaine.
+- Utiliser le script de création d’utilisateurs :
+
+[Script PowerShell — création utilisateurs](https://github.com/polo1093/Cours_DEP_SI/blob/main/script/script/Creation users reseau_2.ps1)
+
+---
+
+## 2. Arborescence
+
+Créer le dossier principal sur D: :
 
 ```text
 D:\WEB20
-│
-├── Groupes
-│   ├── Direction
-│   ├── Comptabilite
-│   │   └── Payes
-│   ├── Operations
-│   └── Secretaire
-│
+├── Direction
+├── Comptabilite
+│   └── Payes
+├── Operations
 └── Personnels
     ├── user1
     ├── user2
-    ├── user3
     └── ...
 ```
 
-## 5) Partage réseau
+---
 
-* Partager **le dossier principal** `D:\WEB20`
-* Nom de partage : `WEB20` ou `WEB20$`
-* **Droits de partage** :
+## 3. Partage réseau
 
-  * Admins : **Contrôle total**
-  * Utilisateurs du domaine / Tout le monde : **Contrôle total**
-* Ensuite, la vraie sécurité se gère en **NTFS**
-* Bon réflexe : **ne pas partager tout le disque D:**, mais seulement le dossier principal de l’entreprise
+- Partager seulement `D:\WEB20`
+- Nom du partage : `WEB20` ou `WEB20$`
+- Ne pas partager tout le disque D:
+- Droits de partage : large
+- Droits précis : en NTFS
 
-## 6) Sécurité NTFS à appliquer
+---
 
-### Dossier principal `D:\WEB20`
+## 4. Sécurité NTFS
 
-* `Administrateurs` : **Contrôle total**
-* `SYSTEM` : **Contrôle total**
-* `Utilisateurs du domaine` : **Lecture / exécution**
-* Les utilisateurs **ne doivent pas écrire** ici
+Dossier principal `D:\WEB20` :
 
-### Dossier `Groupes\Direction`
+- Admins : contrôle total
+- SYSTEM : contrôle total
+- Utilisateurs du domaine : lecture seulement
 
-* `GG_Direction` : **Modification**
-* `Administrateurs` : **Contrôle total**
+Dossiers de groupe :
 
-### Dossier `Groupes\Comptabilite`
+- `GG_Direction` → Modification
+- `GG_Comptabilite` → Modification
+- `GG_Operations` → Modification
+- `GG_Secretaire` → Modification ou lecture selon consigne
 
-* `GG_Comptabilite` : **Modification**
-* `Administrateurs` : **Contrôle total**
+Dossier `Payes` :
 
-### Dossier `Groupes\Comptabilite\Payes`
+- Désactiver l’héritage
+- Garder seulement les personnes autorisées
 
-* **Désactiver l’héritage ici**
-* Retirer les groupes hérités inutiles
-* Laisser seulement :
+Dossiers personnels :
 
-  * le comptable autorisé
-* Si l’énoncé dit que **l’admin n’a pas accès**, le retirer aussi de ce sous-dossier
+- Désactiver l’héritage
+- Utilisateur concerné : modification
+- Admins : contrôle total
+- SYSTEM : contrôle total
+- Autres utilisateurs : aucun accès
 
-### Dossier `Groupes\Operations`
+---
 
-* `GG_Operations` : **Modification**
-* `Administrateurs` : **Contrôle total**
+## 5. Lecteur personnel W:
 
-### Dossier `Groupes\Secretaire`
+Dans AD :
 
-* `GG_Secretaire` : **Modification**
-* `Utilisateurs du domaine` : **Lecture**
-* `Administrateurs` : **Contrôle total**
-
-### Dossier `Personnels`
-
-* Parent `Personnels` :
-
-  * `Administrateurs` : **Contrôle total**
-  * `SYSTEM` : **Contrôle total**
-  * `Utilisateurs du domaine` : **Lecture** / traversée seulement
-
-### Chaque dossier personnel `Personnels\%username%`
-
-* **Désactiver l’héritage ici**
-* Garder seulement :
-
-  * l’utilisateur concerné : **Modification** ou **Contrôle total**
-  * `Administrateurs` : **Contrôle total**
-  * `SYSTEM` : **Contrôle total**
-* Les autres utilisateurs : **aucun accès**
-
-## 7) Où désactiver l’héritage
-
-À retenir pour le test :
-
-* **Oui** sur chaque **dossier personnel**
-* **Oui** sur le sous-dossier **Payes / confidentiel**
-* **Non en général** sur le dossier principal et les dossiers de groupe, sauf consigne spéciale
-
-## 8) Lecteur personnel W:
-
-Dans **Utilisateurs et ordinateurs Active Directory** :
-
-* Propriétés utilisateur
-* Onglet **Profil**
-* **Dossier de base / Home folder**
-* Connecter `W:` vers :
+- Propriétés utilisateur
+- Onglet Profil
+- Dossier de base
+- Connecter W: vers :
 
 ```text
 \\SRV-AD\WEB20\Personnels\%username%
 ```
 
-## 9) Script d’ouverture de session
+---
 
-### Version type demandée en examen
+## 6. Script d’ouverture de session
+
+Exemple :
 
 ```bat
 @echo off
@@ -119,86 +99,62 @@ if not exist W:\ net use V: \\SRV-AD\WEB20
 start calc.exe
 ```
 
-### Variante du prof avec message + notepad
+À placer selon l’énoncé :
 
-```bat
-@echo off
-msg %username% "Bienvenue"
-start notepad.exe
-```
+- Profil utilisateur AD
+- Ou GPO utilisateur
+- Emplacement classique : `NETLOGON`
 
-## 10) Où placer / assigner le script
+---
 
-Selon l’énoncé :
-
-* soit dans le **profil utilisateur** AD
-* soit via une **GPO**
-* emplacement classique : dossier scripts du domaine / `NETLOGON`
-
-## 11) GPO
+## 7. GPO utilisateur
 
 Créer une GPO liée à l’OU des utilisateurs :
 
-* Bloquer l’accès au **Panneau de configuration**
-* Assigner le **script d’ouverture de session**
-* Si demandé : fond d’écran imposé via GPO
+- Bloquer le Panneau de configuration
+- Assigner le script d’ouverture de session
+- Imposer un fond d’écran si demandé
 
-Point technique utile :
+Note : la stratégie de mot de passe se règle normalement au niveau domaine.
 
-* la **stratégie de mot de passe du domaine** se configure normalement au **niveau domaine** (pas une simple OU), sauf cas particuliers
+---
 
-## 12) Client Windows 10/11
+## 8. Client Windows 10/11
 
-* Créer une VM cliente
-* Joindre la machine au domaine
-* Ajouter les utilisateurs demandés au groupe **Administrateurs local** si exigé
-* Ouvrir une session avec plusieurs utilisateurs et vérifier :
+- Joindre le client au domaine.
+- Ouvrir une session avec plusieurs utilisateurs.
+- Vérifier :
+  - message affiché
+  - script lancé
+  - lecteur W: présent
+  - lecteur V: présent si demandé
+  - droits NTFS corrects
+  - fond d’écran appliqué si demandé
 
-  * ouverture OK
-  * script lancé
-  * message pop-up affiché
-  * `calc.exe` ou `notepad.exe` démarre
-  * lecteur `W:` présent
-  * lecteur `V:` créé si la condition le demande
-  * fond d’écran appliqué si demandé
+---
 
-## 13) Sauvegarde
+## 9. Sauvegarde
 
-* Installer **Sauvegarde Windows Server**
-* Planifier une sauvegarde quotidienne à **20h**
-* Source : dossier principal de l’entreprise
-* Destination : **2e disque**
-* Lancer aussi une **sauvegarde unique**
-* Restaurer dans un dossier `Restauration` sur le bureau
+- Installer Sauvegarde Windows Server.
+- Planifier une sauvegarde quotidienne à 20 h.
+- Source : `D:\WEB20`
+- Destination : 2e disque.
+- Lancer une sauvegarde unique.
+- Tester une restauration dans un dossier `Restauration`.
 
-## 14) Sécurité Windows
+---
 
-Dans **Sécurité Windows**, vérifier les 4 voyants verts :
+## 10. Sécurité Windows
 
-* Protection antivirus / menaces
-* Pare-feu réseau
-* Contrôle des applications / navigateur
-* Sécurité de l’appareil
+Vérifier les 4 voyants verts :
 
-## 15) Contrôle final
+- Antivirus / menaces
+- Pare-feu réseau
+- Applications / navigateur
+- Sécurité de l’appareil
 
-* DNS OK
-* Domaine OK
-* OU / groupes / utilisateurs OK
-* Horaires / expiration OK
-* Partage OK
-* NTFS OK
-* Héritage coupé aux bons endroits
-* Lecteur `W:` OK
-* Script OK
-* GPO OK
-* Sauvegarde + restauration OK
+---
 
-### Règle simple à mémoriser
+## Ordre conseillé
 
-* **Partage = large**
-* **NTFS = précis**
-* **Héritage coupé seulement sur les dossiers sensibles**
-  → **personnels** + **payes/confidentiel**
-
-Si tu veux, je peux maintenant te faire une **version encore plus condensée “1 page révision rapide”**, prête à imprimer.
+AD + réseau → script utilisateurs → arborescence → partage → NTFS → héritage → lecteur W: → script/GPO → test client → sauvegarde → sécurité
