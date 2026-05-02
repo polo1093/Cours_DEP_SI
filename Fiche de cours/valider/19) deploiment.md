@@ -1,4 +1,4 @@
-````markdown
+
 # Fiche courte — Déploiement logiciel par GPO
 
 ## 1. Préparation client / réseau
@@ -13,7 +13,6 @@
 
 <img src="https://github.com/user-attachments/assets/7dfe109c-de63-4fda-8406-11f50ef0c8e8" width="50%">
 
----
 
 ## 2. Partage du dossier installateurs
 
@@ -21,7 +20,7 @@
 - Partage : Tout le monde.
 - Sécurité : Tout le monde + ordinateurs clients / ordinateurs du domaine.
 
----
+
 
 ## 3. Installation MSI par GPO
 
@@ -32,7 +31,7 @@
 
 <img src="https://github.com/user-attachments/assets/21e80965-783e-43a9-ab5b-81998f940d87" width="50%">
 
----
+
 
 ## 4. Sécurité de la GPO
 
@@ -44,7 +43,6 @@
 
 <img src="https://github.com/user-attachments/assets/7da65e59-669a-49bd-86d1-5f6c40e263e9" width="50%">
 
----
 
 ## 5. Script PowerShell au démarrage
 
@@ -57,7 +55,6 @@
 
 <img src="https://github.com/user-attachments/assets/76c12552-f8c7-4d5d-abdc-69128612231b" width="50%">
 
----
 
 ## 6. OU / Active Directory
 
@@ -65,33 +62,18 @@
 - Déplacer les postes depuis Computers vers la bonne OU.
 - Vérifier les OU : utilisateurs, groupes, ordinateurs clients.
 
----
+
 
 ## 7. Côté client
-
-```cmd
+Normqlement pqs necessaire
 gpupdate /force
-shutdown /r /t 0
-````
 
----
 
-## 8. Vérification
-
-```cmd
-gpresult /USER admin /R
-```
-
-* Vérifier que la GPO s’applique.
-* Vérifier que le MSI est installé.
-* Vérifier que le script s’exécute.
-
----
 
 ## Bonus : admin local
 
 * Ajouter un compte dans les administrateurs locaux si demandé.
 
 <img src="https://github.com/user-attachments/assets/7aee09ab-5d3d-497c-aa2f-6b4b1ab061d9" width="50%">
-```
+
 
