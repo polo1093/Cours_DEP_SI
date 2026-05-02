@@ -1,4 +1,3 @@
-
 # \\NOMDUSERVEUR\ZZ\Personnels\%username%
 
 Import-Module ActiveDirectory
@@ -8,82 +7,35 @@ Import-Module ActiveDirectory
 # =========================================================
 
 # Domaine / OU
-$DomainDNS   = "PRETEST.local"
-$BaseDN      = "DC=PRETEST,DC=local"
-$OUName      = "PRETEST"
-$OUPath      = "OU=$OUName,$BaseDN"
+$DomainDNS = "PRETEST.local"
+$BaseDN    = "DC=PRETEST,DC=local"
+$OUName    = "PRETEST"
+$OUPath    = "OU=$OUName,$BaseDN"
 
-# FIN DE MAIL MODIFIABLE ICI
-# Exemple:
-# "@PRETEST.local"
-# "@entreprise.local"
-$MailSuffix  = "@PRETEST.local"
+# Fin de mail modifiable
+$MailSuffix = "@PRETEST.local"
 
 # Mot de passe initial
 $PlainPassword  = 'Pa$$w0rd'
 $SecurePassword = ConvertTo-SecureString $PlainPassword -AsPlainText -Force
 
 # =========================================================
-# GROUPES DE DÉPLOIEMENT
+# UTILISATEURS + GROUPE UNIQUE
+# Réseau 2 : chaque utilisateur appartient à un seul groupe GG
 # =========================================================
-$DeployGroups = @(
-    "Deploy_Firefox",
-    "Deploy_Inkscape",
-    "Deploy_NotepadPP",
-    "Deploy_VLC",
-    "Deploy_PhotoFiltre"
-)
 
-# =========================================================
-# UTILISATEURS + LOGICIELS
-# Tu peux modifier la liste Software pour chaque user
-# =========================================================
 $Users = @(
-    @{
-        FirstName = "Alex"
-        LastName  = "Martin"
-        Software  = @("Deploy_Firefox", "Deploy_NotepadPP", "Deploy_VLC", "Deploy_PhotoFiltre")
-    },
-    @{
-        FirstName = "Chloé"
-        LastName  = "Parent"
-        Software  = @("Deploy_Firefox", "Deploy_Inkscape", "Deploy_VLC", "Deploy_PhotoFiltre")
-    },
-    @{
-        FirstName = "Hugo"
-        LastName  = "Lavoie"
-        Software  = @("Deploy_Inkscape", "Deploy_NotepadPP", "Deploy_VLC", "Deploy_PhotoFiltre")
-    },
-    @{
-        FirstName = "Emma"
-        LastName  = "Fortin"
-        Software  = @("Deploy_Firefox", "Deploy_NotepadPP", "Deploy_PhotoFiltre")
-    },
-    @{
-        FirstName = "Louis"
-        LastName  = "Caron"
-        Software  = @("Deploy_Inkscape", "Deploy_NotepadPP", "Deploy_VLC", "Deploy_PhotoFiltre")
-    },
-    @{
-        FirstName = "Sarah"
-        LastName  = "Gendron"
-        Software  = @("Deploy_Firefox", "Deploy_Inkscape", "Deploy_VLC", "Deploy_PhotoFiltre")
-    },
-    @{
-        FirstName = "Maxime"
-        LastName  = "Pelletier"
-        Software  = @("Deploy_Inkscape", "Deploy_NotepadPP", "Deploy_PhotoFiltre")
-    },
-    @{
-        FirstName = "Léa"
-        LastName  = "Girard"
-        Software  = @("Deploy_Firefox", "Deploy_VLC", "Deploy_PhotoFiltre")
-    }
+    @{ FirstName = "Alex";  LastName = "Martin";   Group = "GG_Direction" }
+    @{ FirstName = "Chloe"; LastName = "Parent";   Group = "GG_Comptabilite" }
+    @{ FirstName = "Hugo";  LastName = "Lavoie";   Group = "GG_Operations" }
+    @{ FirstName = "Emma";  LastName = "Fortin";   Group = "GG_Secretaire" }
+    @{ FirstName = "Louis"; LastName = "Caron";    Group = "GG_Comptabilite" }
 )
 
 # =========================================================
 # FONCTIONS
 # =========================================================
+
 function Remove-Accents {
     param([string]$Text)
 
@@ -201,11 +153,11 @@ function Add-UserToGroupSafe {
     )
 
     try {
-        $member = Get-ADUser -Identity $UserSam
-        $alreadyMember = Get-ADGroupMember -Identity $GroupName -ErrorAction SilentlyContinue |
-            Where-Object { $_.DistinguishedName -eq $member.DistinguishedName }
+        $Member = Get-ADUser -Identity $UserSam
+        $AlreadyMember = Get-ADGroupMember -Identity $GroupName -ErrorAction SilentlyContinue |
+            Where-Object { $_.DistinguishedName -eq $Member.DistinguishedName }
 
-        if (-not $alreadyMember) {
+        if (-not $AlreadyMember) {
             Add-ADGroupMember -Identity $GroupName -Members $UserSam
             Write-Host "$UserSam ajouté à $GroupName"
         }
@@ -221,37 +173,41 @@ function Add-UserToGroupSafe {
 # =========================================================
 # CRÉATION DE L'OU SI ABSENTE
 # =========================================================
+
 Ensure-OUExists -OUName $OUName -BaseDN $BaseDN
 
 # =========================================================
-# CRÉATION DES GROUPES DE DÉPLOIEMENT
+# CRÉATION DES GROUPES GG
+# Les groupes sont déduits automatiquement des utilisateurs
 # =========================================================
-foreach ($Group in $DeployGroups) {
+
+$Groups = $Users.Group | Sort-Object -Unique
+
+foreach ($Group in $Groups) {
     New-GroupIfMissing `
         -Name $Group `
-        -Description "Groupe de sécurité pour le déploiement de $Group" `
+        -Description "Groupe de sécurité $Group pour les droits réseau / NTFS" `
         -Path $OUPath
 }
 
 # =========================================================
-# CRÉATION DES UTILISATEURS + AJOUT AUX GROUPES
+# CRÉATION DES UTILISATEURS + AJOUT AU GROUPE UNIQUE
 # =========================================================
-foreach ($u in $Users) {
-    $Sam = New-UserIfMissing -User $u -Path $OUPath -MailSuffix $MailSuffix
 
-    foreach ($SoftwareGroup in $u.Software) {
-        Add-UserToGroupSafe -UserSam $Sam -GroupName $SoftwareGroup
-    }
+foreach ($User in $Users) {
+    $Sam = New-UserIfMissing -User $User -Path $OUPath -MailSuffix $MailSuffix
+    Add-UserToGroupSafe -UserSam $Sam -GroupName $User.Group
 }
 
 # =========================================================
 # FIN
 # =========================================================
+
 Write-Host ""
 Write-Host "========================================"
 Write-Host "Création terminée."
-Write-Host "Domaine            : $DomainDNS"
-Write-Host "OU                 : $OUPath"
-Write-Host "Suffixe mail       : $MailSuffix"
+Write-Host "Domaine              : $DomainDNS"
+Write-Host "OU                   : $OUPath"
+Write-Host "Suffixe mail         : $MailSuffix"
 Write-Host "Mot de passe initial : $PlainPassword"
 Write-Host "========================================"
