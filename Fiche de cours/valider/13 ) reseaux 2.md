@@ -11,7 +11,7 @@
 - Vérifier que le client rejoint bien le domaine.
 - Utiliser le script de création d’utilisateurs :
 
-[Script PowerShell — création utilisateurs](https://github.com/polo1093/Cours_DEP_SI/blob/main/script/script/Creation_users_reseau_2.ps1)
+[Script PowerShell — création utilisateurs](https://github.com/polo1093/Cours_DEP_SI/blob/main/script/Creation_users_reseau_2.ps1)
 
 ---
 
