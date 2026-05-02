@@ -64,7 +64,7 @@
 
 
 ## 7. Côté client
-Normqlement pqs necessaire
+Normalement pas necessaire
 gpupdate /force
 
 
