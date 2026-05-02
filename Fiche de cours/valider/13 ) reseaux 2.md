@@ -19,7 +19,7 @@
 
 Créer le dossier principal sur D: :
 
-Pr les users commande **\\NOMDUSERVEUR\ZZ\Personnels\%username%**
+Pr les users commande **\\\\NOMDUSERVEUR\ZZ\Personnels\%username%**
 ```text
 D:\WEB20
 ├── Direction
