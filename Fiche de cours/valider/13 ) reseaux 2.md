@@ -1,5 +1,5 @@
 # Fiche courte — Dossiers, profils AD et droits NTFS
-<img width="1055" height="1491" alt="image" src="https://github.com/user-attachments/assets/1daf6c66-1d69-4aa2-859c-b556c16218ab" />
+<img width="1055" height="1491" alt="image" src="https://github.com/user-attachments/assets/1daf6c66-1d69-4aa2-859c-b556c16218ab" width="50%"/>
 
 ## 1. Préparation
 
