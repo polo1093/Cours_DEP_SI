@@ -17,6 +17,8 @@ Ne pas mettre mon téléphone, car mon numéro ne fonctionne pas très bien.
 
 Si on me demande pour la distance, la mobilité ou la région, dire que je suis prêt à me déplacer et même à déménager pour une bonne possibilité de stage en soutien informatique.
 
+Quand une personne me répond par un refus personnalisé ou courtois, envoyer un court courriel de remerciement, puis noter dans `stage.md` que le remerciement a été envoyé. Ne pas envoyer de remerciement aux réponses automatiques, aux messages de non-livraison ou aux refus déjà remerciés.
+
 Chaque fois que des fichiers du dépôt sont modifiés, faire un commit et un push sur GitHub après les changements.
 
 Mon CV est dans ce projet; il faut le joindre aux candidatures quand c'est pertinent.

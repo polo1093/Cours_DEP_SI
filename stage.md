@@ -31,7 +31,7 @@ Ces pistes sont fermées : refus reçu, entrevue terminée avec refus, ou piste 
 | Ville de Shawinigan | rh@shawinigan.ca / ressourceshumaines@shawinigan.ca | Candidature envoyée le 2026-04-30; réponse reçue le 2026-05-01 | Refus | Toutes les places de stage de l'année sont comblées. |
 | Collège Laflèche | Hugues Veillette / hugues.veillette@clafleche.qc.ca | Candidature envoyée le 2026-04-30; réponse reçue le 2026-05-01 | Refus / fermé à court terme | Pas vraiment d'ouverture pour un stage au Collège à court terme. |
 | Services Info S. Allard | Sébastien Allard / sallard@servicesinfo.ca | Candidature envoyée le 2026-05-01; réponse reçue le 2026-05-01 | Refus | Ne prend pas de stagiaire. |
-| Effset | Frédérik Guay / frederik@effset.ca | Candidature envoyée le 2026-05-01; réponse reçue le 2026-05-01 | Refus | Très petite structure; pas en mesure d'offrir l'encadrement nécessaire. |
+| Effset | Frédérik Guay / frederik@effset.ca | Candidature envoyée le 2026-05-01; réponse reçue le 2026-05-01; remerciement envoyé le 2026-05-02 | Refus | Très petite structure; pas en mesure d'offrir l'encadrement nécessaire. |
 | Groupe Canimex | recrutement@canimex.com | Candidature envoyée le 2026-04-30; réponse reçue le 2026-05-01 | Refus | Aucun stage correspondant au profil présentement; coordonnées conservées. |
 | Canam | SmartRecruiters | Candidature envoyée le 2026-04-01; refus / gel reçu le 2026-04-14 | Refus | Stage en soutien informatique déjà postulé; Canam ne prend plus de nouvelles candidatures pour ce poste. |
 | CSS de la Région-de-Sherbrooke | Comm@cssrs.gouv.qc.ca / GuillerandA@cssrs.gouv.qc.ca | Candidature envoyée le 2026-04-30; réponse reçue le 2026-05-01 | Refus | Le service informatique n'accueille pas de stagiaires. |
