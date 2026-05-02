@@ -1,5 +1,6 @@
 
 # Fiche courte — Déploiement logiciel par GPO
+<img width="1055" height="1491" alt="image" src="https://github.com/user-attachments/assets/71cd6825-403e-4382-8513-475c01eda2c8" />
 
 ## 1. Préparation client / réseau
 
