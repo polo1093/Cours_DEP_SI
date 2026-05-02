@@ -31,6 +31,7 @@ D:\WEB20
     ├── user2
     └── ...
 ```
+[Script PowerShell — Delete droit admin et ts le monde à mettre dans le dossier **Personnels**](https://github.com/polo1093/Cours_DEP_SI/blob/main/script/delete%20droits%20users.ps1))
 
 ---
 
