@@ -7,8 +7,10 @@ Verrouillage connexion fail
 trace de log des echec de connexion
 <img width="1668" height="978" alt="image" src="https://github.com/user-attachments/assets/2cfc3496-8406-423a-b254-b28c31f664b2" />
 
+Command powershel sur ordi client
+Enable-NetFirewallRule -DisplayGroup "Gestion à distance du journal des événements"
 
-
+Get-NetFirewallRule | Where-Object {$_.DisplayName -like "*DCOM*"} | Enable-NetFirewallRule
 
 
 
