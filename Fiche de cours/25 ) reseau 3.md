@@ -7,6 +7,14 @@ Verrouillage connexion fail
 trace de log des echec de connexion
 <img width="1668" height="978" alt="image" src="https://github.com/user-attachments/assets/2cfc3496-8406-423a-b254-b28c31f664b2" />
 
+
+
+journal evenemet client
+<img width="1904" height="978" alt="image" src="https://github.com/user-attachments/assets/7bbf02ee-49ed-4ef2-905a-1b17a3ffe412" />
+
+
+
+
 Command powershel sur ordi client
 
 Get-NetFirewallRule | Where-Object {
