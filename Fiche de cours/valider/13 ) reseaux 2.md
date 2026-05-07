@@ -84,7 +84,7 @@ Dans AD :
 - Dossier de base
 - Connecter W: vers :
 
-```text
+```bat
 \\SRV-AD\WEB20\Personnels\%username%
 ```
 
