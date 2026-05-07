@@ -19,7 +19,7 @@
 
 Créer le dossier principal sur D: :
 
-**Pr les users commande **
+**Pr les users commande**
 ```bat
 \\NOMDUSERVEUR\ZZ\Personnels\%username%
 ```
