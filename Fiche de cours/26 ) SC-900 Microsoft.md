@@ -17,14 +17,10 @@ Objectif : si une couche échoue, une autre couche bloque ou ralentit l’attaqu
 - Données : chiffrement, classification, droits d’accès.
 <img width="1100" height="580" alt="image" src="https://github.com/user-attachments/assets/055dbc42-9fca-4086-90ea-41bf99c7a1a4" />
 
-## À retenir
 
-La donnée est la couche la plus critique.
-Même si un attaquant passe une barrière, il doit encore franchir les autres.
+# Triade CIA "donne  les mots en anglais et fr"
 
-# Triade CIA
-
-## Confidentialité
+## Confidentiality 
 
 Seules les personnes autorisées peuvent accéder aux données.
 
@@ -33,7 +29,7 @@ Exemples :
 - droits d’accès
 - MFA
 
-## Intégrité
+## Integrity 
 
 Les données doivent rester exactes et non modifiées sans autorisation.
 
@@ -42,7 +38,7 @@ Exemples :
 - signature numérique
 - journaux d’audit
 
-## Disponibilité
+## Availability = Disponibilité
 
 Les systèmes doivent rester accessibles aux utilisateurs autorisés.
 
