@@ -1,4 +1,9 @@
 # Fiche entretien stage IT
+port 
+80 http
+25 server-to-server email
+23 TCP /Ip
+
 
 point fort
 “Mon point principal fort, c’est mon esprit analytique. J’aime structurer un problème, identifier les causes possibles et avancer de façon méthodique. J’ai aussi un bon relationnel, donc je collabore facilement avec les autres.”
