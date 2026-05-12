@@ -1,3 +1,7 @@
+<img width="1055" height="1491" alt="image" src="https://github.com/user-attachments/assets/39470acf-5d49-4c59-8ea4-3e2305095ffb" />
+
+
+
 # Fiche de préparation — Entretien stage TI
 
 Objectif : avoir des réponses courtes, professionnelles et faciles à ressortir pendant un entretien de stage en soutien informatique.
@@ -192,7 +196,7 @@ google.com -> adresse IP du serveur Google
 **Réponse entretien :**
 
 > Le port 3389 correspond à RDP. Il permet de prendre le contrôle à distance d’un poste ou serveur Windows avec une interface graphique.
-<img width="1274" height="770" alt="image" src="https://github.com/user-attachments/assets/17b7e5d8-aebc-426b-b1f7-1109b8dab3bc" />
+
 
 ### FTP — port 21
 
