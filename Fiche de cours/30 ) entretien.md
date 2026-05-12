@@ -1,188 +1,226 @@
-# Fiche entretien stage IT
-port 
-80 http
-25 server-to-server email
-23 TCP /Ip
+# Fiche de préparation — Entretien stage TI
 
+Objectif : avoir des réponses courtes, professionnelles et faciles à ressortir pendant un entretien de stage en soutien informatique.
 
-point fort
-“Mon point principal fort, c’est mon esprit analytique. J’aime structurer un problème, identifier les causes possibles et avancer de façon méthodique. J’ai aussi un bon relationnel, donc je collabore facilement avec les autres.”
+---
 
-point faible
-“Dans un nouvel environnement, j’ai parfois tendance à vouloir d’abord avancer seul avant de solliciter quelqu’un. Avec l’expérience, j’ai appris à poser une question ciblée plus tôt quand cela permet d’être plus efficace.”
-## 1. Ports mail à connaître
+## 1. Présentation rapide
+
+> Je suis en DEP Soutien informatique. J’ai un profil orienté support utilisateur, diagnostic poste, réseau de base, Windows, serveurs et automatisation. J’aime comprendre la cause d’un problème plutôt que seulement appliquer une solution temporaire.
+
+---
+
+## 2. Point fort
+
+> Mon principal point fort est mon esprit analytique. J’aime structurer un problème, identifier les causes possibles et avancer de manière méthodique. J’ai aussi un bon relationnel, ce qui me permet de collaborer facilement avec les utilisateurs et l’équipe technique.
+
+---
+
+## 3. Point faible
+
+> Dans un nouvel environnement, j’ai parfois tendance à vouloir chercher seul avant de solliciter quelqu’un. Avec l’expérience, j’ai appris à poser une question ciblée plus tôt lorsque cela permet d’être plus efficace et d’éviter de perdre du temps.
+
+---
+
+## 4. Ports réseau essentiels
+
+| Port | Protocole | Usage principal |
+|---:|---|---|
+| 20/21 | FTP | Transfert de fichiers, non chiffré par défaut |
+| 22 | SSH / SFTP | Administration distante sécurisée et transfert sécurisé |
+| 23 | Telnet | Administration distante non chiffrée, à éviter |
+| 25 | SMTP | Relais SMTP, surtout serveur à serveur |
+| 53 | DNS | Résolution de noms en adresses IP |
+| 67/68 | DHCP | Attribution automatique de configuration IP |
+| 80 | HTTP | Web non chiffré |
+| 110 | POP3 | Réception de mails en local, non chiffrée |
+| 143 | IMAP | Consultation/synchronisation mail, non chiffrée |
+| 443 | HTTPS | Web chiffré avec TLS |
+| 465 | SMTPS | SMTP chiffré avec SSL/TLS |
+| 587 | SMTP Submission | Envoi de mail authentifié côté client |
+| 993 | IMAPS | IMAP chiffré avec SSL/TLS |
+| 995 | POP3S | POP3 chiffré avec SSL/TLS |
+| 3389 | RDP | Bureau à distance Windows |
+
+### Réponse courte entretien
+
+> Je connais les ports courants en support TI : HTTP/HTTPS pour le Web, DNS en 53, DHCP en 67/68, SMTP/IMAP/POP pour la messagerie, SSH en 22 et RDP en 3389 pour l’administration distante.
+
+---
+
+## 5. Messagerie : SMTP, IMAP et POP3
 
 ### SMTP
-- **SMTP** = envoi de mails
-- Port **25** = ancien port SMTP, souvent bloqué
-- Port **587** = SMTP authentifié, le plus courant
-- Port **465** = SMTP sécurisé SSL/TLS
+
+- Sert à **envoyer** des courriels.
+- Le port **25** est surtout utilisé pour le relais entre serveurs mail.
+- Le port **587** est courant pour l’envoi authentifié côté client.
+- Le port **465** correspond à une connexion SMTP chiffrée SSL/TLS.
 
 ### IMAP
-- **IMAP** = consulter les mails en gardant la synchronisation avec le serveur
-- Port **143** = IMAP non chiffré
-- Port **993** = IMAP sécurisé SSL/TLS
+
+- Sert à **consulter les courriels tout en les gardant synchronisés sur le serveur**.
+- Utile quand l’utilisateur consulte sa boîte mail depuis plusieurs appareils.
+- Ports : **143** non chiffré, **993** chiffré.
 
 ### POP3
-- **POP3** = récupérer les mails en local
-- Port **110** = POP3 non chiffré
-- Port **995** = POP3 sécurisé SSL/TLS
+
+- Sert à **récupérer les courriels en local**.
+- Moins adapté si l’utilisateur veut une synchronisation propre entre plusieurs appareils.
+- Ports : **110** non chiffré, **995** chiffré.
 
 ### Réponse courte entretien
-- SMTP sert à **envoyer**
-- IMAP et POP servent à **recevoir**
-- IMAP est souvent préféré aujourd’hui car il synchronise les mails sur plusieurs appareils
+
+> SMTP sert à envoyer les courriels. IMAP et POP3 servent à les recevoir. Aujourd’hui, IMAP est souvent préféré parce qu’il synchronise les messages entre plusieurs appareils.
 
 ---
 
-## 2. C’est quoi un téléphone IP ?
+## 6. Téléphone IP / VoIP
 
-Un **téléphone IP** est un téléphone qui passe par le **réseau informatique** au lieu d’utiliser une ligne téléphonique analogique classique.
+Un **téléphone IP** est un téléphone qui utilise le réseau informatique pour transmettre la voix, au lieu d’une ligne téléphonique analogique classique.
 
 ### Principe
-- il se connecte au **réseau Ethernet**
-- il communique avec un **serveur de téléphonie IP / IPBX / VoIP**
-- il utilise l’adresse IP du réseau
-- souvent il fonctionne avec le protocole **SIP**
+
+- Il se connecte au réseau Ethernet ou Wi-Fi.
+- Il communique avec un serveur de téléphonie IP, souvent appelé **IPBX**.
+- Il utilise généralement le protocole **SIP** pour établir les appels.
+- La voix circule sous forme de paquets IP sur le réseau.
 
 ### Avantages
-- installation plus simple en entreprise
-- transfert d’appel, messagerie vocale, conférence
-- administration centralisée
-- possible via le réseau local ou Internet
+
+- Administration centralisée.
+- Transfert d’appel, messagerie vocale, conférence.
+- Intégration plus simple avec l’infrastructure réseau.
+- Possibilité d’utiliser le même câblage réseau que les postes informatiques.
 
 ### Réponse courte entretien
-> Un téléphone IP est un téléphone qui utilise le réseau informatique et la VoIP pour transmettre la voix, souvent via SIP, au lieu d’une ligne téléphonique classique.
+
+> Un téléphone IP utilise le réseau informatique et la VoIP pour transmettre la voix. Il fonctionne souvent avec SIP et peut être administré depuis un serveur de téléphonie IP.
 
 ---
 
-## 3. Si le réseau ne fonctionne pas sur un poste : quoi vérifier ?
+## 7. Diagnostic : un poste n’a plus de réseau
 
-### Vérifications de base
-1. vérifier le **câble réseau** ou le **Wi-Fi**
-2. vérifier si la carte réseau est activée
-3. lancer :
-   - `ipconfig`
-   - `ping 127.0.0.1`
-   - `ping passerelle`
-   - `ping 8.8.8.8`
-4. vérifier si le PC reçoit bien une IP du bon réseau
-5. vérifier le **DHCP**, la **passerelle** et le **DNS**
+### Méthode de diagnostic
 
-### Cas classique
-#### Adresse IP en `169.254.x.x`
-- cela signifie souvent que le poste **n’a pas reçu d’adresse IP du serveur DHCP**
-- donc :
-  - problème câble / switch / Wi-Fi
-  - DHCP indisponible
-  - mauvais VLAN
-  - configuration manuelle incorrecte
+1. Vérifier le câble réseau, le Wi-Fi, le switch ou la prise murale.
+2. Vérifier que la carte réseau est activée.
+3. Exécuter `ipconfig /all` pour contrôler l’adresse IP, le masque, la passerelle et le DNS.
+4. Tester la pile TCP/IP avec `ping 127.0.0.1`.
+5. Tester la passerelle avec `ping <adresse_passerelle>`.
+6. Tester Internet avec `ping 8.8.8.8`.
+7. Tester la résolution DNS avec `nslookup google.com`.
+8. Renouveler l’adresse IP avec `ipconfig /release` puis `ipconfig /renew`.
+
+### Cas classique : adresse IP en 169.254.x.x
+
+Une adresse en **169.254.x.x** signifie souvent que le poste n’a pas reçu d’adresse IP du serveur DHCP. Windows s’attribue alors une adresse automatique APIPA.
+
+Causes possibles :
+
+- câble réseau débranché ou défectueux ;
+- port switch ou prise réseau problématique ;
+- mauvais VLAN ;
+- serveur DHCP indisponible ;
+- configuration IP manuelle incorrecte ;
+- problème Wi-Fi ou authentification réseau.
 
 ### Commandes utiles
-- `ipconfig /all`
-- `ipconfig /release`
-- `ipconfig /renew`
-- `ping`
-- `nslookup`
+
+```powershell
+ipconfig /all
+ipconfig /release
+ipconfig /renew
+ping 127.0.0.1
+ping <passerelle>
+ping 8.8.8.8
+nslookup google.com
+```
 
 ### Réponse courte entretien
-> Si le réseau ne fonctionne pas, je vérifie d’abord la connectivité physique, puis l’adresse IP, la passerelle, le DNS et le DHCP. Si le poste a une IP 169.254.x.x, cela indique souvent un problème d’attribution DHCP.
+
+> Si un poste n’a plus de réseau, je commence par la couche physique, puis je vérifie l’adresse IP, la passerelle, le DNS et le DHCP. Si je vois une adresse 169.254.x.x, je pense d’abord à un problème d’attribution DHCP ou de connectivité réseau.
 
 ---
 
-## 4. DHCP et DNS
+## 8. DHCP et DNS
 
 ### DHCP
-- attribue automatiquement :
-  - adresse IP
-  - masque
-  - passerelle
-  - DNS
+
+Le **DHCP** attribue automatiquement la configuration réseau aux postes clients :
+
+- adresse IP ;
+- masque de sous-réseau ;
+- passerelle par défaut ;
+- serveurs DNS.
 
 ### DNS
-- traduit un **nom** en **adresse IP**
-- exemple :
-  - `google.com` → adresse IP
+
+Le **DNS** traduit un nom de domaine en adresse IP.
+
+Exemple :
+
+```text
+google.com -> adresse IP du serveur Google
+```
 
 ### Réponse courte entretien
-> DHCP donne automatiquement la configuration réseau au poste. DNS permet de résoudre les noms de domaine en adresses IP.
 
----
-## 22 = SSH
-- **SSH** = Secure Shell
-- Sert à **se connecter à distance** à une machine en **ligne de commande**
-- Utilisé surtout sur :
-  - serveurs Linux
-  - équipements réseau
-  - parfois Windows avec OpenSSH
-- Communication **chiffrée**
-- Permet :
-  - administration distante
-  - exécution de commandes
-  - transfert sécurisé de fichiers via **SCP** ou **SFTP**
-
-### Exemple
-- se connecter à un serveur Linux
-- administrer un switch ou un routeur
-
-### Réponse entretien
-> Le port 22 correspond à SSH. Il sert à l’administration distante sécurisée d’un système en ligne de commande.
+> DHCP donne automatiquement la configuration réseau à un poste. DNS permet de résoudre les noms de domaine en adresses IP.
 
 ---
 
-## 3389 = RDP
-- **RDP** = Remote Desktop Protocol
-- Sert à **prendre le contrôle à distance d’un poste ou serveur Windows**
-- Permet d’ouvrir une **session graphique complète**
-- Très utilisé pour :
-  - support technique
-  - administration de serveurs Windows
-  - accès à un poste distant
+## 9. Accès distant et transfert de fichiers
 
-### Exemple
-- se connecter à un serveur Windows
-- dépanner un poste utilisateur à distance
+### SSH — port 22
 
-### Réponse entretien
-> Le port 3389 correspond à RDP. Il permet l’accès à distance à l’interface graphique d’un poste ou serveur Windows.
+- Administration distante en ligne de commande.
+- Communication chiffrée.
+- Utilisé sur les serveurs Linux, certains équipements réseau et parfois Windows avec OpenSSH.
+- Permet aussi le transfert sécurisé via **SCP** ou **SFTP**.
 
----
+**Réponse entretien :**
 
-## 21 = FTP
-- **FTP** = File Transfer Protocol
-- Sert à **transférer des fichiers** entre un client et un serveur
-- Port **21** = port de commande
-- Historiquement, le port **20** pouvait servir pour les données en mode actif
-- **FTP n’est pas chiffré** en standard
-- Donc aujourd’hui on préfère souvent :
-  - **SFTP** = via SSH, port 22
-  - **FTPS** = FTP avec chiffrement TLS
+> Le port 22 correspond à SSH. Il sert à administrer un système à distance de manière sécurisée, principalement en ligne de commande.
 
-### Exemple
-- déposer des fichiers sur un serveur
-- récupérer des sauvegardes ou des documents
+### RDP — port 3389
 
-### Réponse entretien
-> Le port 21 correspond à FTP. Il sert au transfert de fichiers, mais il n’est pas sécurisé par défaut.
+- Bureau à distance Windows.
+- Permet d’ouvrir une session graphique complète.
+- Très utilisé pour le support technique et l’administration de serveurs Windows.
 
----
+**Réponse entretien :**
 
-## Différence rapide
-- **SSH (22)** → accès distant en ligne de commande, sécurisé
-- **RDP (3389)** → accès distant avec interface graphique
-- **FTP (21)** → transfert de fichiers, non sécurisé par défaut
-## 5. Ports réseau utiles à connaître en plus
+> Le port 3389 correspond à RDP. Il permet de prendre le contrôle à distance d’un poste ou serveur Windows avec une interface graphique.
+<img width="1274" height="770" alt="image" src="https://github.com/user-attachments/assets/17b7e5d8-aebc-426b-b1f7-1109b8dab3bc" />
 
-- **80** = HTTP
-- **443** = HTTPS
-- **53** = DNS
-- **67/68** = DHCP
-- **22** = SSH
-- **3389** = RDP
-- **21** = FTP
+### FTP — port 21
+
+- Transfert de fichiers entre un client et un serveur.
+- Le port 21 sert au contrôle de session.
+- FTP n’est pas chiffré par défaut.
+- En production, on préfère souvent **SFTP** ou **FTPS**.
+
+**Réponse entretien :**
+
+> Le port 21 correspond à FTP. Il sert au transfert de fichiers, mais il n’est pas sécurisé par défaut. Pour un usage sécurisé, on privilégie SFTP ou FTPS.
 
 ---
 
-## 6. Petite phrase propre pour entretien
+## 10. Différence rapide : SSH, RDP et FTP
 
-> Je connais les bases réseau utiles en support informatique : adressage IP, DHCP, DNS, ports courants, messagerie, et premiers diagnostics en cas de perte de connectivité sur un poste.
+| Protocole | Port | Utilité | Sécurité |
+|---|---:|---|---|
+| SSH | 22 | Ligne de commande distante | Chiffré |
+| RDP | 3389 | Bureau à distance Windows | Chiffré, mais à sécuriser fortement |
+| FTP | 21 | Transfert de fichiers | Non chiffré par défaut |
+
+### Réponse courte entretien
+
+> SSH sert à administrer un système en ligne de commande, RDP permet d’accéder à une interface graphique Windows, et FTP sert au transfert de fichiers. FTP est moins sécurisé s’il n’est pas chiffré.
+
+---
+
+## 11. Phrase finale professionnelle
+
+> Je maîtrise les bases utiles en soutien informatique : diagnostic réseau, adressage IP, DHCP, DNS, ports courants, messagerie, accès distant et premières vérifications sur un poste utilisateur. Mon objectif est de diagnostiquer proprement avant d’appliquer une solution.
