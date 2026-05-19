@@ -1,9 +1,15 @@
 activer mail
+
 <img width="913" height="547" alt="image" src="https://github.com/user-attachments/assets/99c5172d-3923-4b26-87b7-06d9b0f14ad7" />
 bat**courrier.csduroy.qc.ca**
 
-bureau a distance
-
+bureau a distance 3 actions:
+lien vers le script  https://github.com/polo1093/Cours_DEP_SI/blob/main/script/bureau%20a%20distance.bat tout en 1
+<img width="1122" height="886" alt="image" src="https://github.com/user-attachments/assets/ad3f5e29-9a31-4928-bb35-e5115f214abe" />
+<img width="1457" height="924" alt="image" src="https://github.com/user-attachments/assets/5fdedd3b-bb8d-450e-91fa-55118f02081f" />
+puis sc.exe config TermService start= auto >nul 2>&1
+net start TermService >nul 2>&1
+depuis le cle client : Test-NetConnection 192.168.33.135 -Port 3389
 
 
 
