@@ -13,6 +13,9 @@ journal evenemet client
 <img width="1904" height="978" alt="image" src="https://github.com/user-attachments/assets/7bbf02ee-49ed-4ef2-905a-1b17a3ffe412" />
 
 
+performance
+<img width="1411" height="917" alt="image" src="https://github.com/user-attachments/assets/01078e88-dbe8-4fa5-9c90-5b77e40a8ec2" />
+
 
 
 Command powershel sur ordi client
