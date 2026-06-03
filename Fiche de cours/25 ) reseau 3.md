@@ -1,9 +1,9 @@
-activer mail
+# activer mail
 
 <img width="913" height="547" alt="image" src="https://github.com/user-attachments/assets/99c5172d-3923-4b26-87b7-06d9b0f14ad7" />
 bat**courrier.csduroy.qc.ca**
 
-bureau a distance 3 actions:
+# bureau a distance 3 actions:
 lien vers le script  https://github.com/polo1093/Cours_DEP_SI/blob/main/script/bureau%20a%20distance.bat tout en 1
 <img width="1122" height="886" alt="image" src="https://github.com/user-attachments/assets/ad3f5e29-9a31-4928-bb35-e5115f214abe" />
 <img width="1457" height="924" alt="image" src="https://github.com/user-attachments/assets/5fdedd3b-bb8d-450e-91fa-55118f02081f" />
@@ -18,13 +18,13 @@ et ne pas oublier que le mask est : 255.255.255.192
 
 
 
-filtre erreur depuis serveur 
+## filtre erreur depuis serveur 
 <img width="1077" height="799" alt="image" src="https://github.com/user-attachments/assets/4ffce67e-8f35-4258-b00e-097690d0fab6" />
 
-Verrouillage connexion fail
+## Verrouillage connexion fail
 <img width="1787" height="858" alt="image" src="https://github.com/user-attachments/assets/d452a321-19f3-4a81-948d-fc7853c23d15" />
 
-trace de log des echec de connexion
+## trace de log des echec de connexion
 <img width="1668" height="978" alt="image" src="https://github.com/user-attachments/assets/2cfc3496-8406-423a-b254-b28c31f664b2" />
 
 
