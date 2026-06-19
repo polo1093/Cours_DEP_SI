@@ -54,15 +54,6 @@ Competence19.local
 
 <img width="1172" height="819" alt="image" src="https://github.com/user-attachments/assets/9fc63540-bd86-4f61-a988-027e4d877d22" />
 
-### Modifier la sauvegarde
-
-> Note : procédure à confirmer.
-
-<img width="1108" height="774" alt="image" src="https://github.com/user-attachments/assets/c0fe8a99-5637-4a54-b265-d20dee3a9510" />
-
-<img width="895" height="616" alt="image" src="https://github.com/user-attachments/assets/62b80c79-a861-4ed5-ac61-873837dc10ca" />
-
-<img width="935" height="731" alt="image" src="https://github.com/user-attachments/assets/4058848d-cf5b-4097-85f5-77c2480d6cda" />
 
 ---
 
